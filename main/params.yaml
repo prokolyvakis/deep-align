@@ -1,0 +1,30 @@
+## SeqCounter-Fitting Parameters:
+
+# Word embedding file:
+wordfile : '/Users/pro/Desktop/wikipedia-pubmed-and-PMC-w2v.txt'
+# Lambda for word embeddings (normal training):
+LW : 1000
+#0.0001
+#1.0e-09
+# Learning rate:
+eta : 0.01
+# Hyper parameter for Synonym Attract:
+hyper_k1: 10000000
+# Hyper parameter for Antonym Repel:
+hyper_k2: 10000000
+# Training data file:
+train: 'data/not_cheated_attempt.txt'
+# Number of epochs in training:
+epochs: 15
+# Learner; Either AdaGrad or Adam:
+learner: 'adam'
+# Size of batch:
+batchsize: 1024
+# Threshold for gradient clipping:
+clip: 1
+# Whether to pickle the model:
+save: 'False'
+# Output file name:
+outfile: 'save/seqfitted'
+# Whether to evaluate the model during training:
+evaluate: 'False'

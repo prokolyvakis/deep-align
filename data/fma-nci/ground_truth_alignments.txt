@@ -1,0 +1,2772 @@
+iliacus	iliacus	E
+triceps surae	triceps surae	E
+set of carpometacarpal joints	carpometacarpal joint	E
+branch of anterior cerebral artery	anterior cerebral artery branch	E
+wall of smooth endoplasmic reticulum	membrane of the smooth endoplasmic reticulum	E
+mammotroph	lactotrope cell	E
+tympanic membrane	tympanic membrane	E
+set of semicircular ducts	semicircular duct	E
+glucuronic acid	glucuronic acid	E
+umbilical fissure	umbilical fissure	E
+reticulocyte	polychromatophilic erythrocyte	E
+mucosa of urinary bladder	bladder mucosa	E
+plasma membrane	plasma membrane	E
+cartilage of bronchus	bronchus cartilage	E
+gut associated lymphoid tissue	gut associated lymphoid tissue	E
+parafollicular cell of thyroid gland	parafollicular cell	E
+subiculum	subiculum	E
+fibularis longus	peroneus longus	E
+medial forebrain bundle	medial forebrain bundle	E
+glans of clitoris	glans clitoris	E
+cricoid cartilage	cricoid cartilage	E
+cone cell	cone	E
+arteriovenous anastomosis	arteriovenous shunt	E
+set of renal medullae	renal medulla	E
+neuraxis	central nervous system	E
+ischiocavernosus	ischiocavernosus	E
+subscapular artery	subscapular artery	E
+euchromatin	euchromatin	E
+temporalis	temporal muscle	E
+pulmonary vein	pulmonary vein	E
+space of mall	space of mall	E
+capsule of lens	lens capsule	E
+median thyrohyoid ligament	middle thyrohyoid ligament	E
+intestinal secretion	intestinal secretion	E
+external	outer	E
+surface of prostate	surface of the prostate	E
+conchal part of pinna	concha	E
+langerhans cell	langerhans cell	E
+set of cervical vertebrae	cervical vertebra	E
+portion of tissue	tissue	E
+fornix of vagina	vaginal fornix	E
+utriculosaccular duct	utriculosaccular duct	E
+left renal vein	left renal vein	E
+epithelial cell of thymus	thymic epithelial cell	E
+pupil	pupil	E
+submucosa of bronchus	bronchus submucosa	E
+left subcostal vein	left subcostal vein	E
+sympathetic nervous system	sympathetic nervous system	E
+thyro arytenoid	thyroarytenoid muscle	E
+flatus	flatus	E
+endosteum	endosteum	E
+middle cardiac vein	middle cardiac vein	E
+nuclear lamin	nuclear lamin	E
+long insular gyrus	gyrus longus insulae	E
+pulmonary lobule	pulmonary acinus	E
+prostatic urethra	prostatic portion of the male urethra	E
+bone of pisiform	pisiform bone	E
+amygdala	amygdala	E
+intervertebral disk	intervertebral disc	E
+brachiocephalic vein	innominate vein	E
+duct	duct	E
+threonine	threonine	E
+occlusal surface of tooth	occlusal surface	E
+set of dorsal interossei of foot	dorsal foot interosseous muscle	E
+sternohyoid	sternohyoid	E
+oropharynx	oropharynx	E
+medial rectus	medial rectus muscle	E
+fourth ventricle	fourth ventricle of the brain	E
+hyoid bone	hyoid bone	E
+chromatin	chromatin	E
+stereocilium	stereocilium	E
+tarsal plate of eyelid	tarsal plate	E
+xiphoid process	xiphoid process	E
+intercostal muscle	intercostal muscle	E
+set of spinal nerves	spinal nerve	E
+t helper cell type 2	type 2 helper cell	E
+t helper cell type 1	type 1 helper cell	E
+toe	toe	E
+set of anterior auricular veins	anterior auricular vein	E
+primordial germ cell	primordial germ cell	E
+main submandibular duct	submandibular duct	E
+exocrine pancreas	exocrine pancreas	E
+smooth muscle tissue	smooth muscle tissue	E
+thymocyte	thymocyte	E
+root of tooth	radix dentis	E
+left coronary artery	left coronary artery	E
+tract of spinal cord	spinal cord tract	E
+scrotum	scrotum	E
+lumbar vertebra	lumbar spine	E
+cell junction	cell junction	E
+female genital system	female genitalia	E
+muscle of neck	neck muscle	E
+structural gene	structural gene	E
+cube	cube	E
+epithelial cell	epithelial cell	E
+set of cervical glands	cervical gland	E
+processus cochleariformis	processus cochleariformis	E
+root of spinal nerve	spinal nerve root	E
+posterior surface of stomach	posterior surface of the stomach	E
+prostatic stroma	prostatic stroma	E
+vertebral arch	arch of the vertebra	E
+cis golgi network	cis golgi network	E
+set of pericardiacophrenic veins	pericardiacophrenic vein	E
+arcuate nucleus of hypothalamus	arcuate nucleus	E
+iliolumbar vein	iliolumbar vein	E
+perineurium	perineurium	E
+set of arachnoid granulations	arachnoid villus	E
+set of phalanges of foot	foot phalanx	E
+set of superior vesical arteries	superior vesical artery	E
+longissimus thoracis	longissimus thoracis	E
+bone marrow cell	bone marrow blood forming cell	E
+estrogen	estrogen	E
+set of lymph nodes of head and neck	head and neck lymph node	E
+set of papillae of tongue	papilla of the tongue	E
+sarcoplasm	sarcoplasm	E
+set of minor salivary glands	minor salivary gland	E
+right lobe of liver	right lobe of the liver	E
+cuneiform cartilage	cuneiform cartilage	E
+basal layer of endometrium	basal layer of the endometrium	E
+common cardinal vein	common cardinal vein	E
+rectum	rectum	E
+orbicularis oculi	orbicularis oculi	E
+intestinal mucosa	intestinal mucosa	E
+pinealocyte	pinealocyte	E
+phalanx of middle finger	middle phalanx of the hand	E
+oocyte	oocyte	E
+vomer	vomer	E
+posterior limiting lamina of cornea	descemet s membrane	E
+peduncle of midbrain	crus cerebri	E
+sex chromosome	sex chromosome	E
+outer membrane of mitochondrion	outer mitochondrial membrane	E
+embryonic tissue	embryonic tissue	E
+mucosa of stomach	gastric mucosa	E
+leptomeninx	leptomeninges	E
+cardiac muscle tissue	myocardium	E
+inner cell mass	inner cell mass	E
+glenohumeral joint	shoulder joint	E
+caproic acid	caproic acid	E
+myeloid stem cell	bone marrow myeloid stem cell	E
+primary oocyte	primary oocyte	E
+epithelium of trachea	tracheal epithelium	E
+eighth thoracic vertebra	thoracic 8 vertebra	E
+e cadherin	e cadherin	E
+brush border	striated border	E
+pseudostratified columnar epithelium	pseudostratified columnar epithelium	E
+pectoral girdle	shoulder girdle	E
+inferior pancreaticoduodenal artery	inferior pancreatico duodenal artery	E
+medial tarsal artery	medial tarsal artery	E
+p selectin	p selectin	E
+superior thyroid artery	superior thyroid artery	E
+ribonucleic acid	ribonucleic acid	E
+prostatic utricle	utricle	E
+umbilical cord	umbilical cord	E
+coronary artery	coronary artery	E
+internal jugular vein	internal jugular vein	E
+median artery	median artery	E
+trigone of urinary bladder	bladder trigone	E
+steroid hormone	steroid hormone	E
+sciatic nerve	sciatic nerve	E
+perianal skin	anal margin	E
+humerus	humerus	E
+anterior segment of eyeball	anterior eye segment	E
+transitional epithelium of renal pelvis	renal pelvis urothelium	E
+secondary tooth	permanent tooth	E
+interventricular septum	interventricular septum	E
+gastrophrenic ligament	gastrophrenic ligament	E
+cauda equina	cauda equina	E
+set of aggregated lymphoid nodules of small intestine	peyer s patch	E
+superior rectus	superior rectus muscle	E
+systemic vein	systemic vein	E
+alpha adrenergic receptor	alpha adrenergic receptor	E
+coronary sinus	coronary sinus	E
+temporal vein	temporal vein	E
+yolk sac	yolk sac	E
+respiratory bronchiole	respiratory bronchiole	E
+nucleus of solitary tract	solitary nucleus	E
+pulmonary arterial trunk	pulmonary artery	E
+vertebral arch joint	facet joint	E
+thyrohyoid ligament	thyrohyoid ligament	E
+secondary dentition	permanent tooth	E
+set of parasternal lymph nodes	internal mammary lymph node	E
+testicular artery	spermatic artery	E
+set of maxillary veins	internal maxillary vein	E
+cutaneous muscle	cutaneous muscle	E
+wall of rough endoplasmic reticulum	membrane of the rough endoplasmic reticulum	E
+cochlea	cochlea	E
+cell component	cell structure	E
+protoplasmic astrocyte	protoplasmic astrocyte	E
+hepatic perisinusoidal space	perisinusoidal space	E
+internal ear	internal ear	E
+clavicle	clavicle	E
+appendicular skeleton	appendicular skeleton	E
+set of spaces of iridocorneal angle	space of fontana	E
+dorsal metatarsal vein	dorsal metatarsal vein	E
+distal medial striate artery	recurrent artery of heubner	E
+set of muscles of tongue	tongue muscle	E
+dorsum of tongue	dorsum of the tongue	E
+axon	axon	E
+cementoblast	cementoblast	E
+set of nasal cartilages	nasal cartilage	E
+venous trunk	venous	E
+trigeminal nerve	trigeminal nerve	E
+external capsule	external capsule	E
+anterior surface of stomach	anterior surface of the stomach	E
+ostium of superior vena cava	superior vena cava opening	E
+histamine	histamine	E
+cc chemokine	beta chemokine	E
+epithelium of urethra	urethra epithelium	E
+eotaxin	small inducible cytokine a 1 1	E
+ileocecal valve	ileocecal valve	E
+eyelid	eyelid	E
+splenic artery	splenic artery	E
+proximal epiphysis of tibia	head of the tibia	E
+transitional epithelial cell	transitional cell	E
+muscular layer of bladder	bladder muscular coat	E
+pluripotent stem cell	pluripotent stem cell	E
+psoas minor	psoas minor	E
+lower lobe of right lung	lower lobe of the right lung	E
+diaphragm	diaphragm	E
+submandibular gland	submandibular gland	E
+proximal	nearest	E
+inferior temporal sulcus	inferior temporal sulcus	E
+olfactory tract	olfactory tract	E
+ileocolic vein	ileocolic vein	E
+palmitic acid	palmitic acid	E
+mesodermal cell	mesoderm cell	E
+back of abdomen	lumbar region	E
+set of superficial temporal veins	superficial temporal vein	E
+horizontal part of duodenum	third portion of the duodenum	E
+tibial	tibia	E
+cochlear nerve	cochlear nerve	E
+sphenoid bone	sphenoid bone	E
+spleen	spleen	E
+anocutaneous line	anocutaneous line	E
+set of efferent ductules	efferent ductule	E
+hair shaft	shaft of the hair	E
+brachial vein	brachial vein	E
+ileal vein	ileal vein	E
+anterior longitudinal ligament	anterior longitudinal ligament	E
+rete testis	rete testis	E
+anal sinus	anal sinus	E
+endocrine gland	endocrine gland	E
+urothelium	urothelium	E
+neuron	neuron	E
+cylinder	cylinder	E
+cochlear nucleus	cochlear nucleus	E
+gustatory pore	taste pore	E
+anterior cruciate ligament	anterior cruciate ligament	E
+branch of posterior cerebral artery	posterior cerebral artery branch	E
+foramen magnum	foramen magnum	E
+laryngeal cartilage	laryngeal cartilage	E
+skin of prepuce of penis	prepuce	E
+finger	finger	E
+gonadotroph	gonadotrope cell	E
+set of renal veins	renal vein	E
+myoblast	myoblast	E
+set of vallate papillae	circumvallate papilla	E
+anterior parietal artery	anterior parietal artery	E
+sixth cervical vertebra	c 6 vertebra	E
+centromere	centromere	E
+inguinal lymph node	inguinal lymph node	E
+brush cell	brush cell	E
+lymphatic vessel	lymphatic vessel	E
+proximal phalanx of toe	proximal phalanx of foot	E
+fibrous capsule of kidney	renal capsule	E
+phagosome	phagosome	E
+neural crest	neural crest	E
+lactiferous terminal ductal lobular unit	terminal ductal lobular unit	E
+pharynx	pharynx	E
+oncocyte	oxyphil cell	E
+inferior mesenteric artery	inferior mesenteric artery	E
+stapedius	stapedius muscle	E
+ampullary crest of semicircular duct	ampullary crest	E
+fundus of urinary bladder	bladder fundus	E
+septum primum	septum primum	E
+linker dna	linker dna	E
+bone of lunate	lunate bone	E
+corpus striatum	striatum	E
+pyloric antrum	antrum pylori	E
+set of anterior tibial veins	anterior tibial vein	E
+body of uterus	corpus uteri	E
+sphincter pupillae	sphincter pupillae muscle	E
+inner part of external acoustic tube	pars interna	E
+myeloblast	myeloblast	E
+caudal	caudal	E
+fibrous astrocyte	fibrous astrocyte	E
+external carotid artery	external carotid artery	E
+ganglion	ganglion	E
+inferior nasal concha	inferior turbinate	E
+sternothyroid	sternothyroid	E
+set of common iliac lymph nodes	iliac lymph node	E
+hepatic sinusoid	hepatic sinusoid	E
+astrocyte	astrocyte	E
+surface of bone	bone surface	E
+posterior surface of lens	facies posterior lentis	E
+integument of limb	skin of the extremity	E
+fusiform gyrus	occipital temporal gyrus	E
+left suprarenal vein	left suprarenal vein	E
+main bronchus	main bronchus	E
+bone of scaphoid	scaphoid bone	E
+anterior cranial fossa	anterior fossa	E
+sulcus limitans	sulcus limitans	E
+myristic acid	myristic acid	E
+cardiovascular system	cardiovascular system	E
+midbrain tectum	tectum mesencephali	E
+interstitial cell of leydig	leydig cell	E
+collateral sulcus	collateral fissure	E
+right lung	right lung	E
+cave of septum pellucidum	fifth ventricle	E
+eyeball	eye	E
+lateral	lateral	E
+photoreceptor	photoreceptor cell	E
+set of olfactory nerves	olfactory nerve	E
+interleukin 1 3	interleukin 1 3	E
+interleukin 1 2	interleukin 1 2	E
+interleukin 1 0	interleukin 1 0	E
+interleukin 1 7	interleukin 1 7	E
+circular muscle layer of abdominal part of esophagus	lower esophageal sphincter	E
+cerebral crus	crus cerebri	E
+monoblast	monoblast	E
+interleukin 1 8	interleukin 1 8	E
+biceps brachii	biceps	E
+olfactory trigone	trigonum olfactorium	E
+lateral thyrohyoid ligament	lateral thyrohyoid ligament	E
+septum pellucidum	septum pellucidum	E
+lesser trochanter	lesser trochanter	E
+left ovary	left ovary	E
+pericardial sac	pericardium	E
+arm	arm	E
+right testicular vein	right spermatic vein	E
+superior hypophysial artery	superior hypophyseal artery	E
+masseter	masseter muscle	E
+goblet cell of small intestine	small intestinal goblet cell	E
+set of nasal muscles	nasal muscle	E
+striated muscle cell	striated muscle tissue cell	E
+aspartic acid	aspartic acid	E
+superior	superior	E
+betaglycan	transforming growth factor beta receptor iii	E
+kidney	kidney	E
+leucine	leucine	E
+levator ani	levator ani	E
+third lumbar vertebra	lumbar 3 vertebra	E
+external acoustic tube	external acoustic meatus	E
+choroid plexus of lateral ventricle	choroid plexus of the lateral ventricle	E
+superior temporal gyrus	superior temporal gyrus	E
+feces	feces	E
+follicular dendritic cell	follicular dendritic cell	E
+internal thoracic vein	internal thoracic vein	E
+left gastric vein	coronary vein	E
+small cardiac vein	small cardiac vein	E
+pharyngotympanic tube	eustachian tube	E
+olfactory nerve	olfactory nerve	E
+set of dopaminergic cells	dopaminergic cell	E
+brown adipose tissue	brown adipose tissue	E
+terminal sulcus	sulcus terminalis	E
+lower limb	lower extremity	E
+interleukin 1 2 b	interleukin 1 2 b	E
+interleukin 1 2 a	interleukin 1 2 a	E
+thigh	thigh	E
+pia arachnoid	leptomeninges	E
+natural killer cell	natural killer cell retired	E
+seminal fluid	seminal fluid	E
+blast cell	blast cell	E
+labyrinthine artery	internal auditory artery	E
+hepatic macrophage	kupffer cell	E
+tensor tympani	tensor tympani	E
+arteriole	arteriole	E
+hypophysial fossa	sella turcica	E
+dentine	dentin	E
+interphase chromosome	interphase chromosome	E
+keratinized squamous cell of esophagus	esophageal squamous cell	E
+dentition	tooth	E
+muscle of pelvic diaphragm	pelvic floor muscle	E
+clear cell	clear cell	E
+crypt of lieberkuhn	crypts of the lieberkuhn	E
+neuroendocrine cell	neuroendocrine cell	E
+round ligament of uterus	round ligament	E
+respiratory system	respiratory system	E
+set of coronary arteries	coronary artery	E
+tibia	tibia	E
+t lymphoblast	t lymphoblast	E
+common palmar digital artery	common palmar digital artery	E
+forearm	forearm	E
+lobe of thyroid gland	thyroid gland lobe	E
+internal carotid artery	internal carotid artery	E
+inferior frontal sulcus	inferior frontal sulcus	E
+semicircular duct	semicircular duct	E
+microtubule associated protein	microtubule associated protein	E
+cell coat	glycocalyx	E
+zygomatic arch	zygomatic arch	E
+deep lymphatic vessel	deep lymphatic vessel	E
+lateral aperture of fourth ventricle	foramen of luschka	E
+pillar cell of cochlea	pillar cell	E
+accessory pancreatic duct	ductus santorini	E
+extrahepatic bile duct	extrahepatic bile duct	E
+dilatator pupillae	dilator pupillae muscle	E
+oculomotor nerve	oculomotor nerve	E
+erector spinae muscle group	erector spinae	E
+lung	lung	E
+small saphenous vein	short saphenous vein	E
+epiphysis	epiphysis of the bone	E
+cell	normal cell	E
+cytoplasm	cytoplasm	E
+fifth lumbar vertebra	lumbar 5 vertebra	E
+set of paranasal sinuses	paranasal sinus	E
+intralaminar nuclear group of thalamus	intralaminar nucleus	E
+chromatid	chromatid	E
+vestibular ganglion	vestibular ganglion	E
+actin binding protein	actin binding protein	E
+upper gastrointestinal tract	upper gastrointestinal tract	E
+postcentral sulcus	postcentral sulcus	E
+endothelial cell	endothelial cell	E
+periodontium	periodontium	E
+hematopoietic system	hematopoietic system	E
+pair of lungs	lung	E
+primary hair	lanugo	E
+biliary system	biliary tract	E
+bipolar neuron	bipolar neuron	E
+endothelium of capillary	capillary endothelium	E
+superficial palmar arterial arch	superficial palmar arch	E
+female breast	female breast	E
+cardiac septum	heart septum	E
+primary dentition	temporary tooth	E
+mucoid tissue	mucous connective tissue	E
+white pulp of spleen	splenic white pulp	E
+molar tooth	molar tooth	E
+apex of heart	apex of the heart	E
+set of axillary lymph nodes	axillary lymph node	E
+longissimus capitis	longissimus capitis	E
+anterior choroidal artery	anterior choroidal artery	E
+basal part of pons	pontine base	E
+uncus	uncus	E
+axillary tail of breast	axillary tail of the breast	E
+median lobe of prostate	middle lobe of the prostate	E
+vestibular membrane of cochlear duct	vestibular membrane	E
+left testicular artery	left spermatic artery	E
+incus	incus	E
+digit	digit number	E
+scapha	fossa of the helix	E
+hepatocyte	hepatocyte	E
+theca lutein cell	theca lutein cell	E
+superficial cervical artery	superficial cervical artery	E
+left lung	left lung	E
+lipid bilayer of plasma membrane	plasma membrane lipid bilayer	E
+precentral sulcus	precentral sulcus	E
+set of cerebral gyri	cerebral gyrus	E
+cavity of lysosome	lumen of the lysosome	E
+costochondral joint	costochondral joint	E
+cavity of endosome	lumen of the endosome	E
+alpha cell	alpha cell	E
+anus	anal	E
+set of major salivary glands	major salivary gland	E
+cerebellar cortex	cerebellar cortex	E
+right brachiocephalic vein	right innominate vein	E
+adrenal medulla	adrenal medulla	E
+lamellar bone	mature bone	E
+epithelium of nasopharynx	nasopharynx epithelium	E
+thoracic duct	thoracic duct	E
+line	line	E
+synovial membrane	synovial membrane	E
+keratin filament	keratin filament	E
+valve of coronary sinus	coronary valve	E
+ectodermal cell	ectoderm cell	E
+pectineus	pectineus	E
+middle ear	ear middle ear mmhcc	E
+lip	lip	E
+transitional cell	transitional cell	E
+pancreatic juice	pancreatic secretion	E
+sixth thoracic vertebra	thoracic 6 vertebra	E
+dorsal interosseous of foot	dorsal foot interosseous muscle	E
+teres major	teres major muscle	E
+lateral thoracic artery	lateral thoracic artery	E
+glial fibrillar acidic protein	glial fibrillary acidic protein	E
+white matter of neuraxis	white matter	E
+descending part of duodenum	second portion of the duodenum	E
+stapes	stapes	E
+inferior frontal gyrus	inferior frontal convolution	E
+musculoskeletal system	musculoskeletal system	E
+umbilical artery	umbilical artery	E
+zygote	zygote	E
+left cerebral hemisphere	left cerebral hemisphere	E
+pancreatic duct	pancreatic duct	E
+striated muscle tissue	striated muscle tissue	E
+root canal of tooth	canalis radicis dentis	E
+lymph node	lymph node	E
+fetus	fetus	E
+auditory ossicle	auditory ossicle	E
+body of pancreas	body of the pancreas	E
+set of sigmoid arteries	sigmoid artery	E
+hilum of kidney	hilar area of the kidney	E
+thoracic ganglion	thoracic ganglion	E
+cerebral white matter	cerebral white matter	E
+muscle layer of small intestine	small intestinal muscular coat	E
+superior mediastinum	superior mediastinum	E
+semen	semen	E
+hair	hair	E
+renal papilla	renal papilla	E
+corneal endothelium	corneal endothelium	E
+wrist joint	wrist joint	E
+pylorus	pylorus	E
+septum secundum	septum secundum	E
+submucosa	submucosa	E
+semimembranosus	semimembranosus	E
+coccygeal vertebra	coccygeal vertebra	E
+odontoblast	odontoblast	E
+adrenocorticotropin	adrenocorticotropic hormone	E
+bone marrow	bone marrow	E
+type 2 muscle cell	muscle fibers fast twitch	E
+peritoneum	peritoneum	E
+cisterna chyli	chyle cistern	E
+dorsal nasal artery	dorsal nasal artery	E
+tibial collateral ligament	medial collateral ligament of the knee	E
+broad ligament of uterus	lateral ligament	E
+submandibular duct	submandibular duct	E
+mucosa of anal canal	anal mucosa	E
+simple squamous epithelium	simple squamous epithelium	E
+squamous cell of epidermis	skin squamous cell	E
+facial vein	facial vein	E
+tragus	tragus	E
+arachnoid villus	arachnoid villus	E
+branch of ulnar artery	ulnar artery branch	E
+hormone	therapeutic hormone	E
+set of hamstring muscles	hamstring	E
+spermatid	spermatid	E
+periventricular nucleus	arcuate nucleus	E
+left inguinal part of abdomen	left inguinal region	E
+atlanto occipital joint	atlanto occipital joint	E
+skin of abdomen	abdominal skin	E
+blood vessel viewed macroscopically	blood vessel	E
+cymba conchae of pinna	cymba conchae	E
+subdivision of internal carotid artery	internal carotid artery branch	E
+set of medial tarsal arteries	medial tarsal artery	E
+posterior segment of eyeball	posterior eye segment	E
+autosome	autosome	E
+trunk of internal oblique branch of left ilioinguinal nerve	nasal mucus	E
+intron	intron	E
+totipotent neuroepithelial stem cell	totipotent neuroepithelial stem cell	E
+crico oesophageal tendon	cricoesophageal tendon	E
+canine tooth	canine tooth	E
+thymic vein	thymic vein	E
+lingual salivary gland	lingual salivary gland	E
+islet cell	islet of langerhans	E
+callosomarginal artery	callosomarginal artery	E
+internal cerebral vein	internal cerebral vein	E
+skin of lip	skin of the lip	E
+buccal part of mouth	cheek	E
+primordium	primordium	E
+costal cartilage	costal cartilage	E
+skin of trunk	skin of the trunk	E
+low density lipoprotein	low density lipoprotein	E
+crico arytenoid joint	cricoarytenoid joint	E
+glycine	glycine	E
+unilaminar epithelium	simple epithelium	E
+sublingual gland	sublingual salivary gland	E
+actin	actin	E
+bone tissue	bone tissue	E
+body of nail	body of the nail	E
+set of eyebrows	eyebrow	E
+serosa	serosa	E
+isthmus of hair follicle	hair follicle isthmus	E
+serous membrane	serosa	E
+set of uterine glands	uterine gland	E
+left common iliac artery	left common iliac artery	E
+cerebral aqueduct	cerebral aqueduct	E
+distal convoluted tubule	distal convoluted tubule	E
+vimentin	vimentin protein	E
+plantar part of foot	plantar region	E
+hilum of lymph node	lymph node hilum	E
+p cadherin	p cadherin	E
+crypt of lieberkuhn of small intestine	small intestinal crypt of lieberkuhn	E
+sural artery	external sural artery	E
+mesonephros	mesonephros	E
+neck of femur	femoral neck	E
+e selectin	e selectin	E
+frontal lobe	frontal lobe	E
+mitochondrial matrix	mitochondrial matrix	E
+postcentral gyrus	postcentral gyrus	E
+set of dorsal metatarsal veins	dorsal metatarsal vein	E
+neck of urinary bladder	bladder neck	E
+gastrointestinal tract	gastrointestinal tract	E
+abdominal lymph node	intra abdominal lymph node	E
+lipid	lipid	E
+papilla of tongue	papilla of the tongue	E
+gallbladder	gallbladder	E
+lateral cerebellomedullary cistern	inferior cerebellopontine cistern	E
+endocardium	endocardium	E
+beta cell	beta cell	E
+free ribosome	free ribosome	E
+outer layer of endometrium	functional layer of the endometrium	E
+longitudinal	longitudinal	E
+ciliated columnar cell of tracheobronchial tree	ciliated bronchial epithelial cell	E
+pancreatic acinus	pancreatic acinus	E
+endosteal cell	endosteal cell	E
+corniculate cartilage	corniculate cartilage	E
+external supporting cell of vestibular epithelium	clear cell	E
+secretory granule	secretory granule	E
+isthmus of thyroid gland	thyroid gland isthmus	E
+portion of plasma	plasma	E
+antitragus	antitragus	E
+ureter	ureter	E
+heparan sulfate proteoglycan	heparan sulfate proteoglycan	E
+haversian canal	haversian canal	E
+mons pubis	mons pubis	E
+mitral valve	mitral valve	E
+corticotropin	adrenocorticotropic hormone	E
+short bone	short bone	E
+right kidney	right kidney	E
+anal gland	anal gland	E
+vastus lateralis	vastus lateralis	E
+transversus abdominis	transversus abdominis	E
+cardiac atrium	cardiac atrium	E
+axodendritic synapse	axodendritic synapse	E
+right coronary artery	right coronary artery	E
+thymine	thymine	E
+ganglionic layer of retina	ganglion cell layer	E
+osteoid	osteoid	E
+skin of external ear	ear skin	E
+phagocyte	phagocytic cell	E
+cochlear inner hair cell	type i hair cell	E
+shoulder	shoulder	E
+insula	central lobe	E
+epitympanic recess	epitympanic recess	E
+set of vertebrae	vertebral	E
+bronchial artery	bronchial artery	E
+mononuclear phagocyte system	reticuloendothelial system	E
+set of eyelashes	eyelash	E
+submucosa of trachea	trachea submucosa	E
+anterior limiting lamina of cornea	bowman s membrane	E
+masseteric artery	masseteric artery	E
+inferior vestibular nucleus	spinal vestibular nucleus	E
+metathalamus	geniculate body	E
+promonocyte	promonocyte	E
+abdominal part of esophagus	abdominal esophagus	E
+vocalis	vocalis muscle	E
+muscle of pharynx	pharyngeal muscle	E
+set of renal pyramids	renal pyramid	E
+posterior surface of prostate	posterior surface of the prostate	E
+triquetral	triangular bone	E
+posterior	back	E
+uncinate process of pancreas	uncinate pancreas	E
+juxtaglomerular complex	juxtaglomerular apparatus	E
+external pyramidal layer of neocortex	external pyramidal cell layer	E
+sternocleidomastoid	sternocleidomastoid muscle	E
+granular component of nucleolus	nucleolonema	E
+ligament	ligament	E
+mesangial cell	mesangial cell	E
+genu of corpus callosum	genu of the corpus callosum	E
+epithelium of bronchiole	bronchiole epithelium	E
+fascia organ	fascia	E
+upper jaw	upper jaw	E
+parathyroid gland	parathyroid gland	E
+renal column	cortical column	E
+circular fold of small intestine	valve of kerckring	E
+epithelium of conjunctiva	conjunctival epithelium	E
+mesothelial cell of peritoneum	peritoneal mesothelial cell	E
+plasma cell	plasma cell	E
+somatostatin	growth hormone release inhibiting factor	E
+postcapillary venule	postcapillary venule	E
+nucleosome	nucleosome	E
+facial artery	facial artery	E
+chemical synapse	chemical synapse	E
+calcaneal tendon	achilles tendon	E
+longus capitis	longus capitis	E
+posterior cruciate ligament	posterior cruciate ligament	E
+fusiform cell	fusiform cell	E
+liver	liver	E
+ventral	ventral	E
+lactiferous duct	lactiferous duct	E
+protoplasm	protoplasm	E
+hypoglossal nerve nucleus	nucleus of the hypoglossal nerve	E
+buccal mucosa	buccal mucosa	E
+chest wall	chest wall	E
+inner membrane of mitochondrion	inner mitochondrial membrane	E
+sphenoparietal sinus	sphenoparietal sinus	E
+root of nail	root of the nail	E
+myometrium	myometrium	E
+mucosa of esophagus	esophageal mucosa	E
+vertebral vein	vertebral vein	E
+plus end of actin filament	plus end of the actin filament	E
+retromolar triangle	retromolar trigone	E
+zygomaticus minor	zygomaticus minor	E
+interosseous muscle of hand	hand interosseous muscle	E
+fenestrated capillary	fenestrated capillary	E
+globular actin	g actin	E
+muscle of tongue	tongue muscle	E
+cerebellopontine angle	cerebellopontine angle	E
+vestibular nerve	vestibular nerve	E
+integument	skin	E
+bronchial associated lymphoid tissue	bronchus associated lymphoid tissue	E
+outer nuclear layer of retina	outer nuclear layer of retina	E
+type d cell of pancreatic islet	delta cell of the pancreas	E
+anterior semicircular canal	superior semicircular canal	E
+cell nucleus	nucleus	E
+hip joint	hip joint	E
+portion of connective tissue	connective tissue	E
+posterior wall of laryngopharynx	posterior wall of the hypopharynx	E
+anterior cerebral artery	anterior cerebral artery	E
+genioglossus	genioglossus	E
+nerve plexus	nerve plexus	E
+deep temporal vein	deep temporal vein	E
+roof of nasopharynx	superior wall of the nasopharynx	E
+nervous system	nervous system	E
+genital system	genital	E
+axilla	axillary	E
+principal sensory nucleus of trigeminal nerve	principal sensory nucleus of the trigeminal nerve	E
+surface	surface	E
+hypoglossal nerve	hypoglossal nerve	E
+dental pulp	dental pulp	E
+sternum	sternum	E
+sigmoid artery	sigmoid artery	E
+muscularis mucosae of small intestine	small intestinal muscularis mucosa	E
+left main bronchus	left main bronchus	E
+pyloric orifice	pyloric orifice	E
+basal cell layer of epidermis	stratum basale	E
+flat bone	flat bone	E
+set of transverse folds of rectum	transverse rectal fold	E
+prepuce of clitoris	female prepuce	E
+olfactory groove	olfactory sulcus	E
+trachea	trachea	E
+thrombospondin	thrombospondin	E
+bronchiolar non ciliated cell	clara cell	E
+intraparietal sulcus	intraparietal sulcus	E
+mediastinal lymph node	mediastinal lymph node	E
+cone	cone	E
+endothelium of lymphatic vessel	lymphatic vessel endothelium	E
+fibrocartilage	fibrocartilage	E
+lymphoid tissue	lymphoid tissue	E
+vasa vasorum	vasa vasorum	E
+cytokine	cytokine	E
+inferior sagittal sinus	inferior sagittal sinus	E
+auditory system	auditory system	E
+tyrosine	tyrosine	E
+coracobrachialis	coracobrachialis	E
+continuous capillary	continuous capillary	E
+inferior rectal artery	inferior rectal artery	E
+multipolar neuron	multipolar neuron	E
+tonsillar ring	waldeyers tonsillar ring	E
+medial plantar artery	medial plantar artery	E
+renal fascia	renal capsule	E
+high densitiy lipoprotein	high density lipoprotein	E
+superior thoracic artery	superior thoracic artery	E
+lower jaw	lower jaw	E
+red pulp of spleen	splenic red pulp	E
+transport vesicle	transport vesicle	E
+tooth	tooth	E
+branch of vertebral artery	vertebral artery branch	E
+fossa	fossa	E
+set of atlanto axial joints	atlanto axial joint	E
+posterior wall of oropharynx	posterior wall of the oropharynx	E
+thyroidea ima artery variant 	thyroid ima artery	E
+hepatogastric ligament	hepatogastric ligament	E
+set of cerebellar veins	cerebellar vein	E
+thoracic vertebra	thoracic vertebra	E
+diaphysis	diaphysis of the bone	E
+parietal pleura	parietal pleura	E
+exon	exon	E
+set of nails of fingers	fingernail	E
+cephalic vein	cephalic vein	E
+intermembranous space of mitochondrion	intermembrane space of the mitochondrion	E
+ulna	ulna	E
+left hepatic duct	left hepatic duct	E
+merkel cell	merkel cell	E
+lesser omentum	lesser omentum	E
+pectoral muscle	pectoralis muscle	E
+submandibular ganglion	submandibular ganglion	E
+neuroblast	neuroblast	E
+rough endoplasmic reticulum cistern	cisterna of the rough endoplasmic reticulum	E
+levator labii superioris	levator labii superioris	E
+temporal bone	temporal bone	E
+lateral sulcus	fissure of sylvius	E
+neck	neck	E
+membrane	membrane	E
+common fibular nerve	peroneal nerve	E
+proline	proline	E
+glandular cell of small intestine	small intestinal glandular cell	E
+lymphocyte	lymphocyte	E
+node of ranvier	node of ranvier	E
+elbow joint	elbow joint	E
+left uterine tube	left fallopian tube	E
+vagina	vaginal	E
+eleventh thoracic vertebra	thoracic 1 1 vertebra	E
+tryptophan	tryptophan	E
+cerumen	cerumen	E
+thyroid cartilage	thyroid cartilage	E
+femur	femur	E
+conus medullaris	conus medullaris	E
+type iv taste bud cell	taste bud basal cell	E
+set of interphalangeal joints of foot	interphalangeal joint of the foot	E
+cavernous sinus	cavernous sinus	E
+pulmonary acinus	pulmonary acinus	E
+gonad	gonad	E
+palate	palate	E
+substantia nigra	substantia nigra	E
+carpal bone	carpal bone	E
+lateral rectus	lateral rectus muscle	E
+bone of hamate	hamate bone	E
+type i cell of carotid body	glomus cell	E
+nutrient canal	haversian canal	E
+caudate lobe of liver	lobus caudatus	E
+ventral lateral nucleus	ventrolateral nucleus of the thalamus	E
+prostatic capsule	capsule of the prostate	E
+basilic vein	basilic vein	E
+lower gastrointestinal tract	lower gastrointestinal tract	E
+wall of body of uterus	wall of body of uterus	E
+cranial nerve	cranial nerve	E
+fibular	fibula	E
+irregular bone	irregular bone	E
+lunate	lunate bone	E
+ovarian cortex	ovarian cortex	E
+microtubule	microtubule	E
+membrane of mitochondrion	mitochondrial membrane	E
+hypogastrium	hypogastric region	E
+set of thoracic lymph nodes	thoracic lymph node	E
+root of sacral nerve	sacral spinal nerve root	E
+phrenic artery	phrenic artery	E
+testicular vein	spermatic vein	E
+cranial	skull	E
+episcleral layer of eyeball	episclera	E
+protein	protein	E
+sphenoidal sinus	sphenoid sinus	E
+eccrine sweat gland	eccrine sweat gland	E
+left lobe of liver	left lobe of the liver	E
+dopamine	dopamine base	E
+adhesive belt	zonula adherens	E
+third thoracic vertebra	thoracic 3 vertebra	E
+superior suprarenal artery	superior suprarenal artery	E
+tectal plate	quadrigeminal body	E
+volume	volume	E
+colostrum	colostrum	E
+fibrous capsule of thyroid gland	thyroid gland capsule	E
+tail of epididymis	tail of the epididymis	E
+axillary vein	axillary vein	E
+corneoscleral junction	corneoscleral limbus	E
+right renal artery	right renal artery	E
+posterior spinal artery	posterior spinal artery	E
+melanocyte	melanocyte	E
+plexiform layer of cerebral cortex	molecular layer	E
+axillary artery	axillary artery	E
+troponin t	troponin t	E
+cell to matrix adherens junction	cell to extracellular matrix junction	E
+anterior temporal artery	anterior temporal artery	E
+pyramidalis	pyramidalis	E
+apical	apical	E
+troponin i	troponin i	E
+azygos vein	azygos vein	E
+right hypochondrium	right hypochondriac region	E
+skin of neck	neck skin	E
+nonsynovial joint	synarthrosis	E
+anterior jugular vein	anterior jugular vein	E
+fimbria of hippocampus	fimbria	E
+capsule of parathyroid gland	parathyroid gland capsule	E
+set of ciliary glands	gland of moll	E
+blood cell	peripheral blood cell	E
+outside	external	E
+renal corpuscle	renal corpuscle	E
+chromophobe cell	chromophobe cell	E
+macula of utricle of membranous labyrinth	macula of utricle	E
+ligament of liver	liver ligament	E
+mylohyoid	mylohyoid	E
+set of lumbar arteries	lumbar artery	E
+temporal artery	temporal artery	E
+orbital part of inferior frontal gyrus	orbital part of the inferior frontal gyrus	E
+perineum	perineum	E
+hypodermis	superficial fascia	E
+laryngopharynx	hypopharynx	E
+great cerebral vein	great cerebral vein of galen	E
+endocrine pancreas	endocrine pancreas	E
+inferior hypophysial artery	inferior hypophyseal artery	E
+ciliary process	ciliary process	E
+posterior tibial vein	posterior tibial vein	E
+interstitial cell of pineal gland	interstitial cell of the pineal gland	E
+early endosome	early endosome	E
+bulbus cordis	bulbus cordis	E
+thoracic cavity	thoracic cavity	E
+autonomic nervous system	autonomic nervous system	E
+popliteal lymph node	popliteal lymph node	E
+pons	pons varolii	E
+facial nerve	facial nerve	E
+cardiac myocyte	cardiocyte	E
+angular gyrus	angular gyrus	E
+upper limb	upper extremity	E
+glandular cell of endometrium	endometrial cell	E
+endodermal cell	endoderm cell	E
+myelinated nerve fiber	myelinated nerve fiber	E
+vitreous body	vitreous body	E
+mental artery	mental artery	E
+set of internal cerebral veins	internal cerebral vein	E
+lobule	lobule	E
+external iliac vein	external iliac vein	E
+muscle of abdomen	abdominal muscle	E
+cervical nerve	cervical nerve	E
+ligamentum teres of liver	round ligament of the liver	E
+blastocyst	blastocyst	E
+set of duodenal glands	brunner s gland	E
+set of medullary rays of kidney	pyramid of ferrein	E
+femoral artery	femoral artery	E
+lateral ventricle	lateral ventricle	E
+choroid plexus of third ventricle	choroid plexus of the third ventricle	E
+arginine	arginine	E
+nasal mucus	nasal mucus	E
+spiral organ of cochlea	spiral organ of corti	E
+celiac trunk	coeliac artery	E
+parasternal lymph node	internal mammary lymph node	E
+lobule of pinna	lobule of the auricle	E
+hindbrain	hind brain	E
+set of fungiform papillae	fungiform papilla	E
+beta adrenergic receptor	beta adrenergic receptor	E
+extensor carpi radialis longus	extensor carpi radialis longus	E
+interosseous of foot	foot interosseous muscle	E
+plasmablast	plasmablast	E
+right main bronchus	right main bronchus	E
+bronchopulmonary lymph node	bronchial lymph node	E
+olfactory epithelial cell	olfactory epithelial cell	E
+anterior inferior cerebellar artery	anterior inferior cerebellar artery	E
+fascia lata	fascia lata	E
+mesothelial cell	mesothelial cell	E
+cochlear hair cell	hair cell	E
+orifice of auditory tube	orifice of the eustachian tube	E
+dopamine receptor	dopamine receptor	E
+ischium	hip	E
+myofilament	actin filament	E
+upper eyelid	upper eyelid	E
+long bone	long bone	E
+vitreous chamber of eyeball	vitreous chamber	E
+immunoglobulin m	ig m	E
+immunoglobulin a	ig a	E
+endocervix	endocervix	E
+posterior wall of urinary bladder	posterior wall of the bladder	E
+immunoglobulin e	ig e	E
+immunoglobulin d	ig d	E
+vestibulocochlear nerve	vestibulocochlear nerve	E
+uterine tube	fallopian tube	E
+left	left	E
+caudate nucleus	caudate nucleus	E
+glucagon	glucagon	E
+external supporting cell of organ of corti	outer supporting cell	E
+villus	villus	E
+lateral wall of nasopharynx	lateral wall of the nasopharynx	E
+juxtaglomerular cell	juxtaglomerular cell	E
+follicular cell of ovary	follicular ovarian cell	E
+myosin myofilament	thick filament	E
+atrium	cardiac atrium	E
+posterior parietal artery	posterior parietal artery	E
+sarcoplasmic reticulum	sarcoplasmic reticulum	E
+spermatocyte	spermatocyte	E
+hepatic stem cell	liver stem cell	E
+supraspinatus	supraspinatus	E
+peripheral blood cell	peripheral blood cell	E
+anal column	anal column	E
+hemisphere of cerebellum	hemisphere of the cerebellum	E
+luteotropin releasing factor	therapeutic gonadorelin	E
+set of temporal veins	temporal vein	E
+epidermal cell	cell of the epidermis	E
+midgut	midgut	E
+set of pharyngeal muscles	pharyngeal muscle	E
+skin of eyelid	eyelid skin	E
+cervix of uterus	cervix	E
+frontal sinus	frontal sinus	E
+middle mediastinum	middle mediastinum	E
+muscle of face	facial muscle	E
+medulla of thymus	thymus medulla	E
+aqueous humor of eyeball	aqueous humor	E
+parahippocampal gyrus	parahippocampal gyrus	E
+set of auditory ossicles	auditory ossicle	E
+nuclear lamina	nuclear lamina	E
+oculomotor nuclear complex	oculomotor nucleus	E
+right uterine tube	right fallopian tube	E
+argentaffin cell	enterochromaffin cell	E
+anterior surface of kidney	anterior surface of the kidney	E
+nerve root	nerve root	E
+selectin	selectin	E
+special sense organ system	special sense organ system	E
+mediastinum	mediastinum	E
+cerebellomedullary cistern	cisterna magna	E
+late endosome	late endosome	E
+internal pyramidal layer of cerebral cortex	ganglionic layer	E
+superficial temporal vein	superficial temporal vein	E
+posterior wall of nasopharynx	posterior wall of the nasopharynx	E
+hepatopancreatic ampulla	ampulla of vater	E
+set of fontanelles	fontanelle	E
+embryonic structure	embryonic structure	E
+neural cell	neuron	E
+interstitial cell of ovary	theca cell	E
+patellar ligament	patellar ligament	E
+decidua capsularis	decidua capsularis	E
+thyrohyoid	thyrohyoid	E
+elastin fiber	elastin fiber	E
+right subcostal vein	right subcostal vein	E
+lymphoid nodule of spleen	splenic white pulp	E
+rostrum of corpus callosum	rostrum of the corpus callosum	E
+hepatic artery	hepatic artery	E
+fundus of uterus	fundus uteri	E
+head	head	E
+immunoglobulin	immunoglobulin	E
+apex of lung viewed anatomically	apex of the lung	E
+spinal epidural space	epidural spinal canal space	E
+surface of cell	cell surface	E
+alveolar epithelial cell	alveolar cell	E
+chief cell of stomach	chief cell of the stomach	E
+upper lobe of left lung	upper lobe of the left lung	E
+apud cell	apud cell	E
+mitochondrial deoxyribonucleic acid	mitochondrial dna	E
+mitochondrion	mitochondrion	E
+acromion	acromion	E
+triangular ligament	triangular ligament	E
+set of renal columns	cortical column	E
+pelvic lymph node	pelvic lymph node	E
+surface ectoderm	surface ectoderm	E
+mitochondrial crista	mitochondrial crista	E
+set of ligaments	ligament	E
+ligament of larynx	laryngeal ligament	E
+subdivision of superior mesenteric artery	superior mesenteric artery branch	E
+lumbar vertebral column	lumbar spine	E
+umbilical vein	umbilical vein	E
+skin of leg	leg skin	E
+posterior temporal artery	posterior temporal artery	E
+composite	composite	E
+epithelium of gall bladder	gallbladder epithelium	E
+head of epididymis	head of the epididymis	E
+tenth thoracic vertebra	thoracic 1 0 vertebra	E
+inner phalangeal cell of cochlea	inner supporting cell	E
+palpebral conjunctiva	palpebral conjunctiva	E
+bone of cuboid bone	cuboid bone	E
+set of thymic veins	thymic vein	E
+set of neuroglial cells	glial cell	E
+adherens junction	anchoring junction	E
+set of prostatic ducts	prostatic duct	E
+calcarine artery	calcarine artery	E
+popliteus	popliteus muscle	E
+right testis	right testis	E
+longissimus cervicis	longissimus cervicis	E
+tonsil	tonsil	E
+scalene muscle	scalene muscle	E
+middle temporal gyrus	middle temporal gyrus	E
+interdigitating dendritic cell	interdigitating dendritic cell	E
+exocrine gland	exocrine gland	E
+umbilicus	umbilical region	E
+central retinal vein	retinal vein	E
+teres minor	teres minor muscle	E
+axial	axial	E
+gray matter of spinal cord	gray matter of the spinal cord	E
+nail of finger	fingernail	E
+triangular	triangle	E
+capsule of lymph node	lymph node capsule	E
+branch of brachial artery	brachial artery branch	E
+lobule of thymus	thymic lobule	E
+prolactin	prolactin	E
+duodenal gland	brunner s gland	E
+atlas	atlas of the vertebra	E
+set of costovertebral joints	costovertebral joint	E
+leukocyte	leukocyte	E
+cerebral cortex	cortex	E
+mucosa of small intestine	small intestinal mucosa	E
+phalanx of finger	phalanx of the hand	E
+perineal artery	perineal artery	E
+ductus venosus	ductus venosus	E
+fundus of gallbladder	gallbladder fundus	E
+internal anal sphincter	internal anal sphincter	E
+adipocyte	adipocyte	E
+posterior lobe of prostate	posterior lobe of the prostate	E
+calcaneus	calcaneum	E
+myoepithelial cell	myoepithelial cell	E
+muscle cell	muscle cell	E
+lamina lucida	lamina lucida	E
+portal triad	portal triad	E
+circumflex branch of left coronary artery	circumflex branch of the left coronary artery	E
+uracil	uracil	E
+somatotropin	therapeutic growth hormone	E
+extracellular space	extracellular space	E
+nucleolus	nucleolus	E
+platelet	platelet	E
+point	point	E
+lysine	lysine	E
+set of lentiform nuclei	lentiform nucleus	E
+skin of knee	knee skin	E
+lobe of prostate	prostate gland lobe	E
+nuclear matrix	nuclear matrix	E
+fifth thoracic vertebra	thoracic 5 vertebra	E
+hepatic fissure	liver fissure	E
+hamate	hamate bone	E
+obturator vein	obturator vein	E
+descending thoracic aorta	thoracic aorta	E
+rectus abdominis	rectus abdominis	E
+abducens nucleus	abducens nucleus	E
+x chromosome	chromosome x	E
+nodular lymphoid tissue	lymphoid follicle	E
+frontal bone	frontal bone	E
+left lobe of thyroid gland	left thyroid gland lobe	E
+articular disc	meniscus	E
+set of muscles of abdomen	abdominal muscle	E
+right adrenal gland	right adrenal gland	E
+region of prostatic stroma	prostatic stroma	E
+intra ocular part of optic nerve	optic disc	E
+celiac artery	coeliac artery	E
+gastric gland	fundic gland	E
+keratan sulfate	keratan sulfate	E
+distal	distal	E
+set of brachial veins	brachial vein	E
+left adrenal gland	left adrenal gland	E
+subdivision of deep femoral artery	deep femoral artery branch	E
+roof of fourth ventricle	roof of the fourth ventricle	E
+cuneate nucleus	cuneate nucleus	E
+left hypochondrium	left hypochondriac region	E
+coccygeal nerve	coccygeal nerve	E
+glycosaminoglycan	glycosaminoglycan	E
+internal	inner	E
+glycoprotein	glycoprotein	E
+optic nerve	optic nerve	E
+meningothelial cell	meningothelial cell	E
+synaptic cleft	synaptic cleft	E
+body of corpus callosum	body of the corpus callosum	E
+set of oculomotor nuclei	oculomotor nucleus	E
+interstitial cell of cajal	interstitial cell of cajal	E
+endosome	endosome	E
+perimysium	perimysium	E
+orbital compartment	orbit	E
+superior surface of liver	superior surface of the liver	E
+glomerulus	glomerulus	E
+iliocostalis thoracis	iliocostal muscle	E
+skeletal muscle tissue	skeletal muscle tissue	E
+epinephrine	therapeutic epinephrine	E
+longitudinal fissure	longitudinal fissure	E
+gastrocnemius	gastrocnemius muscle	E
+primitive erythroblast	basophilic erythroblast	E
+sella turcica	sella turcica	E
+orbital cavity	orbit	E
+bulbo urethral gland	cowper s gland	E
+posterior inferior cerebellar artery	posterior inferior cerebellar artery	E
+foam cell	foamy macrophage	E
+eye	eye	E
+falx cerebelli	falx cerebelli	E
+amniotic cavity	amniotic cavity	E
+pyloric gland	pyloric gland	E
+geniculate ganglion	geniculate ganglion	E
+totipotent stem cell	totipotent stem cell	E
+portion of cytosol	cytoplasmic matrix	E
+maxilla	maxilla	E
+interstitial cell	interstitial cell	E
+gingival margin	gingival margin	E
+set of lumbar vertebrae	lumbar spine	E
+deep middle cerebral vein	deep middle cerebral vein	E
+galactose	galactose	E
+fourth sacral vertebra	sacral 4 vertebra	E
+fibronectin	fibronectin	E
+band cell	band cell	E
+skeletal system	skeletal system	E
+somatotroph	somatotrope cell	E
+xylose	xylose	E
+bone	bone	E
+gingiva	gingival	E
+membranous cytoplasmic organelle	membranous cytoplasmic organelle	E
+heparan sulfate	heparan sulfate	E
+cementocyte	cementocyte	E
+messenger ribonucleic acid	messenger rna	E
+bone of radius	radius	E
+nose	nasal	E
+set of interphalangeal joints of hand	interphalangeal joint of the hand	E
+dorsal nucleus of vagus nerve	dorsal nucleus of the vagus nerve	E
+nipple	nipple	E
+vestibular labyrinth	vestibular labyrinth	E
+inferior	inferior	E
+set of deep temporal veins	deep temporal vein	E
+enamel	enamel	E
+aortic valve	aortic valve	E
+centrosome	centrosome	E
+external intercostal muscle	external intercostal muscle	E
+set of nerve plexuses	nerve plexus	E
+pectoralis major	pectoralis major	E
+lesser curvature of stomach	lesser curvature	E
+tricuspid valve	tricuspid valve	E
+endothelium of arteriole	arteriole endothelium	E
+distal phalanx of toe	distal phalanx of foot	E
+aponeurosis	aponeurosis	E
+tonsillar crypt	tonsillar crypt	E
+set of sebaceous glands	sebaceous gland	E
+hemopoietic tissue	hematopoietic tissue	E
+erythroid progenitor cell	erythroid progenitor cell	E
+minor salivary gland	minor salivary gland	E
+axial skeleton	axial skeleton	E
+masticatory muscle	muscle of the mastication	E
+bulbar conjunctiva	bulbar conjunctiva	E
+ascending aorta	ascending aorta	E
+falx cerebri	falx cerebri	E
+female urethra	female urethra	E
+ground substance	ground substance	E
+thyroepiglotticus	thyroepiglottic muscle	E
+musculature of anterior abdominal wall	anterior abdominal wall muscle	E
+immune system	immune system	E
+outer nuclear membrane	nuclear outer membrane	E
+smooth muscle cell	smooth muscle tissue cell	E
+maxillary sinus	maxillary sinus	E
+vestibular fold	false vocal cord	E
+alveolus	alveolus	E
+glucagon secreting cell	alpha cell	E
+viscus	viscera	E
+major salivary gland	major salivary gland	E
+set of pancreaticoduodenal veins	pancreatico duodenal vein	E
+vertebral artery	vertebral artery	E
+integumentary system	skin	E
+maxillary artery	maxillary artery	E
+arytenoid cartilage	arytenoid cartilage	E
+scapula	scapula	E
+perilymph	perilymph	E
+column	column	E
+connective tissue cell	connective and soft tissue cell	E
+extensor carpi ulnaris	extensor carpi ulnaris	E
+lung parenchyma	lung tissue	E
+set of metacarpophalangeal joints	metacarpophalangeal joint	E
+superior vesical artery	superior vesical artery	E
+l selectin	selectin l	E
+median nerve	median nerve	E
+laminin	laminin	E
+erythrocyte	erythrocyte	E
+oligodendrocyte	oligodendroglia cell	E
+substantia gelatinosa	substantia gelatinosa	E
+chromosome	chromosome	E
+muscle	muscle tissue	E
+muscle of anterior abdominal wall	anterior abdominal wall muscle	E
+superior cistern	ambient cistern	E
+crypt of lieberkuhn of large intestine	large intestinal crypt of the lieberkuhn	E
+mannose	mannose	E
+epithelium of vagina	vaginal epithelium	E
+hemopoietic stem cell	stem cell	E
+chondrocyte	chondrocyte	E
+hippocampal sulcus	hippocampal fissure	E
+dorsal interosseous of hand	dorsal hand interosseous muscle	E
+lobar bronchus	lobar bronchus	E
+central retinal artery	retinal artery	E
+insulin	regular insulin	E
+chief cell	chief cell	E
+giant cell	giant cell	E
+mesangium	mesangium	E
+chondrocranium	chondrocranium	E
+right lymphatic duct	right lymphatic duct	E
+histone h 4	histone h 4	E
+peripheral blood mononuclear cell	peripheral blood mononuclear cell	E
+histone h 3	histone h 3	E
+histone h 1	histone h 1	E
+leg	leg	E
+ependymal cell	ependymal cell	E
+lipoblast	lipoblast	E
+hippocampus	cornu ammonis	E
+neurotendinous ending	golgi tendon organ	E
+levator palpebrae superioris	levator palpebrae superioris	E
+nuclear pore	nuclear pore	E
+spermatic cord	spermatic cord	E
+glans penis	glans penis	E
+membranous labyrinth	membranous labyrinth	E
+mechanoreceptor	mechanoreceptor cell	E
+ependyma of fourth ventricle	fourth ventricle ependyma	E
+hyaline cartilage	hyaline cartilage	E
+choroid plexus of fourth ventricle	choroid plexus of the fourth ventricle	E
+small intestine	small intestine	E
+type b cell of pancreatic islet	beta cell	E
+histone	histone	E
+secretion of seminal vesicle	seminal vesicle secretion	E
+obturator muscle	obturator muscle	E
+omohyoid	omohyoid	E
+pericardial cavity	pericardial cavity	E
+renal tubule	renal tubule	E
+right ureter	right ureter	E
+pancreas	pancreatic	E
+external jugular vein	external jugular vein	E
+ciliary body	ciliary body	E
+photoreceptor layer of retina	layer of the rods and cones	E
+skull bone	skull	E
+thyrotropin	thyroid stimulating hormone	E
+abducens nerve	abducens nerve	E
+sesamoid bone	sesamoid bone	E
+hemoglobin	hemoglobin	E
+plasma membrane of muscle cell	sarcolemma	E
+diaphragma sellae	diaphragma sellae	E
+chemokine	chemokine	E
+scaffold protein	scaffolding protein	E
+right colic flexure	hepatic flexure	E
+mucosa of upper lip	mucosa of the upper lip	E
+phospholipid	phospholipid	E
+malleus	malleus	E
+omentum	omentum	E
+lymphatic capillary	lymphatic capillary	E
+lateral meniscus	meniscus lateralis	E
+photoreceptor cell	photoreceptor cell	E
+set of openings of pulmonary veins	opening of the pulmonary vein	E
+axillary fossa	axillary	E
+osteocyte	osteocyte	E
+follicle of ovary	ovarian follicle	E
+trunk of nerve to psoas minor	phagosome	E
+thyroid follicle	thyroid gland follicle	E
+set of tonsillar crypts	tonsillar crypt	E
+set of conjunctival glands	gland of krause	E
+interneuron	interneuron	E
+deferent duct	vas deferens	E
+bony labyrinth	osseous labyrinth	E
+ventral root	ventral nerve root	E
+set of transverse planes	transverse plane	E
+cartilage of cuneiform bone	cuneiform cartilage	E
+adenohypophysis	anterior lobe of the pituitary gland	E
+sebum	sebum mmhcc	E
+trunk of left pulmonary artery	left pulmonary artery	E
+set of costochondral joints	costochondral joint	E
+glomerular capsule	bowman s capsule	E
+intestine	intestine	E
+angular artery	angular artery	E
+duodenum	duodenum	E
+epithelium of bronchus	bronchial epithelium	E
+monocyte	monocyte	E
+conjunctival gland	gland of krause	E
+basicranium	base of the skull	E
+portal venous system	portal venous system	E
+capillary	capillary	E
+choroid	choroid	E
+nasolacrimal duct	nasolacrimal duct	E
+sacro iliac joint	sacroiliac joint	E
+guanine	guanine	E
+subscapularis	subscapularis	E
+dendritic cell	dendritic cell	E
+middle frontal gyrus	middle frontal gyrus	E
+proprioceptor	proprioceptor	E
+occipital horn of lateral ventricle	occipital horn of the lateral ventricle	E
+skin of elbow	elbow skin	E
+cell body of neuron	perikaryon	E
+set of cerebral veins	cerebral vein	E
+inferior epigastric artery	inferior epigastric artery	E
+buccal artery	buccal artery	E
+phosphatidylinositol	phosphatidylinositol	E
+disaccharide	disaccharide	E
+abdomen	abdominal	E
+ectocervix	ectocervix	E
+inferior hypogastric nerve plexus	inferior hypogastric nerve plexus	E
+intermediate	intermediate	E
+mesothelial cell of pleura	pleural mesothelial cell	E
+pulmonary artery	pulmonary artery	E
+cricothyroid joint	cricothyroid joint	E
+thoracic lymph node	thoracic lymph node	E
+layer of retina	retina layer	E
+sweat	sweat	E
+set of superior suprarenal arteries	superior suprarenal artery	E
+superficial fascia	superficial fascia	E
+ascending colon	ascending colon	E
+bronchial vein	bronchial vein	E
+epithelium of terminal bronchiole	terminal bronchiole epithelium	E
+columnar cell of endocervix	endocervical columnar cell	E
+flatulence	flatulence	E
+nasopharynx	nasopharynx	E
+carpometacarpal joint	carpometacarpal joint	E
+set of pancreatic veins	pancreatic vein	E
+medial	medial	E
+sacral vertebra	sacral vertebra	E
+anal canal	anal canal	E
+purkinje neuron	purkinje s cell	E
+set of microglial cells	microglia	E
+pectoralis minor	pectoralis minor	E
+antihelix	antihelix	E
+femoral nerve	femoral nerve	E
+schwann cell	schwann cell	E
+fibrillar actin	f actin	E
+serum	serum	E
+larynx	larynx	E
+multilaminar epithelium	stratified epithelium	E
+parietal bone	parietal bone	E
+dermal epidermal junction	dermo epidermal junction	E
+esophageal gland	esophageal gland	E
+membrane protein of mitochondrion	mitochondrial membrane protein	E
+physical state	physical state	E
+subcutaneous adipose tissue	subcutis	E
+set of dorsal metacarpal arteries	dorsal metacarpal artery	E
+myenteric nerve plexus	myenteric nerve plexus	E
+urinary bladder	bladder	E
+left lower first secondary molar tooth	tooth 1 9	E
+bulb of hair follicle	hair bulb	E
+fifth cervical vertebra	c 5 vertebra	E
+luteinizing hormone	therapeutic luteinizing hormone	E
+diencephalon	diencephalon	E
+unipolar neuron	unipolar neuron	E
+axoaxonic synapse	axoaxonic synapse	E
+facial nucleus	facial nerve nucleus	E
+glutamine	glutamine	E
+stratified columnar epithelium	stratified columnar epithelium	E
+peritoneal macrophage	peritoneal macrophage	E
+inferior rectus	inferior rectus muscle	E
+neurohypophysis	posterior lobe of the pituitary gland	E
+thyroid follicular cell	thyroid gland follicular cell	E
+cardiac ventricle	cardiac ventricle	E
+glomerular mesangium	mesangium	E
+muscle layer of esophagus	esophageal muscular coat	E
+common hepatic duct	common hepatic duct	E
+medial frontobasal artery	medial orbitofrontal artery	E
+skin of foot	foot skin	E
+secondary nodular lymphoid tissue	germinal center	E
+lingula of left lung	lingula	E
+occipital artery	occipital artery	E
+ophthalmic nerve	ophthalmic nerve	E
+set of urethral glands	urethra gland mmhcc	E
+lateral vestibular nucleus	lateral vestibular nucleus	E
+descending limb of loop of henle	descending limb of the henle s loop	E
+set of subarachnoid cisterns	subarachnoid cistern	E
+fauces	oropharynx	E
+perineal muscle	perineal muscle	E
+axis	axis of the vertebra	E
+corneal epithelium	corneal epithelium	E
+inferior parathyroid gland	inferior parathyroid gland	E
+semispinalis cervicis	semispinalis cervicis	E
+transitional epithelium	transitional epithelium	E
+pyramidal cell	pyramidal cell	E
+anterior surface of prostate	anterior surface of the prostate	E
+embryonic stem cell	embryonic stem cell	E
+radial nerve	radial nerve	E
+lymphatic system	lymphatic system	E
+mucus	mucus	E
+white matter of spinal cord	white matter of the spinal cord	E
+set of oesophageal glands	esophageal gland	E
+fucose	fucose	E
+sacrococcygeal joint	sacrococcygeal joint	E
+greater vestibular gland	bartholin s gland	E
+gonadotropin	gonadotropin	E
+skin of arm	arm skin	E
+splenic lymph node	splenic hilar lymph node	E
+intercalated cell of collecting duct of renal tubule	intercalated cell	E
+mucosa associated lymphoid tissue	mucosa associated lymphoid tissue	E
+amino acid	amino acid	E
+paranasal sinus	paranasal sinus	E
+obturator artery	obturator artery	E
+parametrium	parametrium	E
+exocrine system	exocrine system	E
+first thoracic vertebra	thoracic 1 vertebra	E
+rugal fold of stomach	gastric rugae	E
+smegma	smegma	E
+hymen of vagina	hymen	E
+appendix	vermiform appendix	E
+ulnar artery	ulnar artery	E
+set of arteries	artery	E
+clear chief cell of parathyroid cell	parathyroid gland clear cell	E
+epigastrium	epigastric region	E
+amnion	amnion	E
+epithelioid cell	epithelioid cell	E
+sex chromatin	barr body	E
+follicular stimulating hormone	folitropin	E
+trigeminal ganglion	trigeminal ganglion	E
+set of toes	toe	E
+middle lobe of lung	middle lobe of the right lung	E
+cardinal body part	body part	E
+venous sinus of red pulp of spleen	splenic sinus	E
+nucleoporin	nucleoporin	E
+right testicular artery	right spermatic artery	E
+orbital sulcus	orbital sulcus	E
+tarsal bone	tarsal bone	E
+neural cell adhesion molecule	neural cell adhesion molecule	E
+posterior surface of kidney	kidney posterior surface	E
+lateral frontobasal artery	lateral orbitofrontal artery	E
+segmental bronchus	segmental bronchus	E
+posterior cochlear nucleus	dorsal cochlear nucleus	E
+tibial nerve	tibial nerve	E
+mature sperm cell	spermatozoon	E
+set of sural arteries	external sural artery	E
+epiglottis	epiglottis	E
+set of coeliac ganglia	coeliac ganglion	E
+ascending limb of loop of henle	ascending limb of the henle s loop	E
+epineurium	epineurium	E
+putamen	putamen	E
+cecum	cecum	E
+hindgut	hindgut	E
+superior vena cava	superior vena cava	E
+melanin	melanin	E
+epidermis	epidermis	E
+eyelash	eyelash	E
+talocalcaneal joint	subtalar joint	E
+middle cerebral artery	middle cerebral artery	E
+lower lobe of left lung	lower lobe of the left lung	E
+interphalangeal joint of finger	interphalangeal joint of the hand	E
+femoral vein	femoral vein	E
+bronchus	bronchus	E
+set of splenic lymph nodes	splenic hilar lymph node	E
+follitropin	folitropin	E
+lower segment of hair follicle	hair follicle inferior segment	E
+n acetylneuraminic acid	sialic acid	E
+floor of mouth	floor of the mouth	E
+zygomaticus major	zygomaticus major	E
+urachus	urachus	E
+afferent neuron	sensory neuron	E
+delta cell	delta cell	E
+tendinous cuff	rotator cuff	E
+phalanx of toe	phalanx of the foot	E
+specialized epithelial cell	specialized epithelial cell	E
+endometrial stroma	endometrial stroma	E
+dental pulp cell	tooth cell	E
+endomysium	endomysium	E
+choroidal fissure	choroidal fissure	E
+set of gastric folds	gastric rugae	E
+neuroglial cell	glial cell	E
+vestibular nucleus	vestibular nucleus	E
+tear	tear	E
+skeleton of upper limb	bone of the upper extremity	E
+paraurethral gland	skene s gland	E
+mitotic chromosome	mitotic chromosome	E
+seventh cervical vertebra	c 7 vertebra	E
+testis	testis	E
+set of tarsal bones	tarsal bone	E
+pancreaticoduodenal vein	pancreatico duodenal vein	E
+medial nuclear group of thalamus	dorsomedial nucleus of the thalamus	E
+basophil	leukocyte myelocyte granulocyte basophil mmhcc	E
+primary tooth	temporary tooth	E
+inferior mesenteric vein	inferior mesenteric vein	E
+dense irregular connective tissue	irregular dense connective tissue	E
+cardiac sphincter	lower esophageal sphincter	E
+set of pulmonary veins	pulmonary vein	E
+extensor digitorum longus	extensor digitorum longus	E
+lateral posterior nucleus	lateral posterior nucleus of the thalamus	E
+superior cerebellar artery	superior cerebellar artery	E
+central sulcus	sulcus centralis	E
+first sacral vertebra	sacral 1 vertebra	E
+penis	penis	E
+pineal body	pineal gland	E
+trans golgi network	trans golgi network	E
+anterior mediastinal lymph node	anterior mediastinal lymph node	E
+blastomere	blastomere	E
+orbit	orbit	E
+organ	organ	E
+quadrate lobe of liver	lobus quadratus	E
+second lumbar vertebra	lumbar 2 vertebra	E
+cavity of laryngeal saccule	laryngeal ventricle	E
+cortex of kidney	renal cortex	E
+tensor fasciae latae	tensor fasciae lata	E
+greater curvature of stomach	greater curvature	E
+megakaryoblast	megakaryoblast	E
+neuropil	neuropil	E
+phrenic nerve	phrenic nerve	E
+endoneurium	endoneurium	E
+lymph	lymph	E
+inferior vesical artery	inferior vesical artery	E
+microvillus	microvillus	E
+intercellular junction	cell junction	E
+cutaneous vein	cutaneous vein	E
+ovarian vein	ovarian vein	E
+lumbosacral nerve plexus	lumbosacral plexus	E
+vocal fold	vocal cord	E
+palatine salivary gland	palatine salivary gland	E
+b lymphoblast	b lymphoblast	E
+quadratus lumborum	quadratus lumborum	E
+neuro endocrine system	neuroendocrine system	E
+body surface	body surface	E
+cuboid bone	cuboid bone	E
+oxyphil cell of thyroid	thyroid gland oxyphil cell	E
+vein	venous	E
+sphincter of hepatopancreatic ampulla	sphincter of oddi	E
+set of thoracic vertebrae	thoracic vertebra	E
+pharyngeal tonsil	pharyngeal tonsil	E
+basilar membrane of cochlea	basilar membrane	E
+collagen fiber	collagen fiber	E
+male urethra	male urethra	E
+salivary gland	salivary gland	E
+set of thoracic ganglia	thoracic ganglion	E
+glandular cell of esophagus	esophageal glandular cell	E
+external granular layer of cerebral cortex	external granular layer	E
+bile duct	bile duct	E
+acidophil cell	acidophilic cell	E
+posterior choroidal artery	posterior choroidal artery	E
+endocrine system	endocrine system	E
+hair root	hair root	E
+semispinalis capitis	semispinalis capitis	E
+peripheral	peripheral	E
+set of subendocardial branches of atrioventricular bundle	purkinje fiber	E
+ovarian artery	ovarian artery	E
+superior frontal sulcus	superior frontal sulcus	E
+ductus arteriosus	ductus arteriosus	E
+renal pyramid	renal pyramid	E
+set of lobules of thymus	thymic lobule	E
+mandible	mandible	E
+trabecula of spleen	splenic trabecula	E
+set of bronchioles	bronchiole	E
+endometrium	endometrium	E
+tonsillar fossa	tonsillar fossa	E
+branch of posterior tibial artery	posterior tibial artery branch	E
+bile	bile	E
+buccal salivary gland	buccal salivary gland	E
+pleural cavity	pleural cavity	E
+commissure	commissure	E
+dorsal	back	E
+central insular sulcus	sulcus centralis insulae	E
+stratified squamous epithelium	stratified squamous epithelium	E
+inferior pharyngeal constrictor	cricopharyngeus muscle	E
+monosaccharide	monosaccharide	E
+set of endocrine glands	endocrine gland	E
+adventitial cell	pericyte	E
+bone of vertebra	vertebral bone	E
+androgen	androgen	E
+thymus	thymus	E
+bone marrow stem cell	bone marrow stem cell	E
+extensor carpi radialis brevis	extensor carpi radialis brevis	E
+intercellular matrix	extracellular matrix	E
+transversus thoracis	transversus thoracis	E
+soleus	soleus	E
+cricothyroid muscle	cricothyroid muscle	E
+dorsal part of foot	dorsal region of foot	E
+jaw	jaw	E
+phenylalanine	phenylalanine	E
+set of lobules of liver	hepatic lobule	E
+set of regional lymph nodes	regional lymph node	E
+faucial pillar	tonsillar pillar	E
+loose connective tissue	loose connective tissue	E
+uvula	uvula	E
+transverse plane	transverse plane	E
+glial filament	glial fibrillary acidic protein	E
+inferior epigastric vein	deep epigastric vein	E
+submental vein	submental vein	E
+set of lymph nodes of neck	cervical lymph node	E
+eyebrow	eyebrow	E
+right lower first secondary molar tooth	tooth 3 0	E
+skin of hand	hand skin	E
+set of genital systems	genital	E
+skin of limb	skin of the extremity	E
+nerve	nerve	E
+cerebral hemisphere	cerebral hemisphere	E
+antihemophilic globulin	coagulation factor viii	E
+y chromosome	chromosome y	E
+purine	purine	E
+superior medullary velum	valve of vieussens	E
+trapezoid	trapezoid	E
+tarsal gland	meibomian gland	E
+apocrine sweat gland	apocrine sweat gland	E
+gingival epithelium	gingival epithelium	E
+amacrine cell	amacrine cell	E
+seventh thoracic vertebra	thoracic 7 vertebra	E
+thoracodorsal artery	thoracodorsal artery	E
+nonmembranous cytoplasmic organelle	nonmembranous cytoplasmic organelle	E
+collicular artery	quadrigeminal artery	E
+type a cell of pancreatic islet	alpha cell	E
+paneth cell	paneth cell	E
+septal leaflet of tricuspid valve	septal cusp	E
+chorda tendinea	chordae tendineae	E
+globus pallidus	globus pallidus	E
+central tendon	central tendon of the diaphragm	E
+pulmonary trunk	pulmonary artery	E
+external ear	auricle	E
+polychromatophilic erythroblast	polychromatophilic erythroblast	E
+inferior thyroid artery	inferior thyroid artery	E
+set of bursae	synovial bursa	E
+vestibular sensory cell	vestibular hair cell	E
+vertebra	vertebra	E
+cervical vertebral column	cervical spine	E
+horny layer of epidermis	stratum corneum	E
+tubulin	tubulin	E
+melatonin	therapeutic melatonin	E
+right cerebral hemisphere	right cerebral hemisphere	E
+ostium of inferior vena cava	inferior vena cava opening	E
+submucosa of large intestine	large intestinal submucosa	E
+epithelium of respiratory bronchiole	respiratory bronchiole epithelium	E
+auditory cortex	auditory cortex	E
+metacarpal bone	metacarpal bone	E
+wall of endosome	membrane of the endosome	E
+cytosine	cytosine	E
+splenial artery	splenial artery	E
+liver cell	hepatocyte	E
+crus of helical part of auricular cartilage	crus helicis	E
+root of thoracic nerve	thoracic spinal nerve root	E
+lacrimal bone	lacrimal bone	E
+glandular cell of large intestine	large intestinal glandular cell	E
+retromandibular vein	temporo maxillary vein	E
+spinal cord	spinal cord	E
+longitudinal duct of epoophoron	duct of the gartner	E
+set of seminiferous tubules	seminiferous tubule	E
+milk	milk	E
+descending aorta	descending aorta	E
+multipotent stem cell	multipotent stem cell	E
+posterior longitudinal ligament	posterior longitudinal ligament	E
+left colic flexure	splenic flexure	E
+anterior communicating artery	anterior communicating artery	E
+rhamnose	rhamnose	E
+bamacan	chondroitin sulfate proteoglycan 6	E
+mammillary body	mamillary body	E
+decidua basalis	decidua basalis	E
+glutamic acid	glutamic acid	E
+deep vein	deep vein	E
+gamma motor neuron	gamma motor neuron	E
+medial circumflex femoral artery	medial circumflex artery	E
+median aperture of fourth ventricle	foramen of magendie	E
+parieto occipital sulcus	parieto occipital fissure	E
+set of vertebral joints	vertebral joint	E
+throat	pharynx	E
+medulla oblongata	medulla oblongata	E
+stroma	stroma	E
+white matter of cerebellum	cerebellum white matter	E
+ear	ear	E
+body of epididymis	body of the epididymis	E
+oxyphil cell of parathyroid gland	parathyroid gland oxyphil cell	E
+calcium binding protein	calcium binding protein	E
+palatine tonsil	palatine tonsil	E
+set of bronchi	bronchus	E
+muscle spindle	muscle spindle	E
+patella	patella	E
+cell morphology	cellular morphology	E
+visual system	visual system	E
+semitendinosus	semitendinosus	E
+extra embryonic structure	extraembryonic structure	E
+subdivision of lamellar bone	mature bone	E
+nephron	nephron	E
+flexor digitorum longus	flexor digitorum longus	E
+lamina propria	lamina propria	E
+communicating cell junction	gap junction	E
+pseudostratified ciliated columnar epithelium	pseudostratified columnar ciliated epithelium	E
+posterior chamber of eyeball	posterior chamber of the eye	E
+otolith	otolith	E
+suppressor inducer t lymphocyte	suppressor inducer t lymphocyte	E
+fossa of antihelix	fossa of the antihelix	E
+calcarine sulcus	calcarine sulcus	E
+middle cranial fossa	middle fossa	E
+pericardiacophrenic vein	pericardiacophrenic vein	E
+blood vessel	blood vessel	E
+labial salivary gland	labial salivary gland	E
+musculature of neck	neck muscle	E
+plus end of microtubule	plus end of the microtubule	E
+pericardium	pericardium	E
+set of posterior tibial veins	posterior tibial vein	E
+crown of tooth	corona dentis	E
+tentorium cerebelli	tentorium cerebelli	E
+latissimus dorsi	musculus latissimus dorsi	E
+sacral nerve	sacral nerve	E
+pericardial artery	pericardiac artery	E
+set of intercarpal joints	carpal joint	E
+fatty acid	fatty acid	E
+brachiocephalic artery	innominate artery	E
+lymphoblast	lymphoblast	E
+set of fingers	finger	E
+retroperitoneal compartment	retroperitoneal	E
+phosphatidylserine	phosphatidylserine	E
+thoracic wall	chest wall	E
+anterior spinal artery	anterior spinal artery	E
+capsule	capsule	E
+rough endoplasmic reticulum	rough endoplasmic reticulum	E
+histone h 2 a	histone h 2 a	E
+histone h 2 b	histone h 2 b	E
+groove for inferior vena cava	fissure of the inferior vena cava	E
+superior pancreaticoduodenal artery	superior pancreatico duodenal artery	E
+cerebrospinal fluid	cerebrospinal fluid	E
+microtubule triplet	microtubule triplet	E
+basal zone of heart	base of the heart	E
+smooth endoplasmic reticulum	smooth endoplasmic reticulum	E
+lentiform nucleus	lentiform nucleus	E
+flexor digitorum profundus	flexor digitorum profundus	E
+occipital lobe	occipital lobe	E
+thoracic aorta	thoracic aorta	E
+elastic fiber	elastic fiber	E
+cx c chemokine	alpha chemokine	E
+anterior commissure	anterior commissure	E
+scaphoid compartment	fossa of the helix	E
+orbiculus ciliaris	orbiculus ciliaris	E
+somatic nerve plexus	spinal nerve plexus	E
+celiac ganglion	coeliac ganglion	E
+atrioventricular bundle	atrioventricular bundle	E
+secretory cell	secretory cell	E
+conjunctiva	conjunctiva	E
+parasympathetic nervous system	parasympathetic nervous system	E
+right inguinal part of abdomen	right inguinal region	E
+posterior nucleus of thalamus	posterior nucleus of the thalamus	E
+nasal septum	nasal septum	E
+portion of epithelium	epithelium	E
+set of ducts	duct	E
+epicondyle	epicondyle	E
+laryngeal ventricle	laryngeal ventricle	E
+simple columnar epithelium	simple columnar epithelium	E
+alveolar macrophage	alveolar macrophage	E
+microglial cell	microglia	E
+mesentery	mesentery	E
+digastric	digastric muscle	E
+semispinalis thoracis	semispinalis thoracis	E
+intermediate filament	intermediate filament	E
+spinal accessory nerve	spinal accessory nerve	E
+middle part of external acoustic tube	pars media	E
+pancreatic centro acinar cell	pancreatic centroacinar cell	E
+coronary ligament	coronary ligament	E
+muscle of palate	palatal muscle	E
+sartorius	sartorius muscle	E
+methionine	methionine	E
+inferolateral surface of prostate	inferolateral surface of the prostate	E
+navicular bone of foot	navicular bone	E
+temporal fossa	temporal fossa	E
+colon	colon	E
+entactin	nidogen	E
+extraglomerular mesangial cell	extraglomerular mesangial cell	E
+rectus femoris	rectus femoris	E
+peritoneal fluid	peritoneal effusion	E
+secretin	secretin	E
+tuber cinereum	tuber cinereum	E
+labial part of mouth	lip	E
+cerebellum	cerebellum	E
+left kidney	left kidney	E
+subclavian vein	subclavian vein	E
+set of internal thoracic veins	internal mammary vein	E
+helix	helix	E
+type iv collagen	collagen iv	E
+gastric foveola	gastric pit	E
+lacrimal sac	lacrimal sac	E
+subcostal artery	subcostal artery	E
+hypothalamus	hypothalamus	E
+fascicle	fascicle	E
+cardia of stomach	cardia	E
+arachnoid granulation	arachnoid villus	E
+cystic duct	cystic duct	E
+norepinephrine	norepinephrine base	E
+scalenus medius	scalenus medius	E
+renal artery	renal artery	E
+vascular layer of eyeball	uvea	E
+left mammary gland	left breast	E
+brachialis	brachialis	E
+anterior surface of liver	anterior surface of the liver	E
+dense regular collagenous tissue	regular dense connective tissue	E
+set of obturator veins	obturator vein	E
+deep brachial artery	superior profunda artery	E
+striated border	striated border	E
+palatine bone	palatine bone	E
+mastoid process	mastoid process	E
+fontanelle	fontanelle	E
+peripheral nervous system	peripheral nervous system	E
+metacarpophalangeal joint	metacarpophalangeal joint	E
+set of abdominal lymph nodes	intra abdominal lymph node	E
+rostral	cephalad	E
+root of lumbar spinal nerve	lumbar spinal nerve root	E
+subsegmental bronchus	subsegmental bronchus	E
+neck of gallbladder	gallbladder neck	E
+lymphokine	lymphokine	E
+posterior surface of liver	posterior surface of the liver	E
+intercostal nerve	intercostal nerve	E
+splenic vein	splenic vein	E
+pinna	auricle	E
+lingual artery	lingual artery	E
+inner nuclear membrane	nuclear inner membrane	E
+haploid nucleated cell	germ cell	E
+placenta	placenta	E
+biliary tree	biliary tract	E
+branch of middle cerebral artery	middle cerebral artery branch	E
+zona pellucida	zona pellucida	E
+tentorial incisure	posterior supratentorial cistern	E
+proteoglycan	proteoglycan	E
+vagus nerve	vagus nerve	E
+lysosome	lysosome	E
+posterior external jugular vein	posterior external jugular vein	E
+interleukin 1 5	interleukin 1 5	E
+optic tract	optic tract	E
+cellulose	cellulose	E
+retina	eye retina mmhcc	E
+minus end of actin filament	minus end of the actin filament	E
+synovial bursa	synovial bursa	E
+lateral corticospinal tract	crossed pyramidal tract	E
+set of hepatic veins	hepatic vein	E
+proerythroblast	proerythroblast	E
+squamous cell	squamous cell	E
+oxytocin	therapeutic oxytocin	E
+lateral geniculate body	external geniculate body	E
+right common carotid artery	right common carotid artery	E
+cement	cementum	E
+olfactory receptor cell	olfactory cell	E
+infraclavicular lymph node	infraclavicular lymph node	E
+hand	hand	E
+parafascicular nucleus	parafascicular nucleus of the thalamus	E
+set of regions of back	back	E
+cystic vein	cystic vein	E
+head of rib	rib head	E
+lacrimal canaliculus	lacrimal canaliculus	E
+major histocompatibility complex gene	major histocompatibility complex gene	E
+cartilage of external ear	external ear cartilage	E
+joint	joint	E
+lacrimal gland	lacrimal gland	E
+head of femur	head of the femur	E
+pronephros	pronephros	E
+synovial fluid	synovial fluid	E
+metatarsophalangeal joint	metatarsophalangeal joint	E
+nasal bone	nasal bone	E
+transverse colon	transverse colon	E
+gamma tubulin	gamma tubulin	E
+axillary lymph node	axillary lymph node	E
+glandular cell	glandular cell	E
+right subclavian artery	right subclavian artery	E
+transverse facial artery	transverse facial artery	E
+adrenal gland	adrenal gland	E
+body of lateral ventricle	body of the lateral ventricle	E
+bile canaliculus	bile canaliculus	E
+left ureter	left ureter	E
+apex of prostate	apex of the prostate	E
+stria medullaris of fourth ventricle	striae medullares	E
+intermediate trophoblast cell	intermediate trophoblast	E
+granulosa cell of ovary	granulosa cell	E
+cochlear labyrinth	cochlear labyrinth	E
+axosomatic synapse	axosomatic synapse	E
+cavity of peroxisome	lumen of the peroxisome	E
+transitional epithelial cell of urinary bladder	bladder transitional cell	E
+trunk	trunk	E
+golgi complex	golgi apparatus	E
+anatomical lobe	lobe	E
+set of inguinal lymph nodes	inguinal lymph node	E
+osteoblast	osteoblast	E
+somite	somite	E
+brain	brain	E
+decidua	decidua	E
+deep artery of thigh	deep femoral artery	E
+muscle layer of large intestine	large intestinal muscular coat	E
+capsule of adrenal gland	adrenal gland capsule	E
+left atrium	left atrium	E
+nail	nail plate	E
+second sacral vertebra	sacral 2 vertebra	E
+synovial joint	diarthrosis	E
+pulmonary surfactant	lung surfactant	E
+superior frontal gyrus	superior frontal gyrus	E
+esophagogastric junction	gastroesophageal junction	E
+ovary	ovary	E
+cervical part of esophagus	cervical esophagus	E
+trophoblast cell	trophoblastic cell	E
+amphiarthrosis	amphiarthrosis	E
+inferior vena cava	inferior vena cava	E
+fissure	fissure	E
+pleura	pleural tissue	E
+palatoglossus	palatoglossus muscle	E
+abductor pollicis longus	abductor pollicis longus	E
+ninth thoracic vertebra	thoracic 9 vertebra	E
+set of bones of cranium	skull	E
+ophthalmic artery	opthalmic artery	E
+liver parenchyma	hepatic tissue	E
+sternoclavicular joint	sternoclavicular joint	E
+sclera	sclera	E
+valine	valine	E
+triceps brachii	triceps	E
+ankle joint	ankle joint	E
+minus end of microtubule	minus end of the microtubule	E
+set of laryngeal muscles	laryngeal muscle	E
+peroneal artery	peroneal artery	E
+fundus of stomach	fundus of the stomach	E
+pyramidal lobe of thyroid gland	pyramidal lobe	E
+esophagus	esophagus	E
+body of gallbladder	gallbladder body	E
+unencapsulated nerve ending	free nerve ending	E
+spinal dura mater	spinal cord dura mater	E
+set of interlobular bile ducts	interlobular bile duct	E
+fascia cluster	fascia	E
+inferior colliculus	posterior quadrigeminal body	E
+wall of organelle	intracellular membrane	E
+deep femoral artery	deep femoral artery	E
+portal lobule	portal lobule	E
+heterochromatin	heterochromatin	E
+venule	venule	E
+nongranular leukocyte	non granular leukocyte	E
+smooth muscle tissue of prostate	prostatic muscular tissue	E
+posterior cranial fossa	posterior fossa	E
+integrin	integrin	E
+set of accessory lacrimal glands	gland of wolfring	E
+epithelium of choroid plexus	choroid plexus epithelium	E
+retroperitoneal space	retroperitoneum	E
+glenoid fossa	glenoid fossa	E
+hard palate	hard palate	E
+set of phalanges of hand	phalanx of the hand	E
+mucosa of larynx	laryngeal mucosa	E
+maxillary vein	internal maxillary vein	E
+segment of palm	palmar region	E
+set of common palmar digital arteries	common palmar digital artery	E
+oogonium	primary oocyte	E
+vinculin	vinculin	E
+centriole	centriole	E
+internal granular layer of cerebral cortex	internal granular layer	E
+lobe of liver	liver lobe	E
+alanine	alanine	E
+pubis	pubic bone	E
+thyrotropin releasing factor	thyrotropin releasing hormone	E
+prostatic duct	prostatic duct	E
+superior anastomotic vein	superior anastomotic vein of the trolard	E
+internal iliac artery	internal iliac artery	E
+tenascin	tenascin c	E
+buccal surface	buccal surface	E
+nasal cartilage	nasal cartilage	E
+nasal muscle	nasal muscle	E
+subclavian artery	subclavian artery	E
+glandular cell of stomach	gastric glandular cell	E
+thyrotroph	thyrotroph cell	E
+enteric ganglion	enteric ganglion	E
+ileal diverticulum	meckel diverticulum	E
+alveolar duct	alveolar duct	E
+visceral pleura	visceral pleura	E
+luminal	luminal	E
+cuneate fasciculus of spinal cord	tract of burdach	E
+muscle of larynx	laryngeal muscle	E
+intrapulmonary bronchus	intrapulmonary bronchus	E
+splenic cord	splenic cord	E
+lipoprotein	lipoprotein	E
+piriform fossa	pyriform sinus	E
+twelfth thoracic vertebra	thoracic 1 2 vertebra	E
+hair follicle	follicle	E
+set of anal columns	anal column	E
+body of penis	body of the penis	E
+epithelium of choroid plexus of lateral ventricle	choroid plexus epithelium of the lateral ventricle	E
+ligamentum flavum	ligamentum flavum	E
+occipital bone	occipital bone	E
+ribosome	ribosome	E
+basilar artery	basilar artery	E
+splenium of corpus callosum	splenium of the corpus callosum	E
+segmentation	segment	E
+epithelium of esophagus	esophageal epithelium	E
+muscle layer	muscularis propria	E
+ejaculatory duct	ejaculatory duct	E
+organ component gland	gland	E
+superior mesenteric vein	superior mesenteric vein	E
+anterior root of spinal nerve	ventral nerve root	E
+pericyte	pericyte	E
+lacrimal apparatus	lacrimal apparatus	E
+middle colic artery	middle colic artery	E
+greater omentum	greater omentum	E
+myelin	myelin	E
+intercarpal joint	carpal joint	E
+sinus venosus	sinus venosus	E
+set of bones	bone	E
+pectinate line	pectinate line	E
+cochlear outer hair cell	outer hair cell of the organ of the corti	E
+trochanter	trochanter	E
+pronator teres	pronator teres	E
+psoas major	psoas major	E
+superficial	superficial	E
+scleral venous sinus	canal of schlemm	E
+common iliac vein	common iliac vein	E
+glucitol	sorbitol	E
+endolymph	endolymph	E
+anterior auricular vein	anterior auricular vein	E
+right hepatic duct	right hepatic duct	E
+hyo epiglottic ligament	hyoepiglottic ligament	E
+cerebral vein	cerebral vein	E
+sperm cell	spermatozoon	E
+lateral lobe of prostate	lateral lobe of the prostate	E
+hepatic portal vein	portal vein	E
+cytotrophoblast	cytotrophoblast	E
+posterior cerebral artery	posterior cerebral artery	E
+distal part of ileum	terminal ileum	E
+renshaw cell	renshaw cell	E
+cerebellar vein	cerebellar vein	E
+thyroid gland	thyroid gland	E
+renal pelvis	renal pelvis	E
+alveus of hippocampus	alveus	E
+outer plexiform layer of retina	outer plexiform layer	E
+stem cell	stem cell	E
+stylopharyngeus	stylopharyngeus	E
+subcapsular lens epithelium	subcapsular epithelium of the lens	E
+superior oblique	superior oblique muscle	E
+cadherin	cadherin	E
+male genital system	male reproductive system	E
+cervical vertebra	cervical vertebra	E
+epithelial cell of renal tubule	renal cell	E
+interatrial septum	interatrial septum	E
+branch of basilar artery	basilar artery branch	E
+longus colli	longus colli	E
+left brachiocephalic vein	left brachiocephalic vein	E
+nissl body	nissl body	E
+dermis	dermis	E
+intercalated duct of pancreas	intercalated duct of the pancreas	E
+deoxyribonucleic acid	deoxyribonucleic acid	E
+nuclear pore complex	nuclear pore complex	E
+cuboidal cell	cuboidal cell	E
+right mammary gland	right breast	E
+internal thoracic artery	internal mammary artery	E
+right	right	E
+goblet cell	goblet cell	E
+cartilage tissue	cartilagenous tissue	E
+thoracic part of esophagus	thoracic esophagus	E
+internal iliac vein	internal iliac vein	E
+superior temporal sulcus	superior temporal sulcus	E
+dura mater	dura mater	E
+adrenal cortex	adrenal cortex	E
+frontal nerve	frontal nerve	E
+macrophage	histiocyte	E
+synapse	synapse	E
+olfactory sulcus	olfactory sulcus	E
+superior parathyroid gland	superior parathyroid gland	E
+proximal epiphysis of fibula	head of the fibula	E
+external nose	external nose	E
+skeletal muscle cell	skeletal fiber	E
+tendon	tendon	E
+uterus	uterus	E
+mammotropin	prolactin	E
+foramen secundum	foramen secundum	E
+sublingual artery	sublingual artery	E
+isoleucine	isoleucine	E
+right lobe of thyroid gland	right thyroid gland lobe	E
+cell adhesion molecule	cell adhesion molecule	E
+vertebral canal	vertebral canal	E
+set of celiac lymph nodes	celiac lymph node	E
+bronchiole	bronchiole	E
+metaphysis	metaphysis	E
+inferior surface of liver	visceral surface of the liver	E
+first lumbar vertebra	lumbar 1 vertebra	E
+external iliac artery	external iliac artery	E
+basement membrane	basement membrane	E
+corticotropin releasing factor	corticotropin releasing hormone	E
+ventral anterior nucleus	ventroanterior nucleus of the thalamus	E
+extra ocular muscle	oculomotor muscle	E
+mesoderm	mesoderm	E
+vitelline vein	vitelline vein	E
+urinary system	urinary system	E
+special sense organ	organ of the special sense	E
+eotaxin 3	small inducible cytokine a 2 6	E
+eotaxin 2	small inducible cytokine a 2 4	E
+segment of aorta	aortic segment	E
+decidual cell	decidual cell	E
+carina of trachea	carina	E
+body of vertebra	vertebral body	E
+trigeminal motor nucleus	motor nucleus of the trigeminal nerve	E
+myocardium	heart muscle	E
+third sacral vertebra	sacral 3 vertebra	E
+desmosome	desmosome	E
+hemidesmosome	hemidesmosome	E
+right ovary	right ovary	E
+guanyl nucleotide binding protein	g protein	E
+gas	gas	E
+corticotroph	corticotroph cell	E
+cistern of lamina terminalis	lamina terminalis cistern	E
+lobe of lung	lung lobe	E
+premolar tooth	bicuspid tooth	E
+kinocilium	kinocilium	E
+somatic cell	somatic cell	E
+lunate sulcus	lunate sulcus	E
+crest	ridge	E
+ileum	ileum	E
+third ventricle	third ventricle of brain	E
+radius	radius bone	E
+inflow part of right atrium	sinus venarum	E
+polysaccharide	polysaccharide	E
+stromal cell of endometrium	endometrial stromal cell	E
+supra orbital vein	supra orbital vein	E
+vestibulocochlear organ	ear	E
+whole portion of vitreous humor	vitreous humor	E
+pars tuberalis of adenohypophysis	pituitary stalk	E
+set of phalanges	phalanx of the hand	E
+third cervical vertebra	c 3 vertebra	E
+glossopharyngeal nerve	glossopharyngeal nerve	E
+synoviocyte	synovial cell	E
+wall of peroxisome	membrane of the peroxisome	E
+circular sulcus of insula	circular sulcus	E
+tongue	tongue	E
+endothelium	endothelium	E
+fetal heart	fetal heart	E
+set of hairs	hair	E
+vasoactive intestinal peptide	vasoactive intestinal peptide	E
+megakaryocyte	megakaryocyte	E
+thymosin	thymosin	E
+actin myofilament	thin filament	E
+ciliary muscle	ciliary muscle	E
+set of lactiferous glands	mammary gland	E
+gray matter of neuraxis	gray matter	E
+set of zygapophysial joints	facet joint	E
+sinusoid	discontinuous capillary	E
+prostate	prostate gland	E
+set of carpal bones	carpal bone	E
+utricle of membranous labyrinth	utricle	E
+taste bud cell	taste bud cell	E
+nuclear inclusion	nuclear inclusion	E
+fourth lumbar vertebra	lumbar 4 vertebra	E
+hepatic vein	hepatic vein	E
+pronator muscle	pronator teres	E
+pelvic girdle	pelvic girdle	E
+peptide hormone	peptide hormone	E
+type i alveolar epithelial cell	alveolar cell type i	E
+type g enteroendocrine cell	g cell	E
+wall of prostatic duct	wall of human prostatic duct	E
+posterior meningeal artery	posterior meningeal artery	E
+primary ossification center	primary ossification center	E
+nasal concha	nasal turbinate	E
+internal intercostal muscle	internal intercostal muscle	E
+anterior median fissure of spinal cord	anterior median fissure of spinal cord	E
+neural stem cell	neural stem cell	E
+set of lingual papillae	papilla of the tongue	E
+epithelium of ciliary body	ciliary epithelium	E
+histiocyte	histiocyte	E
+symphysis	amphiarthrosis	E
+spermatogonium	spermatogonium	E
+nephrogenic cord	nephrogenic cord	E
+solitary tract nuclear complex	solitary nucleus	E
+cusp of cardiac valve	cardiac valve cusp	E
+papillary muscle	papillary muscle	E
+mitochondrial ribonucleic acid	mitochondrial rna	E
+seminal vesicle	seminal vesicle	E
+splenius	splenius	E
+type ii alveolar epithelial cell	alveolar cell type ii	E
+alveolar sac	alveolar sac	E
+serotonin	serotonin	E
+thoraco acromial artery	acromial thoracic artery	E
+set of ligamenta flava	ligamentum flavum	E
+nitrergic neuron	nitrergic neuron	E
+head of pancreas	head of the pancreas	E
+enteroendocrine cell	enteroendocrine cell	E
+rectovesical pouch	recto vesical pouch	E
+submucosa of stomach	gastric submucosa	E
+metamyelocyte	metamyelocyte	E
+plakoglobin	junction plakoglobin	E
+actin filament	myofilament	E
+set of eyelids	eyelid	E
+jugular foramen	jugular foramen	E
+acinar cell	acinar cell	E
+subthalamus	ventral thalamus	E
+foot	foot	E
+renal vein	renal vein	E
+cytoplasmic inclusion	cytoplasmic inclusion	E
+sinuatrial node	sinoatrial node	E
+infraclavicular part of chest	infraclavicular region	E
+set of joints	articulation	E
+triangular part of inferior frontal gyrus	triangular part of the inferior frontal gyrus	E
+great cardiac vein	great cardiac vein	E
+cavity of concha of pinna	cavum conchae	E
+cardiac nerve plexus	cardiac nerve plexus	E
+fourth cervical vertebra	c 4 vertebra	E
+sacral nerve plexus	sacral plexus	E
+glottis	glottis	E
+basal cell of olfactory epithelium	olfactory basal cell	E
+ectoderm	ectoderm	E
+macula densa	macula densa	E
+esophageal artery	esophageal artery	E
+internal carotid nerve plexus	internal carotid nerve plexus	E
+left renal artery	left renal artery	E
+seminiferous tubule of testis	seminiferous tubule	E
+lacrimal artery	lacrimal artery	E
+endoderm	endoderm	E
+skin of wrist	wrist skin	E
+pia mater	pia mater	E
+superior part of duodenum	first portion of the duodenum	E
+myo inositol	inositol	E
+alimentary system	digestive system	E
+interleukin 2	interleukin 2	E
+osteoclast	osteoclast	E
+interleukin 1	interleukin 1	E
+lipid droplet	lipid inclusion	E
+osteon	haversian system	E
+nail of toe	toe nail	E
+optic disc	optic disc	E
+faceted volume	polyhedron	E
+celiac lymph node	celiac lymph node	E
+oligosaccharide	oligosaccharide	E
+interleukin	therapeutic interleukin	E
+central canal of spinal cord	central canal	E
+interleukin 6	interleukin 6	E
+set of cavities	body cavity	E
+peroxisome	peroxisome	E
+anterior mediastinum	anterior mediastinum	E
+syncytial trophoblast	syncytiotrophoblast	E
+fifth sacral vertebra	sacral 5 vertebra	E
+superficial lymphatic vessel	superficial lymphatic vessel	E
+set of gastric pits	gastric pit	E
+anterior perforated substance	posterior olfactory lobule	E
+scaphoid fossa	fossa of the helix	E
+biceps femoris	biceps femoris	E
+mucosa of large intestine	large intestinal mucosa	E
+right surface of liver	lateral surface of the liver	E
+interventricular foramen	foramen of monroe	E
+talus	talus	E
+olfactory bulb	olfactory bulb	E
+rib	rib	E
+inferior oblique	inferior oblique muscle	E
+reticulin fiber	reticular fiber	E
+trabecula of lymph node	lymph node trabecula	E
+splenic pulp	splenic pulp	E
+vulva	vulva	E
+lateral occipital sulcus	lateral occipital sulcus	E
+set of lens fibers	lens fiber	E
+waist	waist	E
+greater trochanter	great trochanter	E
+intestinal epithelium	intestinal epithelium	E
+knee joint	knee joint	E
+oligodendroglia	oligodendroglia cell	E
+endocrine cell	endocrine cell and neuroendocrine cell	E
+temporomandibular joint	jaw joint	E
+mucosa	mucous membrane	E
+collagen fibril	collagen fibril	E
+epithalamus	epithalamus	E
+deep circumflex iliac artery	deep circumflex iliac artery	E
+adenine	adenine	E
+parasympathetic ganglion	parasympathetic ganglion	E
+promyelocyte	promyelocyte	E
+tectorial membrane of cochlea	tectorial membrane	E
+monocyte chemoattractant protein 3	small inducible cytokine a 7	E
+right ventricle	right ventricle	E
+electrical synapse	electrical synapse	E
+bowman s space	urinary space	E
+epithelium of choroid plexus of fourth ventricle	choroid plexus epithelium of the fourth ventricle	E
+coccyx	coccyx	E
+enterocyte	enterocyte	E
+capsule of thymus	thymic capsule	E
+d 2 receptor	dopamine receptor d 2	E
+endothelium of artery	artery endothelium	E
+ameloblast	ameloblast	E
+tubercle of rib	rib tubercle	E
+sensory ganglion	sensory ganglion	E
+right renal vein	right renal vein	E
+vermiform granule	birbeck granule	E
+popliteal artery	popliteal artery	E
+vertical	vertical	E
+anal part of perineum	anal region	E
+oxyphil cell	oxyphil cell	E
+canal for tensor tympani	canal for tensor tympani	E
+duct of sebaceous gland	sebaceous gland duct	E
+pituitary gland	pituitary gland	E
+superficial middle cerebral vein	superficial middle cerebral vein	E
+stromal cell	stromal cell	E
+hilum of spleen	splenic hilum	E
+neural crest cell	neural crest cell	E
+cricothyroid ligament	cricothyroid ligament	E
+claustrum	claustrum	E
+gluteus maximus	gluteus maximus	E
+hilum	hilum	E
+chondroblast	chondroblast	E
+loop of henle	loop of henle	E
+deltoid	deltoid	E
+anterolateral	anterolateral	E
+simple cuboidal epithelium	simple cuboidal epithelium	E
+canal of volkmann	perforating canal	E
+superior vestibular nucleus	superior vestibular nucleus	E
+dopaminergic neuron	dopaminergic cell	E
+anterior	anterior	E
+cavity of body of uterus	endometrial cavity	E
+labium minus	labium minus	E
+rod cell	rod	E
+transverse fold of rectum	transverse rectal fold	E
+trochlear nerve	trochlear nerve	E
+epicardium	epicardium	E
+posterior root of spinal nerve	dorsal root of the spinal nerve	E
+set of ciliary processes	ciliary process	E
+abdominal aorta	abdominal aorta	E
+infraspinatus muscle	infraspinatus	E
+skin of ankle	ankle skin	E
+left subclavian artery	left subclavian artery	E
+large intestine	large intestine	E
+unmyelinated nerve fiber	unmyelinated nerve fiber	E
+rhomboid fossa of fourth ventricle	floor of the fourth ventricle	E
+spinal nerve	spinal nerve	E
+stroma of ovarian cortex	stroma of the ovarian cortex	E
+macula of saccule of membranous labyrinth	macula of saccule	E
+basal lamina	basal lamina	E
+geniohyoid	geniohyoid	E
+cysteine	cysteine	E
+set of bronchopulmonary lymph nodes	bronchial lymph node	E
+pulmonary alveolar epithelium	alveolar epithelium	E
+heart	cardiac	E
+lingual tonsil	lingual tonsil	E
+ascending part of duodenum	fourth portion of the duodenum	E
+embryonic cell	embryonic cell	E
+set of veins	venous	E
+muscularis mucosae of esophagus	esophageal muscularis mucosa	E
+hip	hip	E
+plasma transmembrane protein	transmembrane protein	E
+reticular cell	reticular cell	E
+transfer ribonucleic acid	transfer rna	E
+myelocyte	myelocyte	E
+ependyma of lateral ventricle	lateral ventricle ependyma	E
+metatarsal bone	metatarsal bone	E
+spinal nucleus of trigeminal nerve	nucleus of the spinal tract of the trigeminal nerve	E
+medial geniculate body	internal geniculate body	E
+fibroblast	fibroblast	E
+medial meniscus	meniscus medialis	E
+portion of blood	blood	E
+nucleoplasm	nucleoplasm	E
+acetabular part of hip bone	acetabulum	E
+breast	breast	E
+cardiac vein	cardiac vein	E
+great saphenous vein	long saphenous vein	E
+upper lobe of lung	lung upper lobe	E
+superior mesenteric artery	superior mesenteric artery	E
+posterior auricular vein	posterior auricular vein	E
+set of trabeculae of lymph node	lymph node trabecula	E
+tail of pancreas	tail of the pancreas	E
+soft palate	soft palate	E
+bone of trapezium	trapezial bone	E
+trigeminal nuclear complex	trigeminal nucleus	E
+motor neuron	motor neuron	E
+metanephros	metanephros	E
+lower lobe of lung	lung lower lobe	E
+white adipose tissue	white adipose tissue	E
+cricotracheal ligament	cricotracheal ligament	E
+fovea centralis	fovea centralis	E
+oxyntic cell	parietal cell	E
+posterior commissure	posterior commissure	E
+muscular layer of pharynx	pharyngeal muscle	E
+incisor tooth	incisor	E
+middle phalanx of finger	middle phalanx of the hand	E
+male breast	male breast	E
+posterior semicircular canal	posterior semicircular canal	E
+semicircular canal	semicircular canal	E
+second thoracic vertebra	thoracic 2 vertebra	E
+type 1 muscle cell	muscle fibers slow twitch	E
+gluteus medius	gluteus medius	E
+ulnar nerve	ulnar nerve	E
+pulmonary valve	pulmonary valve	E
+set of semicircular canals	semicircular canal	E
+endothelium of venule	venule endothelium	E
+free border of nail	free edge of the nail	E
+ependyma of neuraxis	ependyma	E
+organ system	organ system	E
+wall of lysosome	membrane of the lysosome	E
+cartilage of rib	costal cartilage	E
+lateral wall of oropharynx	lateral wall of the oropharynx	E
+frontal horn of lateral ventricle	frontal horn of the lateral ventricle	E
+set of anal sinuses	anal sinus	E
+ovarian medulla	ovarian medulla	E
+t helper lymphocyte	helper inducer t lymphocyte	E
+skin of face	skin of the face	E
+peritoneal cavity	peritoneal cavity	E
+pyrimidine	pyrimidine	E
+articular cartilage	articular cartilage	E
+pelvis	pelvic	E
+capitate	capitate bone	E
+vestibular nuclear complex	vestibular nucleus	E
+lower eyelid	lower eyelid	E
+subdivision of external carotid artery	external carotid artery branch	E
+t lymphocyte	t lymphocyte	E
+brachial artery	brachial artery	E
+posterior mediastinum	posterior mediastinum	E
+solid	solid	E
+salpingopharyngeus	salpingopharyngeus	E
+iliopsoas	iliopsoas muscle	E
+set of viscera	viscera	E
+atrioventricular node	atrioventricular node	E
+set of bronchial veins	bronchial vein	E
+thorax	chest	E
+set of plantar metatarsal arteries	plantar metatarsal artery	E
+fourth thoracic vertebra	thoracic 4 vertebra	E
+cortex of thymus	thymus cortex	E
+anterior pole of lens	anterior pole of the lens	E
+sacrum	sacrum	E
+trapezius	trapezius muscle	E
+popliteal vein	popliteal vein	E
+periosteal cell	periosteal cell	E
+glucose	glucose	E
+trapezium	trapezial bone	E
+prostatic epithelium	prostatic epithelium	E
+pancreatic islet	endocrine pancreas	E
+aggregated lymphoid follicle of small intestine	peyer s patch	E
+type 2 vestibular sensory cell	type ii hair cell	E
+depressor labii inferioris	depressor labii inferioris	E
+outer segment of rod cell	rod outer segment	E
+mast cell	mast cell	E
+left ventricle	left ventricle	E
+sweat gland of eyelid	gland of moll	E
+bone of capitate	capitate bone	E
+internal capsule	internal capsule	E
+right suprarenal vein	right suprarenal vein	E
+lesser tubercle of humerus	lesser tuberosity	E
+synovial joint of pelvic girdle	joint of the pelvic girdle	E
+infra orbital artery	infraorbital artery	E
+anterior chamber of eyeball	anterior chamber of the eye	E
+epithelium of oropharynx	oropharynx epithelium	E
+ventral corticospinal tract	direct pyramidal tract	E
+thoracic vertebral column	thoracic spine	E
+supramarginal gyrus	supramarginal gyrus	E
+pituicyte	pituicyte	E
+cytoskeleton	cytoskeleton	E
+plantar metatarsal artery	plantar metatarsal artery	E
+cochlear duct of membranous labyrinth	cochlear duct	E
+temporal lobe	temporal lobe	E
+keratinized cell of epidermis	keratinocyte	E
+head of spermatozoon	head of the spermatozoon	E
+left testis	left testis	E
+sympathetic ganglion	sympathetic ganglion	E
+radial artery	radial artery	E
+cremasteric muscle	cremaster muscle	E
+anterior wall of urinary bladder	anterior wall of the bladder	E
+cytoskeletal filament	filament	E
+notochord	notochord	E
+musculature of perineum	perineal muscle	E
+anterior olfactory nucleus	anterior olfactory nucleus	E
+neutrophil	neutrophil	E
+proximal phalanx of finger	proximal phalanx of the hand	E
+efferent ductule	efferent ductule	E
+ilium	ilium	E
+chorion	chorion	E
+anterior tibial vein	anterior tibial vein	E
+peripheral blood stem cell	peripheral blood stem cell	E
+set of cranial nerves	cranial nerve	E
+superficial circumflex iliac artery	superficial circumflex iliac artery	E
+laryngeal saccule	laryngeal ventricle	E
+olecranon	olecranon	E
+posterior communicating artery	posterior communicating artery	E
+upper lobe of right lung	upper lobe of the right lung	E
+pancreatic tributary of splenic vein	pancreatic vein	E
+branch of left coronary artery	left coronary artery branch	E
+common bile duct	common bile duct	E
+buccinator	buccinator	E
+short insular gyrus	gyri breves insulae	E
+thyroglossal duct	thyroglossal duct	E
+dorsalis pedis artery	dorsalis pedis artery	E
+cytoskeletal protein	cytoskeletal protein	E
+erythroblast	nucleated red blood cell	E
+lymph node of neck	cervical lymph node	E
+lens	crystalline lens	E
+skin of head	head skin	E
+tuberculum sellae	tuberculum sellae	E
+set of pancreatic islets	islet of langerhans	E
+inferior temporal gyrus	inferior temporal gyrus	E
+granular layer of epidermis	stratum granulosum	E
+olfactory epithelium	olfactory epithelium	E
+prepuce of penis	male prepuce	E
+nucleotide	nucleotides	E
+mesothelium	mesothelium	E
+oral cavity	oral	E
+set of metatarsophalangeal joints	metatarsophalangeal joint	E
+compact bone	cortical bone	E
+common iliac artery	common iliac artery	E
+aryepiglotticus	aryepiglottic muscle	E
+submucosa of small intestine	small intestinal submucosa	E
+set of popliteal lymph nodes	popliteal lymph node	E
+muscularis mucosae of large intestine	large intestinal muscularis mucosa	E
+set of infraclavicular lymph nodes	infraclavicular lymph node	E
+stomach	stomach	E
+mucosa of lower lip	mucosa of the lower lip	E
+lumbar artery	lumbar artery	E
+wall of urinary bladder	bladder wall	E
+bone of pubis	pubic bone	E
+body of stomach	body of stomach	E
+trunk of right pulmonary artery	right pulmonary artery	E
+interlobular bile duct	interlobular bile duct	E
+set of nails of toes	toe nail	E
+cytoplasmic organelle	cytoplasmic organelle	E
+epimysium	epimysium	E
+hip bone	pelvic bone	E
+macula lutea	macula lutea	E
+base of prostate	base of the prostate	E
+set of granular foveolae	arachnoid villus	E
+parietal lobe	parietal lobe of the brain	E
+skull	skull	E
+areola	areola	E
+gland	gland	E
+hyoglossus	hyoglossus muscle	E
+suprarenal vein	suprarenal vein	E
+chiasmatic cistern	chiasmatic cistern	E
+thyro epiglottic ligament	thyroepiglottic ligament	E
+epididymis	epididymis	E
+bone of trapezoid	trapezoid	E
+medial vestibular nucleus	medial vestibular nucleus	E
+posterior crico arytenoid ligament	posterior cricoarytenoid ligament	E
+spinal ganglion	dorsal root ganglion	E
+carbohydrate	carbohydrate	E
+interphalangeal joint of toe	toe joint	E
+iliolumbar artery	iliolumbar artery	E
+hepatic acinus	liver acinus	E
+tail of spermatozoon	tail of the spermatozoon	E
+fascia of plantaris	plantar fascia	E
+basaloid cell	basaloid cell	E
+intercalated disc	intercalated disk	E
+corpus luteum	corpus luteum	E
+ribosomal ribonucleic acid	ribosomal rna	E
+chief cell of parathyroid gland	parathyroid gland chief cell	E
+columnar cell	columnar cell	E
+anterior cerebellar incisure	posterior supratentorial cistern	E
+chromaffin cell	chromaffin cell	E
+set of gastric glands	fundic gland	E
+infundibulum of hair follicle	hair follicle infundibulum	E
+horizontal	horizontal	E
+stearic acid	stearic acid	E
+extraembryonic celom	extraembryonic coelom	E
+set of chordae tendineae of heart	chordae tendineae	E
+cell body	perikaryon	E
+masseteric vein	masseteric vein	E
+substantia propria of cornea	corneal stroma	E
+nucleus accumbens	accumbens nucleus	E
+set of nares	nostril	E
+sebaceous gland	sebaceous gland	E
+musculature of face	facial muscle	E
+extrahepatic biliary tree	extrahepatic bile duct	E
+pulmonary trunk sinus	sinus of valsava	E
+set of foliate papillae	foliate papilla	E
+common interosseous artery	interosseous artery	E
+lumbar nerve	lumbar nerve	E
+stomatognathic system	stomatognathic system	E
+occluding cell junction	tight junction	E
+posterior wall of pharynx	posterior wall of the pharynx	E
+lutropin	therapeutic luteinizing hormone	E
+artery	artery	E
+sertoli cell	sertoli cell	E
+adventitia	tunica adventitia	E
+gracilis	gracilis	E
+portion of neural tissue	nervous tissue	E
+muscularis mucosae of stomach	gastric muscularis mucosa	E
+scala media	cochlear duct	E
+anterior surface of lens	anterior surface of the lens	E
+lacrimal nerve	lacrimal nerve	E
+neck of tooth	collum dentis	E
+suppressor effector t lymphocyte	suppressor effector t lymphocyte	E
+epithelium of paranasal sinus	paranasal sinus epithelium	E
+mesenchymal cell	mesenchymal stem cell	E
+anterior meningeal branch of anterior ethmoidal artery	anterior meningeal artery	E
+foramen ovale of heart	oval foramen	E
+ethmoid	ethmoid bone	E
+b lymphocyte	b lymphocyte	E
+bone of talus	talus	E
+styloglossus	styloglossus	E
+collagen	collagen	E
+vertebral column	vertebral column	E
+sensory neuron	sensory neuron	E
+muscle organ	muscle tissue	E
+sinus	sinus	E
+set of capsular ligaments	capsular ligament	E
+cheek	cheek	E
+segment of leg	leg	E
+set of splenic trabeculae	splenic trabecula	E
+cranial dura mater	cerebral dura mater	E
+superior gluteal artery	gluteal artery	E
+set of circular folds of small intestine	valve of kerckring	E
+jejunum	jejunum	E
+cardiac valve	cardiac valve	E
+scaphoid	scaphoid bone	E
+anterior tibial artery	anterior tibial artery	E
+myelin sheath	myelin	E
+dorsolateral fasciculus of medulla	tract of lissauer	E
+bronchial tree	bronchial tree	E
+stratified cuboidal epithelium	stratified cuboidal epithelium	E
+endothelium of vein	vein endothelium	E
+fascial sheath of eyeball	substantia propria	E
+secondary oocyte	secondary oocyte	E
+flexor carpi radialis	flexor carpi radialis	E
+head of humerus	head of the humerus	E
+subthalamic nucleus	subthalamic nucleus	E
+tertiary follicle of ovary	graafian follicle	E
+right common iliac artery	right common iliac artery	E
+purkinje fiber	purkinje fiber	E
+common carotid artery	common carotid artery	E
+posterior tibial artery	posterior tibial artery	E
+portal vein	portal vein	E
+cortex of lymph node	lymph node cortex	E
+duct of epididymis	duct of the epididymis	E
+pericallosal artery	pericallosal artery	E
+focal adhesion plaque	focal adhesion	E
+superior colliculus	anterior quadrigeminal body	E
+membranous urethra	membranous urethra	E
+glomerular basement membrane	glomerular basement membrane	E
+descending colon	descending colon	E
+distal phalanx of finger	distal phalanx of the hand	E
+ganglioside	ganglioside	E
+apex of tongue	apex of the tongue	E
+cytoplasmic granule	granule	E
+right atrium	right atrium	E
+acromioclavicular joint	acromioclavicular joint	E
+corpus callosum	corpus callosum	E
+iris	iris	E
+set of basal ganglia	basal ganglia	E
+saliva	saliva	E
+body of rib	rib shaft	E
+saccule of membranous labyrinth	saccule	E
+limb	extremities	E
+periosteum	periosteum	E
+granular leukocyte	granulocyte	E
+pacinian corpuscle	vater pacini corpuscle	E
+set of joints of pelvic girdle	joint of the pelvic girdle	E
+nucleus of brain	brain nucleus	E
+valve of inferior vena cava	eustachian valve	E
+set of pelvic lymph nodes	pelvic lymph node	E
+periosteal dura	periosteal layer of the dura mater	E
+superior rectal artery	superior hemorrhoidal artery	E
+dendrite	dendrite	E
+cavity of laryngeal ventricle	laryngeal ventricle	E
+basal cell	basal cell	E
+flexor carpi ulnaris	flexor carpi ulnaris	E
+n cadherin	n cadherin	E
+histidine	histidine	E
+auditory receptor	hair cell	E
+set of glands	gland	E
+middle rectal artery	middle hemorrhoidal artery	E
+chondroitin sulfate	chondroitin sulfate	E
+broca s area	area of broca	E
+set of cartilages	cartilage	E
+clitoris	clitoris	E
+pyloric sphincter	pyloric sphincter	E
+lamina propria of bronchus	bronchus lamina propria	E
+set of extra ocular muscles	oculomotor muscle	E
+eosinophil	eosinophil	E
+fibrous capsule of spleen	splenic capsule	E
+left common carotid artery	left common carotid artery	E
+atlanto axial joint	atlanto axial joint	E
+flexor hallucis longus	flexor hallucis longus	E
+lower uterine segment	isthmus uteri	E
+preganglionic neuron	visceral efferent neuron	E
+nasal cavity	nasal cavity	E
+adipose tissue	adipose tissue	E
+aorta	aorta	E
+apical foramen of root of tooth	foramen apicis dentis	E
+epiglottic cartilage	epiglottic cartilage	E
+renal interstitial cell	renal interstitial cell	E
+ganglion cell	ganglion cell	E
+deep	depth	E
+middle	middle	E
+dentate gyrus of hippocampal formation	dentate gyrus	E
+cusp	cusp	E
+central	center	E
+subcostal vein	subcostal vein	E
+set of sternocostal joints	sternocostal joint	E
+neurilemma	sheath of schwann	E
+capsule of ovary	ovarian capsule	E
+interleukin 3	interleukin 3	E
+set of masticatory muscles	muscle of the mastication	E
+costodiaphragmatic recess	costophrenic angle	E
+interleukin 7	interleukin 7	E
+spinalis thoracis	spinalis thoracis	E
+interleukin 5	interleukin 5	E
+interleukin 4	interleukin 4	E
+interleukin 9	interleukin 9	E
+interleukin 8	interleukin 8	E
+face	face	E
+ileocolic artery	ileo colic artery	E
+external anal sphincter	external anal sphincter	E
+intermediate filament protein	intermediate filament protein	E
+cilium	cilium	E
+centromedian nucleus	centromedian nucleus of the thalamus	E
+helicotrema	helicotrema	E
+hepatic lobule	hepatic lobule	E
+basophil cell	basophilic cell	E
+meningeal dura	meningeal layer of the dura mater	E
+set of tarsal glands	meibomian gland	E
+inferior suprarenal artery	inferior suprarenal artery	E
+thalamus	thalamus	E
+woven bone	immature bone	E
+common iliac lymph node	iliac lymph node	E
+mandibular nerve	inferior maxillary nerve	E
+superficial vein	superficial vein	E
+endoplasmic reticulum	endoplasmic reticulum	E
+cardinal cell part	cell part	E
+t cytotoxic cell	cytotoxic t lymphocyte	E
+heparin	heparin	E
+brachial nerve plexus	brachial plexus	E
+forebrain	fore brain	E
+arch of aorta	aortic arch	E
+carotid body	carotid body	E
+syndecan	syndecans	E
+root of cervical nerve	cervical spinal nerve root	E
+serine	serine	E
+lymphokine activated natural killer cell	lymphokine activated natural killer cell	E
+set of filiform papillae	filiform papilla	E
+dorsal root	dorsal root of the spinal nerve	E
+falciform ligament	falciform ligament	E
+sigmoid colon	sigmoid colon	E
+precentral gyrus	precentral gyrus	E
+lamina densa	lamina densa	E
+labium majus	labium majus	E
+urethral gland	urethral gland	E
+supraclavicular lymph node	supraclavicular lymph node	E
+muscularis mucosae	muscularis mucosa	E
+posterior pole of lens	posterior pole of the lens	E
+pigmented layer of retina	retinal pigment epithelium	E
+costal arch	costal arch	E
+lutein cell	lutein cell	E
+neurofilament	neurofilament	E
+intrahepatic bile duct	intrahepatic bile duct	E
+gracile fasciculus of medulla	tract of goll	E
+autonomic ganglion	autonomic ganglion	E
+prickle cell layer of epidermis	stratum spinosum	E
+serosa of uterus	perimetrium	E
+granulosa lutein cell	granulosa lutein cell	E
+bone organ	bone	E
+nucleus ambiguus	nucleus ambiguus	E
+parotid duct	parotid duct	E
+elastic cartilage	elastic cartilage	E
+immunoglobulin g	ig g	E
+urethra	urethra	E
+abdominal cavity	abdominal cavity	E
+superior sagittal sinus	superior sagittal sinus	E
+sweat gland	sweat gland	E
+optic chiasm	chiasma	E
+embryo	embryo	E
+subclavius	subclavius	E
+external naris	nostril	E
+transitional epithelium of urinary bladder	bladder transitional cell epithelium	E
+gastrocolic ligament	gastrocolic ligament	E
+peripheral nerve	peripheral nerve	E
+fibula	fibula	E
+root of tongue	base of the tongue	E
+subarachnoid cistern	subarachnoid cistern	E
+parotid gland	parotid gland	E
+syncytiotrophoblast cell	syncytiotrophoblastic cell	E
+pisiform	pisiform bone	E
+cricopharyngeus	cricopharyngeus muscle	E
+urine	urine	E
+squamous cell of ectocervix	ectocervical squamous cell	E
+ganglion cell of retina	retinal ganglion cell	E
+brainstem	brain stem	E
+lumbar nerve plexus	lumbar plexus	E
+axillary nerve	axillary nerve	E
+midbrain	mesencephalon	E
+nuclear membrane	nuclear membrane	E

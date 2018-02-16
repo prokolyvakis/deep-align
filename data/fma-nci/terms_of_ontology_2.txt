@@ -1,0 +1,6488 @@
+aids
+akt signaling pathway
+alk pathway
+apc tumor suppressor gene inactivation
+apud cell
+abdominal
+abdominal aorta
+abdominal aorta branch
+abdominal carcinomatosis
+abdominal cavity
+abdominal esophagus
+abdominal mass
+abdominal muscle
+abdominal pain
+abdominal skin
+abducens nerve
+abducens nerve disorder
+abducens nerve neoplasm
+abducens nucleus
+abducent nerve paralysis
+abductor pollicis longus
+abnormal blood and hematology test result
+abnormal bone marrow test result
+abnormal cell
+abnormal cell kind
+abnormal cells present
+abnormal connective and soft tissue cell
+abnormal cytotrophoblastic cell
+abnormal endothelial cell
+abnormal epithelial cell
+abnormal germ cell
+abnormal glandular cell
+abnormal hematology test result
+abnormal hematopoietic cell
+abnormal immunology test result
+abnormal intermediate type trophoblastic cell
+abnormal keratinocyte
+abnormal laboratory test
+abnormal lymphocyte
+abnormal macrophage
+abnormal mesothelial cell
+abnormal myoepithelial cell
+abnormal squamous cell
+abnormal syncytiotrophoblastic cell
+abnormal tissue present
+abnormal transitional cell
+abnormal trophoblastic cell
+abnormal urine test result
+absence of invasion
+absence of invasion or limited invasion present
+absence of stromal invasion
+absence of a hormonal syndrome
+acantholysis
+acantholytic acanthoma
+acantholytic squamous cell skin carcinoma
+acanthoma
+acanthosis
+accessory nerve
+accumbens nucleus
+acetabulum
+achilles tendon
+acidophilic cell
+acinar cell
+acinar cell adenoma
+acinar cell carcinoma
+acinar cell neoplasm
+acoustic schwannoma
+acquired hemangioma
+acquired lesion
+acral lentiginous malignant melanoma
+acral skin nevus
+acromial thoracic artery
+acromioclavicular joint
+acromion
+acrosyringeal nevus
+actin
+actin binding protein
+actin filament
+actinic damage
+activated lymphocyte
+activated natural killer cell
+acute clinical course
+acute inflammatory infiltrate
+acute leukemia
+adamantinoid basal cell carcinoma
+adenine
+adenocarcinofibroma
+adenocarcinoid tumor of the appendix
+adenocarcinoma
+adenocarcinoma cell
+adenocarcinoma cell with abundant cytoplasm
+adenocarcinoma clear cell
+adenocarcinoma endocervical type
+adenocarcinoma granular cell
+adenocarcinoma in adenomatous polyp
+adenocarcinoma in adenomatous polyposis coli
+adenocarcinoma in multiple adenomatous polyps
+adenocarcinoma in tubular adenoma
+adenocarcinoma in tubulovillous adenoma
+adenocarcinoma in villous adenoma
+adenocarcinoma in situ
+adenocarcinoma in situ in adenomatous polyp
+adenocarcinoma in situ in tubular adenoma
+adenocarcinoma in situ in tubulovillous adenoma
+adenocarcinoma in situ in villous adenoma
+adenocarcinoma in situ in a polyp
+adenocarcinoma with apocrine metaplasia
+adenocarcinoma with cartilaginous metaplasia
+adenocarcinoma with cartilaginous and osseous metaplasia
+adenocarcinoma with metaplasia
+adenocarcinoma with neuroendocrine differentiation
+adenocarcinoma with osseous metaplasia
+adenocarcinoma with spindle cell metaplasia
+adenocarcinoma with squamous metaplasia
+adenofibroma
+adenohypophysial cell
+adenoid basal cell carcinoma
+adenoid cystic carcinoma
+adenoid cystic skin carcinoma
+adenoma
+adenomatous polyp
+adenomyoma
+adenosine triphosphate
+adenosquamous carcinoma
+adipocyte
+adipose tissue
+adjuvant
+adnexal carcinoma
+adnexal differentiation
+adnexal mucinous adenocarcinoma
+adrenal cortex
+adrenal cortex neoplasm
+adrenal ganglioneuroblastoma
+adrenal gland
+adrenal gland angiosarcoma
+adrenal gland capsule
+adrenal gland disorder
+adrenal gland insufficiency
+adrenal gland neoplasm
+adrenal gland tissue
+adrenal hormone
+adrenal medulla
+adrenal medulla neoplasm
+adrenal rest neoplasm
+adrenergic agent
+adrenocorticotropic hormone
+adult angiosarcoma
+adult astrocytic tumor
+adult brain medulloblastoma
+adult brain neoplasm
+adult brain stem astrocytoma
+adult brain stem glioma
+adult brain stem mixed glioma
+adult brain stem neoplasm
+adult cardiac cellular rhabdomyoma
+adult central nervous system choriocarcinoma
+adult central nervous system embryonal carcinoma
+adult central nervous system germ cell neoplasm
+adult central nervous system germinoma
+adult central nervous system mixed germ cell neoplasm
+adult central nervous system neoplasm
+adult central nervous system primitive neuroectodermal tumor
+adult cerebellar neoplasm
+adult diffuse large b cell lymphoma
+adult ependymal tumor
+adult ependymoblastoma
+adult hodgkin s lymphoma
+adult infiltrating astrocytoma
+adult intracranial neoplasm
+adult leptomeningeal melanoma
+adult liposarcoma
+adult liver carcinoma
+adult lymphoma
+adult medulloblastoma
+adult non hodgkin s lymphoma
+adult pineal parenchymal cell neoplasm
+adult pineocytoma
+adult rhabdomyoma
+adult soft tissue sarcoma
+adult spinal cord neoplasm
+adult supratentorial primitive neuroectodermal tumor
+adulthood lesion
+advanced malignant mesothelioma
+advanced malignant neoplasm
+aggravated disease
+aggravated malignant neoplasm
+aggressive angiomyxoma
+aggressive clinical course
+aggressive digital papillary adenocarcinoma
+aggressive osteoblastoma
+aggressive papillary tumor of the temporal bone
+alanine
+alcohol chemical class
+aleukemic leukemia
+aleukemic leukemia cutis
+aleukemic lymphoid leukemia
+allergy chemokine network pathway
+alpha adrenergic agonist
+alpha adrenergic receptor
+alpha adrenergic receptor gene
+alpha cell
+alpha chemokine
+alternative fascicle bundle pattern
+alveolar adenoma
+alveolar cell
+alveolar cell type i
+alveolar cell type ii
+alveolar duct
+alveolar epithelium
+alveolar macrophage
+alveolar sac
+alveolar wall
+alveolus
+alveus
+alzheimer s disease
+alzheimers disease pathway
+amacrine cell
+ambient cistern
+amelanotic melanoma
+amelanotic skin melanoma
+ameloblast
+amino acid
+amino acid peptide protein metabolism
+amino acid peptide or protein
+amnion
+amniotic cavity
+amniotic sac
+amorphus eosinophilic and acellular deposit
+amphiarthrosis
+ampulla of vater
+ampulla of vater carcinoma
+ampulla of vater neoplasm
+ampullary crest
+amygdala
+amygdaloid body
+amyloid neoplasm
+amyloidoma
+amyloidosis
+anal
+anal canal
+anal column
+anal gland
+anal margin
+anal mucosa
+anal region
+anal sinus
+anaplastic brain stem glioma
+anaplastic carcinoma cell
+anaplastic cell
+anaplastic ganglioglioma
+anaplastic lesion
+anaplastic malignant neoplasm
+anastomosing cells connected to the basal layer of the epidermis present
+anastomosing strands of tumor cells present
+anatomic sites
+anatomic structure system or substance
+anatomic surface
+anatomical sciences
+anatomy kind
+anatomy modifier
+anchoring junction
+androgen
+anemia
+angiocentric immunoproliferative lesion
+angiocentric pattern
+angiodestructive pattern
+angiofibroma
+angiogenesis
+angiogenesis inhibitory protein
+angiogenic inhibition
+angioinvasion
+angiomatosis
+angiomyofibroblastoma
+angiomyxoma
+angiosarcoma
+angiosarcoma like areas present
+angiosarcoma associated with lymphedema
+angular artery
+angular gyrus
+animal
+ankle joint
+ankle skin
+anocutaneous line
+anogenital human papilloma virus infection
+anogenital papillomaviral intraepithelial neoplasia
+anterior
+anterior abdominal wall muscle
+anterior auricular vein
+anterior cerebral artery
+anterior cerebral artery branch
+anterior chamber of the eye
+anterior choroidal artery
+anterior circulation intracranial artery
+anterior commissure
+anterior communicating artery
+anterior cruciate ligament
+anterior eye segment
+anterior fossa
+anterior inferior cerebellar artery
+anterior jugular vein
+anterior lobe of the pituitary gland
+anterior longitudinal ligament
+anterior median fissure of spinal cord
+anterior mediastinal lymph node
+anterior mediastinum
+anterior meningeal artery
+anterior olfactory lobule
+anterior olfactory nucleus
+anterior parietal artery
+anterior pituitary gland neoplasm
+anterior pole of the lens
+anterior quadrigeminal body
+anterior spinal artery
+anterior supratentorial cistern
+anterior surface of the kidney
+anterior surface of the lens
+anterior surface of the liver
+anterior surface of the prostate
+anterior surface of the stomach
+anterior temporal artery
+anterior tibial artery
+anterior tibial vein
+anterior wall of the bladder
+anterior wall of the tympanum
+anterolateral
+antibody
+anticoagulant agent
+antigen
+antigen dependent b cell activation pathway
+antigen presentation
+antigen presenting cell
+antigen processing cell
+antihelix
+antioxidant
+antitragus
+antiviral response
+antoni a pattern
+antoni b pattern
+antrum pylori
+anus
+aorta
+aortic angiosarcoma
+aortic arch
+aortic arch branch
+aortic segment
+aortic valve
+apex of the heart
+apex of the lung
+apex of the prostate
+apex of the tongue
+apical
+apical domain of the epithelium
+apocrine adenoma
+apocrine breast carcinoma in situ
+apocrine carcinoma
+apocrine cell
+apocrine differentiation
+apocrine ductal breast carcinoma
+apocrine ductal carcinoma cell
+apocrine hydrocystoma
+apocrine metaplasia
+apocrine neoplasm
+apocrine sweat gland
+aponeurosis
+apoptosis
+apoptosis regulation pathway
+apoptotic pathway deregulation
+appendage of the uterus
+appendiceal l cell glucagon like peptide producing neoplasm
+appendicular skeleton
+appendix adenocarcinoma
+appendix adenoma
+appendix carcinoma
+appendix lipoma
+appendix mixed endocrine exocrine neoplasm
+appendix neoplasm
+appendix neuroendocrine neoplasm
+appendix serrated adenoma
+appendix signet ring cell carcinoma
+appendix tubular adenoma
+appendix tubulovillous adenoma
+appendix undifferentiated carcinoma
+appendix villous adenoma
+apple green dichromism present in polarized congo red stained sections
+aqueduct of sylvius
+aqueous humor
+arachnoid membrane
+arachnoid villus
+arborising network of cords of basaloid cells present
+arch of the vertebra
+arcuate nucleus
+area of broca
+area of depigmentation at the periphery of the dermal melanocytic infiltrate present
+areola
+argentaffin cell
+arginine
+arginine base
+arm
+arm skin
+arteriole
+arteriole endothelium
+arteriovenous shunt
+artery
+artery endothelium
+arthritis
+arthropathy
+articular cartilage
+articulation
+aryepiglottic muscle
+arytenoid cartilage
+ascending aorta
+ascending aorta branch
+ascending colon
+ascending limb of the henle s loop
+aspartic acid
+asthma
+astragalus
+astrocyte
+astrocytic tumor
+astrocytoma
+ataxic gait
+atlanto axial joint
+atlanto occipital joint
+atlas of the vertebra
+atopy
+atrial
+atrial myxoma
+atrioventricular bundle
+atrioventricular node
+atypia
+atypical adenoma
+atypical adipocyte
+atypical glandular epithelium resembling the normal endometrium present
+atypical glomus cell
+atypical histiocyte
+atypical lymphocyte
+atypical lymphoproliferative disorder
+atypical mitotic figures
+atypical polypoid adenomyoma
+auditory cortex
+auditory ossicle
+auditory system
+auricle
+autoimmune disease
+autoimmune lymphoproliferative syndrome
+autoimmune lymphoproliferative syndrome associated lymphoma
+autonomic ganglion
+autonomic nervous system
+autonomic nervous system part
+autosome
+axial
+axial skeleton
+axilla
+axillary
+axillary artery
+axillary artery branch
+axillary lymph node
+axillary nerve
+axillary tail of the breast
+axillary vein
+axis of the vertebra
+axoaxonic synapse
+axodendritic synapse
+axon
+axosomatic synapse
+azygos vein
+b cell development
+b cell lymphocytic neoplasm
+b cell non hodgkin s lymphoma
+b cell proliferation
+b lymphoblast
+b lymphocyte
+bad regulation pathway
+braf gene mutation
+brd 4 nut fusion protein expression
+back
+balloon cell malignant skin melanoma
+balloon cell nevus
+balloon nevus cell
+baloon melanoma cell
+band cell
+barr body
+bartholin s gland
+basal cell
+basal cell carcinoma
+basal cell neoplasm
+basal cell nevus syndrome
+basal cell of the squamous epithelium
+basal domain of the epithelium
+basal ganglia
+basal lamina
+basal layer of the endometrium
+basaloid carcinoma
+basaloid cell
+basaloid squamous cell carcinoma
+base of the brain
+base of the heart
+base of the prostate
+base of the skull
+base of the tongue
+basement membrane
+basilar artery
+basilar artery branch
+basilar membrane
+basilar membrane of the membranous canal of the cochlea
+basilic vein
+basophil
+basophilic adenocarcinoma
+basophilic adenocarcinoma cell
+basophilic cell
+basophilic erythroblast
+basosebaceous basal cell carcinoma
+basosquamous cell carcinoma
+benign adrenal cortex neoplasm
+benign adrenal gland neoplasm
+benign adrenal medulla neoplasm
+benign adult brain neoplasm
+benign adult brain stem neoplasm
+benign adult cerebellar neoplasm
+benign adult cerebral neoplasm
+benign apocrine neoplasm
+benign appendix neoplasm
+benign atrial neoplasm
+benign basal cell neoplasm
+benign blood vessel neoplasm
+benign bone neoplasm
+benign brain neoplasm
+benign brain stem neoplasm
+benign breast neoplasm
+benign brenner tumor
+benign cardiac germ cell neoplasm
+benign cardiac neoplasm
+benign cecum neoplasm
+benign cellular infiltrate
+benign central nervous system soft tissue neoplasm
+benign cerebellar neoplasm
+benign cerebral neoplasm
+benign cervical neoplasm
+benign childhood brain neoplasm
+benign childhood central nervous system neoplasm
+benign childhood cerebral neoplasm
+benign childhood germ cell neoplasm
+benign childhood supratentorial neoplasm
+benign chondrogenic neoplasm
+benign colon neoplasm
+benign colorectal neoplasm
+benign connective and soft tissue neoplasm
+benign cutaneous fibrohistiocytic neoplasm
+benign cutaneous fibrous neoplasm
+benign deep fibrous histiocytoma
+benign dermal neoplasm
+benign diencephalic neoplasm
+benign duodenal neoplasm
+benign eccrine breast spiradenoma
+benign eccrine neoplasm
+benign endocardial neoplasm
+benign endocrine neoplasm
+benign endometrial neoplasm
+benign epicardial neoplasm
+benign epithelial neoplasm
+benign epithelial skin neoplasm
+benign exocrine pancreatic neoplasm
+benign extragonadal germ cell neoplasm
+benign extraskeletal cartilaginous and osseous neoplasm
+benign eye neoplasm
+benign female breast neoplasm
+benign female reproductive system neoplasm
+benign fibrohistiocytic neoplasm
+benign fibrous histiocytoma
+benign fibrous histiocytoma of bone
+benign fibrous soft tissue neoplasm
+benign gastrointestinal neoplasm
+benign germ cell neoplasm
+benign glomus tumor
+benign granular cell tumor
+benign great vessel neoplasm
+benign infratentorial neoplasm
+benign intestinal neoplasm
+benign intracranial neoplasm
+benign lacrimal duct neoplasm
+benign lacrimal gland neoplasm
+benign lipomatous neoplasm
+benign lung hilum neoplasm
+benign lung neoplasm
+benign lymph node neoplasm
+benign lymphatic vessel neoplasm
+benign lymphoproliferative disorder
+benign male breast neoplasm
+benign melanocytic nevus
+benign miscellaneous mesenchymal neoplasm
+benign muscle neoplasm
+benign myocardial neoplasm
+benign myoepithelioma
+benign nasal cavity neoplasm
+benign neck neoplasm
+benign neoplasm of lower jaw bone
+benign neoplasms of the meninges
+benign nervous system neoplasm
+benign nipple neoplasm
+benign non epithelial hepatic and intrahepatic bile duct neoplasm
+benign orbit neoplasm
+benign osteogenic neoplasm
+benign ovarian clear cell tumor
+benign ovarian endometrioid tumor
+benign ovarian epithelial neoplasm
+benign ovarian mixed epithelial neoplasm
+benign ovarian mucinous tumor
+benign ovarian neoplasm
+benign ovarian transitional cell tumor
+benign pancreatic neoplasm
+benign pericardial neoplasm
+benign peritoneal neoplasm
+benign perivascular neoplasm
+benign phyllodes tumor
+benign phyllodes tumor of the breast
+benign pineal region neoplasm
+benign pituitary gland neoplasm
+benign rectal neoplasm
+benign reproductive system neoplasm
+benign respiratory tract neoplasm
+benign retroperitoneal neoplasm
+benign scrotal neoplasm
+benign sebaceous neoplasm
+benign skeletal muscle neoplasm
+benign skin appendage neoplasm
+benign skin neoplasm
+benign small intestinal neoplasm
+benign smooth muscle neoplasm
+benign soft tissue neoplasm
+benign spinal cord neoplasm
+benign squamous cell neoplasm
+benign supratentorial neoplasm
+benign sweat gland neoplasm
+benign synovial neoplasm
+benign thalamic neoplasm
+benign thoracic neoplasm
+benign thyroid neoplasm
+benign uterine corpus mixed neoplasm
+benign uterine corpus neoplasm
+benign uterine neoplasm
+benign vascular neoplasm
+benign verrucous lesion
+beta adrenergic receptor
+beta adrenergic receptor gene
+beta cell
+beta chemokine
+biceps
+biceps femoris
+bicuspid tooth
+bilateral breast carcinoma
+bilateral carcinoma
+bilateral disease
+bilateral malignant neoplasm
+bilateral mass
+bile
+bile canaliculus
+bile duct
+bile duct epithelium
+bile duct tissue
+bile pigment present
+biliary tract
+bioactive food component
+biochemical pathway
+biochemical process
+biochemical reaction
+biological agent
+biological process
+biological process kind
+biological response modifier
+biological sciences
+biomarker
+biophysical process
+biphasic pattern
+bipolar neuron
+birbeck granule
+bladder
+bladder fundus
+bladder mucosa
+bladder muscular coat
+bladder neck
+bladder tissue
+bladder transitional cell
+bladder transitional cell epithelium
+bladder trigone
+bladder wall
+blast cell
+blastemal cell
+blastocyst
+blastomere
+blood
+blood capillary
+blood vessel
+blood vessel endothelium
+blood vessel neoplasm
+blood vessel tissue
+blue nevus
+blue nevus like melanoma
+blue rubber bleb nevus
+body cavity
+body fluid or substance
+body fluids and substances mmhcc
+body part
+body region
+body surface
+body temperature associated symptom
+body of stomach
+body of the corpus callosum
+body of the epididymis
+body of the lateral ventricle
+body of the nail
+body of the pancreas
+body of the penis
+bone
+bone angiosarcoma
+bone cell
+bone epithelioid hemangioma
+bone fibrosarcoma
+bone glomus tumor
+bone hemangioma
+bone injury
+bone lesion
+bone lipoma
+bone liposarcoma
+bone marrow
+bone marrow homing plasma cell
+bone marrow blood forming cell
+bone marrow myeloid stem cell
+bone marrow stem cell
+bone matrix
+bone neoplasm
+bone pain
+bone sarcoma
+bone surface
+bone tissue
+bone of the extremity
+bone of the lower extremity
+bone of the upper extremity
+borderline lesion
+borderline ovarian serous tumor with microinvasion
+bowman s capsule
+bowman s membrane
+brachial artery
+brachial artery branch
+brachial plexus
+brachial vein
+brachialis
+brain
+brain astrocytoma
+brain hemangioma
+brain neoplasm
+brain nucleus
+brain part
+brain sarcoma
+brain stem
+brain stem astrocytoma
+brain stem glioma
+brain stem neoplasm
+brain white matter
+breast
+breast related entity
+breast adenocarcinoma
+breast adenoma
+breast angiomatosis
+breast angiosarcoma
+breast apocrine adenoma
+breast capillary hemangioma
+breast carcinoma
+breast carcinoma metastatic to the bone
+breast carcinoma metastatic to the brain
+breast carcinoma metastatic to the liver
+breast carcinoma metastatic to the lung
+breast carcinoma metastatic to the skin
+breast disorder
+breast epithelioid hemangioma
+breast fibroepithelial neoplasm
+breast fibrosarcoma
+breast fluid or secretion
+breast granular cell tumor
+breast hemangioma
+breast liposarcoma
+breast melanoma
+breast myoepithelial neoplasm
+breast myofibroblastoma
+breast neoplasm
+breast neuroendocrine neoplasm
+breast nevus
+breast papillomatosis
+breast sarcoma
+breast soft tissue neoplasm
+breast tubular adenoma
+brenner tumor
+brenner tumor of the ovary
+broad ligament
+bronchial adenoma
+bronchial artery
+bronchial epithelial cell
+bronchial epithelium
+bronchial lymph node
+bronchial mucus gland adenoma
+bronchial tree
+bronchial vein
+bronchiole
+bronchiole epithelium
+bronchus
+bronchus associated lymphoid tissue
+bronchus cartilage
+bronchus lamina propria
+bronchus submucosa
+brown adipose tissue
+brunner s gland
+brush cell
+buccal artery
+buccal cavity
+buccal mucosa
+buccal salivary gland
+buccal surface
+buccinator
+bulbar conjunctiva
+bulbus cordis
+c 1 vertebra
+c 2 vertebra
+c 3 vertebra
+c 4 vertebra
+c 5 vertebra
+c 6 vertebra
+c 7 vertebra
+ccl 1 1 gene
+ccl 2 4 gene
+ccl 2 6 gene
+ccl 7 gene
+ccnd 1 gene amplification
+ccr 3 signaling pathway
+cc cytokine gene
+cd 4 plus t lymphocyte
+cd 5 6 antigen
+cd 8 plus t lymphocyte
+cdh 1 gene
+cdh 1 tumor suppressor gene inactivation
+cdh 3 gene
+col 1 a 2 plag 1 fusion protein expression
+crh gene
+cspg 6 gene
+ctcf pathway
+cxc cytokine gene
+cadherin
+cadherin domain
+cafe au lait patch
+calcaneum
+calcarine artery
+calcarine sulcus
+calcification
+calcifying fibrous pseudotumor
+calcitonin positive neoplastic cells present
+calcium binding domain
+calcium binding
+calcium binding protein
+callosomarginal artery
+canal for tensor tympani
+canal of schlemm
+canalis radicis dentis
+cancer related condition
+cancer progression
+cancer with regional lymph node involvement
+canine tooth
+capillary
+capillary endothelium
+capillary hemangioma
+capillary sized vascular channel formation
+capitate bone
+caproic acid
+capsular invasion
+capsular ligament
+capsule
+capsule of the prostate
+carbohydrate
+carbohydrate metabolism
+carboxylic acids
+carcinoma
+carcinoma ex eccrine spiradenoma
+carcinoma in a polyp
+carcinoma in situ
+carcinoma in situ in a polyp
+carcinoma with t 1 5 1 9 q 1 3 p 1 3 1 translocation
+carcinomatosis
+carcinomatous component present
+carcinosarcoma
+cardia
+cardia gland
+cardiac
+cardiac atrium
+cardiac capillary hemangioma
+cardiac cavernous hemangioma
+cardiac fibroelastic hamartoma
+cardiac fibrosarcoma
+cardiac granular cell tumor
+cardiac hemangioma
+cardiac intramuscular hemangioma
+cardiac lipoma
+cardiac malignant fibrous histiocytoma
+cardiac neoplasm
+cardiac nerve plexus
+cardiac rhabdomyoma
+cardiac sarcoma
+cardiac valve
+cardiac valve cusp
+cardiac vein
+cardiac ventricle
+cardinal vein
+cardiocyte
+cardiovascular
+cardiovascular disorder
+cardiovascular neoplasm
+cardiovascular system
+cardiovascular system finding
+cardiovascular system part
+carina
+carotid artery
+carotid body
+carpal bone
+carpal joint
+carpometacarpal joint
+carpus bone
+cartilage
+cartilage cell
+cartilagenous metaplasia
+cartilagenous tissue
+cartilaginous differentiation
+cauda equina
+cauda equina neoplasm
+caudad
+caudal
+caudate nucleus
+cauliflower like mass
+cavernous hemangioma
+cavernous hemangioma of the face
+cavernous lymphangioma
+cavernous lymphatic space formation
+cavernous sinus
+cavernous vascular space formation
+cavity
+cavum conchae
+cecum
+cecum carcinoma
+cecum carcinoma in situ
+cecum neoplasm
+cecum villous adenoma
+celiac lymph node
+cell
+cell cell adhesion
+cell matrix adhesion
+cell mediated immunity
+cell to extracellular matrix junction
+cell adhesion
+cell adhesion molecule
+cell adhesion molecule gene
+cell adhesion process
+cell cycle
+cell cycle stage
+cell death
+cell death inhibition
+cell death process
+cell death signaling process
+cell differentiation
+cell differentiation process
+cell differentiation or development pathway
+cell division
+cell division process
+cell growth
+cell growth process
+cell growth regulation
+cell junction
+cell maturation
+cell migration
+cell migration alteration
+cell migration inhibition
+cell motility
+cell motility pathway
+cell movement
+cell movement process
+cell part
+cell proliferation
+cell proliferation regulation
+cell signaling process
+cell space
+cell stress process
+cell structure
+cell surface
+cell surface receptor
+cell viability process
+cell of the epidermis
+cell to cell adhesion signaling pathway
+cellular angiofibroma
+cellular blue nevus
+cellular fibroma
+cellular infiltrate
+cellular membrane
+cellular morphology
+cellular myxoma
+cellular origin unknown
+cellular pleomorphism
+cellular process
+cellular schwannoma
+cellular secretion
+cellular stress
+cellular stress response
+cellulose
+cementoblast
+cementocyte
+cementum
+center
+central canal
+central lobe
+central nervous system
+central nervous system angiosarcoma
+central nervous system carcinoma
+central nervous system choriocarcinoma
+central nervous system disorder
+central nervous system fibrosarcoma
+central nervous system germ cell neoplasm
+central nervous system hematopoietic neoplasm
+central nervous system leukemia
+central nervous system lipoma
+central nervous system melanocytic neoplasm
+central nervous system melanoma
+central nervous system neoplasm
+central nervous system neuroepithelial neoplasm of uncertain origin
+central nervous system part
+central nervous system primitive neuroectodermal tumor
+central nervous system sarcoma
+central nervous system soft tissue neoplasm
+central sulcus of rolando
+central tendon of the diaphragm
+centriole
+centromedian nucleus of the thalamus
+centromere
+centrosome
+cephalad
+cephalic vein
+cerebellar astrocytoma
+cerebellar cortex
+cerebellar neoplasm
+cerebellar neuronal and mixed neuronal glial tumor
+cerebellar vein
+cerebellar vermis medulloblastoma
+cerebellopontine angle
+cerebellopontine angle neoplasm
+cerebellopontine angle primitive neuroectodermal tumor
+cerebellum
+cerebellum white matter
+cerebral aqueduct
+cerebral astrocytoma
+cerebral calcification
+cerebral dura mater
+cerebral fissure
+cerebral gray matter
+cerebral gyrus
+cerebral hemangioma
+cerebral hemisphere
+cerebral hemisphere lipoma
+cerebral neoplasm
+cerebral peduncle
+cerebral primitive neuroectodermal tumor
+cerebral sulcus
+cerebral vein
+cerebral white matter
+cerebrospinal fluid
+cerumen
+cervical adenocarcinoma
+cervical adenoid basal carcinoma
+cervical artery
+cervical blue nevus
+cervical carcinoma
+cervical disorder
+cervical esophagus
+cervical gland
+cervical glandular neoplasm
+cervical lymph node
+cervical lymphadenopathy
+cervical mullerian papilloma
+cervical neoplasm
+cervical nerve
+cervical rhabdomyoma
+cervical soft tissue neoplasm
+cervical spinal cord
+cervical spinal nerve root
+cervical spine
+cervical squamous neoplasm
+cervical symmetrical lipomatosis
+cervical vertebra
+cervical wilms tumor
+cervicomedullary junction
+cervicomedullary junction neoplasm
+cervix
+cervix epithelium
+chamber of the eye
+character
+characteristics
+cheek
+chelating activity
+chemical synapse
+chemical synapse component
+chemicals and drugs kind
+chemo immunostimulant adjuvant
+chemokine
+chemotaxis
+chest
+chest wall
+chiasma
+chiasmatic cistern
+chief cell
+chief cell of the stomach
+childhood angiosarcoma
+childhood astrocytic tumor
+childhood brain germ cell neoplasm
+childhood brain neoplasm
+childhood brain stem astrocytoma
+childhood brain stem glioma
+childhood brain stem neoplasm
+childhood central nervous system germ cell neoplasm
+childhood central nervous system neoplasm
+childhood central nervous system primitive neuroectodermal tumor
+childhood cerebellar astrocytoma
+childhood cerebellar neoplasm
+childhood cerebral astrocytoma
+childhood cerebral ependymoblastoma
+childhood diffuse large b cell lymphoma
+childhood extracranial germ cell tumor
+childhood fibrosarcoma
+childhood germ cell neoplasm
+childhood hematopoietic neoplasm
+childhood hepatic neoplasm
+childhood hodgkin s lymphoma
+childhood infratentorial ependymoblastoma
+childhood infratentorial neoplasm
+childhood intracranial neoplasm
+childhood leptomeningeal melanoma
+childhood lesion
+childhood leukemia
+childhood liposarcoma
+childhood lymphoma
+childhood mature t and nk cell lymphoma
+childhood medulloblastoma
+childhood neoplasm
+childhood non hodgkin s lymphoma
+childhood soft tissue sarcoma
+childhood spinal cord neoplasm
+childhood supratentorial ependymoblastoma
+childhood supratentorial neoplasm
+childhood visual pathway astrocytoma
+childhood visual pathway glioma
+chondroblast
+chondrocranium
+chondrocyte
+chondrogenic neoplasm
+chondroitin sulfate
+chondroitin sulfate proteoglycan 6
+chondroma
+chondromatosis
+chordae tendineae
+choriocarcinoma
+choriocarcinoma combined with other germ cell elements
+chorion
+chorionic sac
+choroid
+choroid plexus
+choroid plexus epithelium
+choroid plexus epithelium of the fourth ventricle
+choroid plexus epithelium of the lateral ventricle
+choroid plexus of the fourth ventricle
+choroid plexus of the lateral ventricle
+choroid plexus of the third ventricle
+choroidal fissure
+chromaffin cell
+chromatid
+chromatin
+chromatin remodeling
+chromatin structure alteration
+chromogranin a positive neoplastic cells present
+chromophobe cell
+chromosomal aberration
+chromosomal deletion
+chromosomal gain
+chromosomal loss
+chromosomal processes
+chromosomal rearrangement
+chromosomal translocation
+chromosome
+chromosome cohesion
+chromosome structure
+chromosome x
+chromosome y
+chronic clinical course
+chronic inflammatory infiltrate
+chronic leukemia
+chronic lymphadenitis
+chronic lymphocytic leukemia
+chronic lymphocytic leukemia small lymphocytic lymphoma
+chyle cistern
+ciliary body
+ciliary epithelium
+ciliary muscle
+ciliary process
+ciliated bronchial epithelial cell
+cilium
+circular sulcus
+circulatory process
+circumflex branch of the left coronary artery
+circumflex iliac artery
+circumscribed lesion
+circumvallate papilla
+cis golgi network
+cisterna magna
+cisterna of the golgi apparatus
+cisterna of the rough endoplasmic reticulum
+clara cell
+classic lobule
+classical eccrine poroma
+claustrum
+clavicle
+clear cell
+clear cell sugar tumor of the lung
+clear cell adenocarcinoma
+clear cell adenofibroma
+clear cell adenoma
+clear cell basal cell carcinoma
+clear cell cystadenofibroma
+clear cell eccrine carcinoma
+clear cell hidradenoma
+clear cell myomelanocytic tumor of the falciform ligament ligamentum teres
+clear cell squamous cell skin carcinoma
+clinical course of disease
+clitoris
+clonal antigen receptor gene rearrangement
+clonal cellular population present
+clonal eosinophils present
+clonal gene rearrangement
+clonal hematopoietic stem cell
+clonal immunoglobulin gene rearrangement
+clonal immunoglobulin heavy chain gene rearrangement
+clonal immunoglobulin kappa light chain gene rearrangement
+clonal immunoglobulin lambda light chain gene rearrangement
+clonal immunoglobulin light chain gene rearrangement
+coagulation
+coagulation disorder
+coagulation factor
+coagulation factor viii
+coagulation factor deficiency
+coagulation factor gene
+coagulation process
+coccygeal nerve
+coccygeal vertebra
+coccyx
+cochlea
+cochlear duct
+cochlear labyrinth
+cochlear nerve
+cochlear nuclei
+cochlear nucleus
+coeliac artery
+coeliac ganglion
+cognitive disturbance
+cognitive dysfunction
+cold nodule
+collagen
+collagen iv
+collagen bundles formation
+collagen fiber
+collagen fibril
+collagen gene
+collagenous stroma formation
+collateral fissure
+collateral sulcus
+collecting tube
+collum dentis
+colon
+colon adenocarcinoma
+colon carcinoma
+colon cavernous hemangioma
+colon lipoma
+colon lymphangioma
+colon medullary carcinoma
+colon neoplasm
+colon neuroendocrine neoplasm
+colon sarcoma
+colon serrated adenoma
+colon tubular adenoma
+colon tubulovillous adenoma
+colon villous adenoma
+colonic adenoma
+colonic l cell glucagon like peptide producing neoplasm
+colorectal adenocarcinoma
+colorectal adenoma
+colorectal adenoma with mild dysplasia
+colorectal adenoma with moderate dysplasia
+colorectal adenoma with severe dysplasia
+colorectal carcinoma
+colorectal high grade intraepithelial neoplasia
+colorectal intraepithelial neoplasia
+colorectal lipoma
+colorectal medullary carcinoma
+colorectal neoplasm
+colorectal region
+colorectal serrated adenoma
+colorectal tubular adenoma
+colorectal tubulovillous adenoma
+colorectal villous adenoma
+colostrum
+column
+column structure
+columnar cell
+columnar cell change of the breast
+columnar cell change of the breast with atypia
+columnar cell lesion of the breast
+columnar epithelium
+combined carcinoid and adenocarcinoma
+combined hepatocellular carcinoma and cholangiocarcinoma
+comedo change
+comedocarcinoma
+commissure
+common bile duct
+common blue nevus
+common carcinoma
+common cardinal vein
+common carotid artery
+common carotid artery branch
+common femoral artery branch
+common hematopoietic neoplasm
+common hepatic duct
+common iliac artery
+common iliac artery branch
+common iliac vein
+common neoplasm
+common palmar digital artery
+communicating artery
+compartmentalized pattern
+complex glandular pattern
+composite
+composite ganglioneuroblastoma schwannian stroma rich and stroma poor
+composite ganglioneuroblastoma stroma dominant and stroma poor
+composite lesion
+composite lymphoma
+compound nevus
+conception
+conceptual entities
+concha
+condyloma acuminatum
+cone
+cone shape
+congenital adrenal gland disorder
+congenital adrenal hyperplasia
+congenital disorder of natural immunity
+congenital hemangioma
+congenital lesion
+congenital melanocytic skin nevus
+congenital or acquired anatomic abnormality
+conjunctiva
+conjunctival epithelium
+connective tissue
+connective tissue component of the peripheral nerve
+connective tissue disorder
+connective tissue fiber
+connective tissue proper
+connective and soft tissue
+connective and soft tissue cell
+connective and soft tissue disorder
+connective and soft tissue neoplasm
+continuous capillary
+conus medullaris
+conus medullaris neoplasm
+conventional cardiac rhabdomyoma
+convoluted tubule
+coracobrachialis
+cord like pattern
+cornea
+corneal endothelium
+corneal epithelium
+corneal stroma
+corneoscleral coat
+corneoscleral limbus
+corniculate cartilage
+cornu ammonis
+corona dentis
+coronary artery
+coronary ligament
+coronary sinus
+coronary valve
+coronary vein
+corpora quadrigemina
+corpus callosum
+corpus callosum lipoma
+corpus luteum
+corpus striatum
+corpus uteri
+cortex
+cortical bone
+cortical cell layer
+cortical cell layer of the cerebellum
+cortical cell layer of the cerebral cortex
+cortical column
+cortical cord
+corticotrope cell
+corticotroph cell
+corticotropin releasing hormone
+costal arch
+costal cartilage
+costochondral joint
+costophrenic angle
+costovertebral joint
+cowper s gland
+cranial
+cranial nerve
+cranial nerve disorder
+cranial nerve neoplasm
+cranial nerve paralysis
+cremaster muscle
+crest
+cribriform carcinoma
+cribriform pattern
+cricoarytenoid joint
+cricoesophageal tendon
+cricoid cartilage
+cricopharyngeus muscle
+cricothyroid joint
+cricothyroid ligament
+cricothyroid muscle
+cricotracheal ligament
+crohn s disease
+crossed pyramidal tract
+crus cerebri
+crus helicis
+crypts of the lieberkuhn
+crystalline lens
+cube
+cuboid bone
+cuboidal cell
+cuboidal epithelium
+cuneate nucleus
+cuneiform cartilage
+cushing s syndrome
+cusp
+cutaneous fibrohistiocytic neoplasm
+cutaneous fibrous tissue neoplasm
+cutaneous follicular lymphoma
+cutaneous glomangioma
+cutaneous granular cell tumor
+cutaneous hematopoietic and lymphoid cell neoplasm
+cutaneous involvement
+cutaneous lipomatous neoplasm
+cutaneous liposarcoma
+cutaneous lymphoproliferative disorder
+cutaneous mature b cell neoplasm
+cutaneous mature t cell and nk cell neoplasm
+cutaneous melanoma
+cutaneous muscle
+cutaneous myxoma
+cutaneous pseudolymphoma
+cutaneous smooth muscle neoplasm
+cutaneous vein
+cyclin d 1 messenger rna overexpression
+cyclin d 1 protein overexpression
+cylinder
+cylindroma
+cymba conchae
+cyst
+cystadenofibroma
+cysteine
+cystic basal cell carcinoma
+cystic changes
+cystic duct
+cystic lesion
+cystic lymphangioma
+cystic vein
+cytokine
+cytokine activation
+cytokine gene
+cytokine network pathway
+cytokine receptor activation
+cytokine signaling
+cytokinesis
+cytologic atypia
+cytopenia
+cytoplasm
+cytoplasmic inclusion
+cytoplasmic matrix
+cytoplasmic organelle
+cytoplasmic tail
+cytosine
+cytoskeletal gene
+cytoskeletal protein
+cytoskeleton
+cytosol
+cytotoxic t lymphocyte
+cytotrophoblast
+dna binding
+dna sequence alteration
+dna sequence rearrangement
+dna structure
+drd 2 gene
+dairy product
+data type
+decidua
+decidua basalis
+decidua capsularis
+decidual cell
+deep
+deep abdominal muscle
+deep circumflex iliac artery
+deep epigastric vein
+deep femoral artery
+deep femoral artery branch
+deep hemangioma
+deep intracranial venous system
+deep lesion
+deep lipoma
+deep lymphatic vessel
+deep middle cerebral vein
+deep penetrating nevus
+deep temporal vein
+deep tissue invasion
+deep vein
+defective heavy chain present
+defective mu heavy chain present
+degenerative disorder
+deletions of chromosome 2 2 associated meningiomas
+deletions of chromosome 3p associated meningiomas
+deletions of the short arm of chromosome 1 1p associated meningiomas
+delta cell
+delta cell of the pancreas
+deltoid
+dementia
+dendrite
+dendritic cell
+dendritic cell pathway
+dendritic melanoma cell
+dense collagenized tissue present
+dense connective tissue
+dense intercellular reticulin network present
+dental pulp
+dentate gyrus
+dentatorubropallidoluysian atrophy pathway
+dentin
+dentition
+deoxyribonucleic acid
+deposit
+depressor labii inferioris
+depth
+deregulation of protein and messenger rna expression
+dermal fibroma
+dermal involvement
+dermal neoplasm
+dermatitis
+dermatosis
+dermis
+dermo epidermal junction
+descemet s membrane
+descending aorta
+descending colon
+descending limb of the henle s loop
+desmoplastic medulloblastoma
+desmoplastic melanoma
+desmoplastic nevus
+desmoplastic stroma formation
+desmosome
+detoxification
+detoxification process
+development
+developmental process
+diabetes mellitus
+diagnostic therapeutic and research equipment
+diagnostic and prognostic factors kind
+diagnostic or prognostic factor
+diaphragm
+diaphragm part
+diaphragma sellae
+diaphysis of the bone
+diarrhea
+diarthrosis
+diencephalic astrocytoma
+diencephalic neoplasm
+diencephalon
+dietary amino acid
+dietary carbohydrate
+dietary component
+dietary fatty acid
+dietary fiber
+dietary lipid
+dietary phospholipid
+dietary polysaccharide
+dietary protein
+differentiation antigen
+diffuse cellular infiltrate
+diffuse large b cell lymphoma
+diffuse lesion
+diffuse lipomatosis
+diffuse malignant mesothelioma
+diffuse pattern
+diffuse pulmonary lymphangiomatosis
+diffuse type adenocarcinoma
+digastric muscle
+digestive system
+digestive system mmhcc
+digit
+digit number
+digital
+dilated terminal duct lobular units present
+dilated terminal duct lobular units with acini lined by one or two layers of columnar epithelial cells present
+dilated thin walled vascular space formation
+dilated vascular space formation
+dilator pupillae muscle
+direct pyramidal tract
+disaccharide
+discontinuous capillary
+disease grade modifier
+disease gross finding modifier
+disease marker
+disease modifier
+disease morphology modifier
+disease pathway
+disease progression
+disease stage modifier
+diseases disorders and findings
+diseases and disorders
+disorder by site
+disorder of the 1 1th nerve
+disseminated adenocarcinoma
+disseminated carcinoma
+disseminated malignant neoplasm
+disseminated squamous cell carcinoma
+distal
+distal convoluted tubule
+distal phalanx of foot
+distal phalanx of hand
+distal phalanx of the hand
+distantly metastatic neoplasm
+disturbance in bowel function
+diverticulum
+document type
+dome shaped lesion
+dopamine
+dopamine base
+dopamine receptor
+dopamine receptor d 2
+dopaminergic cell
+dorsal
+dorsal cochlear nucleus
+dorsal foot interosseous muscle
+dorsal hand interosseous muscle
+dorsal horn of the spinal cord
+dorsal metacarpal artery
+dorsal metatarsal vein
+dorsal nasal artery
+dorsal nucleus of the vagus nerve
+dorsal region of foot
+dorsal root ganglion
+dorsal root of the spinal nerve
+dorsalis pedis artery
+dorsalis pedis artery branch
+dorsomedial nucleus of the thalamus
+dorsum
+dorsum of the tongue
+drop metastasis
+drop metastasis to spinal cord
+drug efflux
+drug exposure
+drug metabolism
+drug resistance
+drugs and chemicals
+drugs and chemicals structural classification
+duct
+duct salivary gland system
+duct of the epididymis
+duct of the gartner
+ductal breast carcinoma
+ductal carcinoma cell
+ductal carcinoma in situ and lobular carcinoma in situ
+ductal carcinoma in situ of the breast
+ductal carcinoma in situ of the breast solid type
+ductal eccrine carcinoma
+ductal eccrine carcinoma with abundant fibromyxoid stroma
+ductal eccrine carcinoma with spindle cell elements
+ductal eccrine carcinoma with squamous metaplasia
+ductus arteriosus
+ductus santorini
+ductus venosus
+duodenal adenoma
+duodenal carcinoma
+duodenal g cell gastrin producing neoplasm
+duodenal neoplasm
+duodenal villous adenoma
+duodenum
+dura mater
+dyskeratosis
+dysplasia
+dysplastic cerebellar gangliocytoma
+dysplastic epithelial cell
+dysplastic ganglion cell
+dysplastic glandular cell
+dysplastic squamous cell
+dystrophic calcification
+e cadherin
+e selectin
+egf like domain
+eo anatomy kind
+erbb 2 gene amplification
+erbb 2 signaling pathway
+ear
+ear mmhcc
+ear middle ear mmhcc
+ear part
+ear skin
+early endosome
+early invasive cervical adenocarcinoma
+early stromal invasion present
+eccrine adenocarcinoma
+eccrine adenocarcinoma cell
+eccrine cell
+eccrine cystadenoma
+eccrine dermal duct neoplasm
+eccrine differentiation
+eccrine neoplasm
+eccrine papillary adenocarcinoma
+eccrine porocarcinoma
+eccrine spiradenoma
+eccrine sweat gland
+eccrine syringofibroadenoma
+ectocervical mucosa
+ectocervical squamous cell
+ectocervix
+ectoderm
+ectoderm cell
+ectopic hamartomatous thymoma
+ectopic meningioma
+edematous stroma formation
+efferent ductule
+effusion
+egg
+ehlers danlos syndrome
+ejaculatory duct
+elastic cartilage
+elastic fiber
+elastin fiber
+elbow joint
+elbow skin
+electrical synapse
+embryo
+embryoid bodies present
+embryologic structure or system
+embryonal carcinoma
+embryonal carcinoma of the cns
+embryonal neoplasm
+embryonal neoplasm of the cns
+embryonic
+embryonic artery
+embryonic atrium
+embryonic cardiovascular system
+embryonic cell
+embryonic connective tissue
+embryonic digestive system
+embryonic disc
+embryonic heart
+embryonic integumentary system
+embryonic muskuloskeletal system
+embryonic nervous system
+embryonic stem cell
+embryonic structure
+embryonic tissue
+embryonic urogenital system
+embryonic vein
+embryonic ventricle
+emperipolesis
+enamel
+encapsulated mass
+encapsulated neoplasm
+encephalocraniocutaneous lipomatosis
+enchondroma
+enchondromatosis
+endobronchial lipoma
+endocardial myxoma
+endocardial neoplasm
+endocardium
+endocervical columnar cell
+endocervical mucosa
+endocervix
+endocrine stromal cell
+endocrine cell and neuroendocrine cell
+endocrine cell of the gastrointestinal system
+endocrine disorder
+endocrine gland
+endocrine neoplasm
+endocrine ovary
+endocrine pancreas
+endocrine pancreas disorder
+endocrine reproductive tissue
+endocrine sex organ
+endocrine syndrome
+endocrine system
+endocrine system finding
+endocrine system part
+endocrine testis
+endocytotic vesicle
+endoderm
+endoderm cell
+endolymph
+endometrial adenocarcinoma
+endometrial carcinoma
+endometrial cavity
+endometrial cell
+endometrial clear cell carcinoma
+endometrial disorder
+endometrial mixed adenocarcinoma
+endometrial neoplasm
+endometrial serous intraepithelial carcinoma
+endometrial squamous cell carcinoma
+endometrial stroma
+endometrial stromal cell
+endometrial stromal neoplasm
+endometrial stromal neoplasm of the cervix
+endometrial stromal sarcoma
+endometrial stromal sarcoma of the cervix
+endometrial transitional cell carcinoma
+endometrial undifferentiated carcinoma
+endometrioid carcinoma
+endometrioid stromal cell
+endometrioid tumor
+endometrium
+endomysium
+endoneurium
+endophytic tumor growth
+endoplasmic reticulum
+endosome
+endosteal cell
+endosteum
+endothelial cell
+endothelium
+energy metabolism
+enteric ganglion
+enteritis
+enterochromaffin cell
+enterocyte
+enteroendocrine cell
+enzyme
+enzyme gene
+eosinophil
+eosinophilia
+eosinophilic endomyocardial disease
+eosinophilic infiltrate
+epencephalon
+ependyma
+ependyma and remnants of the central canal of the spinal cord
+ependymal cell
+ependymal tumor
+ependymal tumor of brain
+ependymoblastoma
+ependymocyte
+epicardial lipoma
+epicardial neoplasm
+epicardium
+epicondyle
+epidermal involvement
+epidermis
+epidermolytic acanthoma
+epidermolytic hyperkeratosis
+epididymis
+epidural spinal canal neoplasm
+epidural spinal canal space
+epigastric artery
+epigastric region
+epiglottic cartilage
+epiglottis
+epimysium
+epinephrine
+epineurium
+epiphysis of the bone
+episclera
+epithalamus
+epithelial cell
+epithelial cell junction
+epithelial component present
+epithelial differentiation
+epithelial hepatic and intrahepatic bile duct neoplasm
+epithelial microvillus
+epithelial neoplasm
+epithelial receptor cell
+epithelial skin neoplasm
+epithelial tissue
+epithelioid cell
+epithelioid cell melanoma
+epithelioid cell nevus
+epithelioid endothelial cell
+epithelioid hemangioma
+epithelioid melanocyte
+epithelioid melanoma cell
+epithelioid osteoblast
+epithelium
+epithelium part
+epitympanic recess
+epstein barr virus infection
+equipment kind
+erector spinae
+erosion
+erosive nipple adenomatosis
+erythema
+erythroblast
+erythrocyte
+erythrocyte differentiation pathway
+erythroid progenitor cell
+esophageal artery
+esophageal epithelium
+esophageal gland
+esophageal glandular cell
+esophageal mucosa
+esophageal muscular coat
+esophageal muscularis mucosa
+esophageal squamous cell
+esophageal tissue
+esophagus
+estrogen
+ethmoid bone
+euchromatin
+eukaryote
+eukaryotic cell
+eustachian tube
+eustachian valve
+exocrine gland
+exocrine gland fluid or secretion
+exocrine pancreas
+exocrine pancreas neoplasm
+exocrine system
+exon
+exophytic papillary lesion
+experimental organism anatomical concepts
+extensive secretory changes present
+extensive stage lesion
+extensor carpi radialis brevis
+extensor carpi radialis longus
+extensor carpi ulnaris
+extensor digitorum longus
+external
+external acoustic meatus
+external anal sphincter
+external capsule
+external carotid artery
+external carotid artery branch
+external ear
+external ear cartilage
+external geniculate body
+external granular layer
+external iliac artery
+external iliac artery branch
+external iliac vein
+external intercostal muscle
+external jugular vein
+external nose
+external pyramidal cell layer
+external sural artery
+extracardiac rhabdomyoma
+extracellular matrix
+extracellular matrix protein
+extracellular matrix protein gene
+extracellular space
+extracellular structure
+extracranial neuroblastoma
+extraembryonic coelom
+extraembryonic structure
+extraglomerular mesangial cell
+extragonadal embryonal carcinoma
+extragonadal germ cell neoplasm
+extrahepatic bile duct
+extramammary paget s disease
+extramedullary plasmacytoma
+extramembrane domain
+extranodal disease
+extraocular dissemination of disease
+extraocular extension melanoma
+extraosseous lesion
+extraskeletal cartilaginous and osseous neoplasm
+extraskeletal osteoma
+extremities
+extremity part
+eye
+eye appendage
+eye carcinoma
+eye disorder
+eye mmhcc
+eye neoplasm
+eye part
+eye retina mmhcc
+eye segment
+eyebrow
+eyelash
+eyelid
+eyelid muscle
+eyelid skin
+f actin
+f 8 gene
+fas apoptosis pathway deregulation
+fas gene mutation
+fas ligand gene mutation
+fhit tumor suppressor gene inactivation
+fn 1 gene
+face
+facet joint
+facial artery
+facial muscle
+facial nerve
+facial nerve disorder
+facial nerve neoplasm
+facial nerve nucleus
+facial nerve paralysis
+facial vein
+facies posterior lentis
+falciform ligament
+fallopian tube
+false vocal cord
+falx cerebelli
+falx cerebri
+familial adenomatous polyposis
+familial adenomatous polyposis associated medulloblastomas
+familial cancer
+fascia
+fascia lata
+fascial fibroma
+fascial fibrosarcoma
+fascicle
+fatigue
+fatty acid
+feces
+female breast
+female genitalia
+female prepuce
+female reproductive system
+female reproductive system disorder
+female reproductive system neoplasm
+female reproductive system part
+female urethra
+femoral artery
+femoral neck
+femoral nerve
+femoral vein
+femur
+fenestrated capillary
+fenestrating pattern
+fertilization
+fetal heart
+fetal rhabdomyoma
+fetal skeleton
+fetal skull
+fetus
+fever
+fibroblast
+fibroblastic liposarcoma
+fibroblastic stroma formation
+fibrocartilage
+fibrocytic neoplasm
+fibroepithelial neoplasm
+fibroepithelioma of pinkus
+fibrohistiocytic neoplasm
+fibrolipoma
+fibroma
+fibromatosis
+fibromatosis colli
+fibromyxoid stroma formation
+fibromyxolipoma
+fibronectin
+fibrosarcoma
+fibrotic stroma formation
+fibrous astrocyte
+fibrous dysplasia of bone
+fibrovascular stroma formation
+fibula
+fifth ventricle
+filament
+filiform papilla
+fimbria
+finding
+finding by cause
+finding by site or system
+findings and disorders kind
+finger
+fingernail
+first portion of the duodenum
+fissure
+fissure of rolando
+fissure of sylvius
+fissure of the inferior vena cava
+flat adenoma
+flat bone
+flat ductal epithelial atypia of the breast
+flatulence
+flatus
+flexor carpi radialis
+flexor carpi ulnaris
+flexor digitorum longus
+flexor digitorum profundus
+flexor hallucis longus
+flexural skin
+flexural skin nevus
+floor of the fourth ventricle
+floor of the mouth
+fluid
+fluid and electrolyte manifestation
+foam cell
+foamy macrophage
+focal adhesion
+focal nodular hyperplasia of the liver
+foliate papilla
+folitropin
+follicle
+follicle stimulating hormone
+follicular cell differentiation
+follicular dendritic cell
+follicular lymphoma
+follicular ovarian cell
+follicular pilar basal cell carcinoma
+fontanelle
+food
+food intake and energy homeostasis pathway
+food and food product
+foot
+foot interosseous muscle
+foot phalanx
+foot skin
+foramen apicis dentis
+foramen magnum
+foramen secundum
+foramen of luschka
+foramen of magendie
+foramen of monroe
+fore brain
+forearm
+fossa
+fossa of the antihelix
+fossa of the helix
+fourth portion of the duodenum
+fourth ventricle ependyma
+fourth ventricle of the brain
+fovea centralis
+fracture
+free edge of the nail
+free nerve ending
+free radical induced apoptosis pathway
+free ribosome
+frontal bone
+frontal gyrus
+frontal horn of the lateral ventricle
+frontal lobe
+frontal lobe neoplasm
+frontal nerve
+frontal sinus
+frontal sulcus
+fucose
+functional layer of the endometrium
+functional rna
+functioning pancreatic endocrine neoplasm
+functioning pituitary gland neoplasm
+functioning well differentiated pancreatic endocrine carcinoma
+functioning well differentiated pancreatic endocrine neoplasm
+fundic gland
+fundus uteri
+fundus of the stomach
+fungiform papilla
+fusiform cell
+fusion protein expression
+g cell
+g cell gastrin producing neoplasm
+g actin
+gcg gene
+gfap gene
+gh 1 gene
+g protein
+g protein coupled receptor
+g protein coupled receptor gene
+g protein coupled receptor signaling
+g protein gene
+gain of chromosome 1 7q 2 2 q 2 4
+gain of chromosome 1q
+gain of chromosome 2 0q 1 3
+gain of chromosome 6q
+gain of chromosome 8q
+gain of chromosome xq
+galactose
+gallbladder
+gallbladder body
+gallbladder epithelium
+gallbladder fundus
+gallbladder neck
+gametogenesis
+gamma tubulin
+gamma motor neuron
+ganglion
+ganglion like cell
+ganglion cell
+ganglion cell layer
+ganglioneuroblastoma
+ganglioneuroblastoma component present
+ganglioneuroblastoma intermixed
+ganglioneuroblastoma nodular
+ganglioneuroma component present
+ganglionic layer
+ganglioside
+gap junction
+gas
+gastric
+gastric glandular cell
+gastric mucosa
+gastric muscular coat
+gastric muscularis mucosa
+gastric pit
+gastric rugae
+gastric submucosa
+gastric tissue
+gastrin positive neoplastic cells present
+gastrocnemius muscle
+gastrocolic ligament
+gastroesophageal junction
+gastrointestinal adenoma
+gastrointestinal carcinoma in situ
+gastrointestinal disorder
+gastrointestinal fluid or secretion
+gastrointestinal hemangioma
+gastrointestinal hemorrhage
+gastrointestinal intraepithelial neoplasia
+gastrointestinal melanoma
+gastrointestinal neoplasm
+gastrointestinal neuroendocrine neoplasm
+gastrointestinal precancerous condition
+gastrointestinal sphincter
+gastrointestinal system
+gastrointestinal system finding
+gastrointestinal system part
+gastrointestinal system signs and symptoms
+gastrointestinal tract
+gastrointestinal tract mmhcc
+gastrophrenic ligament
+gastrula
+gene
+gene abnormality
+gene expression
+gene expression process
+gene kind
+gene product
+gene product kind
+gene rearrangement
+gene structure
+general modifier
+genetic disorder
+geniculate body
+geniculate ganglion
+genioglossus
+geniohyoid
+genital
+genital rhabdomyoma
+genitalia
+genito urinary region
+genu of the corpus callosum
+geographic necrosis
+germ cell
+germ cell neoplasm
+germinal center
+germinal center b lymphocyte
+germinal layer
+germinoma
+germinoma of the central nervous system
+giant cell
+giant cell angiofibroma
+giant cell carcinoma
+giant cell neoplasm
+giant cell tumor
+giant cell tumor of bone
+giant pigmented nevus
+gingiva
+gingival
+gingival epithelium
+gingival margin
+gland
+gland of krause
+gland of moll
+gland of wolfring
+glandular cell
+glandular cell intraepithelial neoplasia
+glandular cell neoplasm
+glandular differentiation
+glandular epithelial tissue
+glandular epithelium
+glandular metaplasia
+glandular papilloma
+glandular papillomatosis
+glandular pattern
+glans clitoris
+glans penis
+glaucoma
+glenoid fossa
+glial cell
+glial fibrillary acidic protein
+gliofibroma
+gliomatous differentiation
+globus pallidus
+glomangioma
+glomangiomatosis
+glomangiomyoma
+glomerular basement membrane
+glomerulus
+glomus cell
+glomus tumor
+glomus tumor of uncertain malignant potential
+glomus tumor of the skin
+glossopharyngeal nerve
+glossopharyngeal nerve disorder
+glossopharyngeal nerve neoplasm
+glossopharyngeal nerve paralysis
+glottis
+glucagon
+glucagon like peptide positive neoplastic cells present
+gluconeogenesis
+glucose
+glucose metabolism disorder
+glucuronic acid
+glutamic acid
+glutamine
+gluteal artery
+gluteus maximus
+gluteus medius
+glycine
+glycocalyx
+glycogen rich carcinoma
+glycolysis
+glycoprotein
+glycosaminoglycan
+goblet cell
+goblet cell carcinoid tumor
+golgi apparatus
+golgi tendon organ
+gonad
+gonadal cord
+gonadal polyembryoma
+gonadotrope cell
+gonadotroph cell
+gonadotrophin releasing hormone
+gonadotropin
+graafian follicle
+gracilis
+grade 1
+grade 1 endometrial mucinous adenocarcinoma
+grade 2
+grade 2 endometrial mucinous adenocarcinoma
+grade 3
+grade 3 endometrial mucinous adenocarcinoma
+grade 4
+grade 4 lesion
+grade iii glandular intraepithelial neoplasia
+grade ii glandular intraepithelial neoplasia
+grade ii intraepithelial neoplasia
+grade ii squamous intraepithelial neoplasia
+granular cell carcinoma
+granular cell tumor
+granular cell tumor of the neurohypophysis
+granule
+granulocyte
+granulocyte adhesion pathway
+granulosa cell
+granulosa lutein cell
+gray commissure
+gray matter
+gray matter of the spinal cord
+great cardiac vein
+great cerebral vein of galen
+great trochanter
+great vessel neoplasm
+greater curvature
+greater omentum
+ground substance
+growth
+growth factor
+growth factor gene
+growth hormone
+growth hormone release inhibiting factor
+growth hormone secreting pituitary neoplasm
+growth hormone signaling pathway
+gsalpha gene mutation
+guanine
+gum
+gut associated lymphoid tissue
+gut epithelium
+gyri breves insulae
+gyriform trabecular pattern
+gyrus longus insulae
+has 2 plag 1 fusion protein expression
+hiv lipodystrophy
+hmb 4 5 positive neoplastic cells present
+hair
+hair bulb
+hair cell
+hair follicle
+hair follicle inferior segment
+hair follicle infundibulum
+hair follicle isthmus
+hair part
+hair root
+halo nevus
+hamate bone
+hamstring
+hand
+hand interosseous muscle
+hand phalanx
+hand skin
+hard palate
+haversian canal
+haversian system
+head
+head skin
+head and neck
+head and neck basaloid squamous cell carcinoma
+head and neck carcinoma
+head and neck disorder
+head and neck lymph node
+head and neck muscle
+head and neck neoplasm
+head and neck nevus
+head and neck part
+head and neck squamous cell carcinoma
+head of the epididymis
+head of the femur
+head of the fibula
+head of the humerus
+head of the pancreas
+head of the spermatozoon
+head of the tibia
+headache
+heart
+heart disease
+heart muscle
+heart part
+heart septum
+heavy chain disease
+helicotrema
+helix
+helix structure
+helper inducer t lymphocyte
+hemangioendothelioma
+hemangioma
+hemangioma of the central nervous system
+hemangiomatosis with thrombocytopenia
+hematologic disorder
+hematopoiesis
+hematopoiesis pathway
+hematopoietic cell
+hematopoietic cell neoplasm
+hematopoietic factor gene
+hematopoietic growth factor
+hematopoietic stem cell
+hematopoietic system
+hematopoietic system disorder
+hematopoietic system finding
+hematopoietic system neoplasm
+hematopoietic tissue
+hematopoietic and lymphatic system
+hematopoietic and lymphatic system part
+hematopoietic and lymphoid tissue
+heme protein
+hemidesmosome
+hemisphere of the cerebellum
+hemoglobin
+hemophilia
+hemophilia a
+hemorrhage
+hemorrhagic change
+hemorrhagic neuroblastic nodules present
+heparan sulfate
+heparan sulfate proteoglycan
+heparin
+hepatic angiosarcoma
+hepatic artery
+hepatic disorder
+hepatic duct
+hepatic fibroma
+hepatic fibrosarcoma
+hepatic flexure
+hepatic hemangioma
+hepatic lipoma
+hepatic lobule
+hepatic sarcoma
+hepatic sinusoid
+hepatic tissue
+hepatic vein
+hepatic and intrahepatic bile duct neoplasm
+hepatitis
+hepato biliary neoplasm
+hepatobiliary system
+hepatobiliary tissue
+hepatocyte
+hepatogastric ligament
+hepatomegaly
+hereditary breast carcinoma
+hereditary glomangioma
+hereditary lesion
+hereditary neoplastic syndrome
+heterochromatin
+heterocyclic compound
+hexose
+hidradenoma
+hidroacanthoma simplex
+hidrocystoma
+high frequency microsatellite instability
+high grade ductal carcinoma in situ of the breast
+high grade squamous intraepithelial neoplasia
+high density lipoprotein
+high grade
+high grade glandular intraepithelial neoplasia
+high grade intraepithelial neoplasia
+high grade lesion
+high grade lung neuroendocrine neoplasm
+high mitotic activity
+hilar area of the kidney
+hilar area of the lung
+hilum
+hind brain
+hindgut
+hip
+hip joint
+hippocampal fissure
+hippocampal sulcus
+hippocampus
+histamine
+histidine
+histiocyte
+histiocytic and dendritic cell
+histiocytoid differentiation
+histiocytoma
+histiocytosis
+histogenesis
+histone
+histone h 1
+histone h 2 a
+histone h 2 b
+histone h 3
+histone h 4
+hobnail hemangioma
+hodgkin s lymphoma
+homeostasis
+homer right rosette formation
+horizontal
+hormone
+hormone antagonist
+host defense
+host defense mechanism
+huge vascular channel formation
+human
+human chorionic gonadotropin positive neoplastic cells present
+human chromosome
+human papilloma virus infection
+humerus
+hyaline cartilage
+hyaline cartilage differentiation
+hyalinized vessels present
+hymen
+hyoepiglottic ligament
+hyoglossus muscle
+hyoid bone
+hypercalcemia
+hyperchromatic spindle cell
+hypereosinophilic syndrome
+hypergammaglobulinemia
+hyperkeratosis
+hypochondrial region
+hypogastric nerve plexus
+hypogastric region
+hypoglossal nerve
+hypoglossal nerve disorder
+hypoglossal nerve neoplasm
+hypoglossal nucleus
+hypoglycemia
+hypopharynx
+hypophophatemia
+hypothalamic neoplasm
+hypothalamus
+hypothalmic hormone
+il 1 0 anti inflammatory signaling pathway
+il 1 0 gene
+il 1 2 a gene
+il 1 2 b gene
+il 1 2 signaling pathway
+il 1 3 gene
+il 1 5 gene
+il 1 7 gene
+il 1 7 signaling pathway
+il 1 8 gene
+il 1 8 signaling pathway
+il 1 r signaling pathway
+il 2 gene
+il 2 signaling pathway
+il 3 gene
+il 3 signaling pathway
+il 4 gene
+il 4 signaling pathway
+il 5 gene
+il 5 signaling pathway
+il 6 gene
+il 6 signaling pathway
+il 7 gene
+il 7 signaling pathway
+il 8 gene
+il 9 gene
+ins gene
+ig a
+ig d
+ig e
+ig g
+ig m
+ileal neoplasm
+ileal vein
+ileo colic artery
+ileocecal valve
+ileocolic vein
+ileum
+iliac artery
+iliac lymph node
+iliac vein
+iliacus
+iliocostal muscle
+iliolumbar artery
+iliolumbar vein
+iliopsoas muscle
+ilium
+immature b lymphocyte
+immature bone
+immature lymphocyte
+immature monocyte
+immature t lymphocyte
+immune cell activation
+immune function
+immune response
+immune response regulation pathway
+immune system
+immune system disorder
+immune system finding
+immune system part
+immune system and related disorders
+immunity
+immunoadjuvant
+immunodeficiency syndrome
+immunoglobulin
+immunoglobulin gene rearrangement
+immunologic factor activation
+immunoprotein
+immunoprotein gene
+immunoregulation
+in situ lesion
+incisor
+inclusion like nucleoli
+increased cellularity present
+incus
+indolent clinical course
+indolent myeloma
+infantile digital fibromatosis
+infantile hemangioendothelioma
+infantile melanotic neuroectodermal neoplasm
+infectious disease pathway
+infectious disorder
+inferior
+inferior cerebellopontine cistern
+inferior epigastric artery
+inferior frontal convolution
+inferior frontal gyrus
+inferior frontal sulcus
+inferior hypogastric nerve plexus
+inferior hypophyseal artery
+inferior maxillary nerve
+inferior mesenteric artery
+inferior mesenteric artery branch
+inferior mesenteric vein
+inferior oblique muscle
+inferior pancreatico duodenal artery
+inferior parathyroid gland
+inferior rectal artery
+inferior rectus muscle
+inferior sagittal sinus
+inferior suprarenal artery
+inferior temporal gyrus
+inferior temporal sulcus
+inferior thyroid artery
+inferior turbinate
+inferior vena cava
+inferior vena cava opening
+inferior vesical artery
+inferolateral surface of the prostate
+infiltrating basal cell carcinoma
+infiltrating lipoma
+infiltrating papillary adenocarcinoma
+infiltrating tumor margins present
+infiltrative pattern
+inflammation process
+inflammatory bowel disease
+inflammatory infiltrate
+inflammatory response
+inflammatory response pathway
+infraclavicular lymph node
+infraclavicular region
+infraorbital artery
+infraspinatus
+infratentorial brain
+infratentorial cistern
+infratentorial neoplasm
+infundibular like structures present
+infundibulocystic basal cell carcinoma
+inguinal lymph node
+inguinal region
+inhibition of apoptosis
+inhibition of cell proliferation
+injury
+inner
+inner cell mass
+inner hair cell of the organ of the corti
+inner mitochondrial membrane
+inner supporting cell
+innominate artery
+innominate artery branch
+innominate vein
+inositol
+insula
+insulin
+insulin signaling pathway
+integrin
+integrin mediated cell adhesion pathway
+integrin signaling pathway
+integumentary system
+integumentary system finding
+integumentary system part
+integumentary system signs and symptoms
+interatrial septum
+intercalated cell
+intercalated disk
+intercalated duct
+intercalated duct of the pancreas
+intercellular communication
+intercellular communication process
+intercostal artery branch
+intercostal muscle
+intercostal nerve
+interdigitating dendritic cell
+interferon activation
+interfollicular area of the lymph node
+interleukin
+interleukin 1
+interleukin 1 0
+interleukin 1 0 overexpression
+interleukin 1 2
+interleukin 1 2 a
+interleukin 1 2 b
+interleukin 1 2 receptor
+interleukin 1 3
+interleukin 1 5
+interleukin 1 7
+interleukin 1 8
+interleukin 2
+interleukin 3
+interleukin 4
+interleukin 5
+interleukin 6
+interleukin 7
+interleukin 8
+interleukin 9
+interleukin gene
+interlobular bile duct
+intermediary metabolism
+intermediate
+intermediate grade ductal carcinoma in situ of the breast
+intermediate filament
+intermediate filament gene
+intermediate filament protein
+intermediate grade lesion
+intermediate grade lung neuroendocrine neoplasm
+intermediate rhabdomyoma
+intermediate trophoblast
+intermembrane space of the mitochondrion
+internal
+internal anal sphincter
+internal auditory artery
+internal capsule
+internal carotid artery
+internal carotid artery branch
+internal carotid nerve plexus
+internal cerebral vein
+internal ear
+internal geniculate body
+internal granular layer
+internal iliac artery
+internal iliac artery branch
+internal iliac vein
+internal intercostal muscle
+internal jugular vein
+internal lumen of the centriole
+internal mammary artery
+internal mammary lymph node
+internal mammary vein
+internal maxillary vein
+internal thoracic vein
+interneuron
+interosseous artery
+interphalangeal joint of the foot
+interphalangeal joint of the hand
+interphase chromosome
+interstitial cell
+interstitial cell of cajal
+interstitial cell of the pineal gland
+interventricular foramen
+interventricular septum
+intervertebral disc
+intestinal
+intestinal disorder
+intestinal epithelium
+intestinal hemorrhage
+intestinal intraepithelial neoplasia
+intestinal metaplasia
+intestinal mucosa
+intestinal neoplasm
+intestinal neuroendocrine neoplasm
+intestinal precancerous condition
+intestinal secretion
+intestinal type adenocarcinoma
+intestinal wall tissue
+intestine
+intestine mmhcc
+intestine small intestine mmhcc
+intra abdominal hemangioma
+intra abdominal lymphangioma
+intra abdominal lymph node
+intracanalicular growth pattern
+intracellular membrane
+intracellular second messenger
+intracellular transport
+intracranial artery
+intracranial cavernous hemangioma
+intracranial hemangioma
+intracranial lipoma
+intracranial neoplasm
+intracranial primitive neuroectodermal neoplasm
+intracranial venous system
+intracytoplasmic eosinophilic inclusion
+intracytoplasmic eosinophilic spherical inclusion
+intradermal nevus
+intraductal breast neoplasm
+intraductal breast papillomatosis
+intraductal cribriform breast adenocarcinoma
+intraductal lesion
+intraductal non comedo breast adenocarcinoma
+intraductal papillary breast neoplasm
+intraductal papilloma
+intraductal papillomatosis
+intraductal and lobular carcinoma
+intradural extramedullary cauda equina astrocytoma
+intradural extramedullary spinal canal neoplasm
+intradural extramedullary spinal canal space
+intraepithelial neoplasia
+intrahepatic bile duct
+intrahepatic bile duct adenoma
+intrahepatic bile duct epithelium
+intralaminar nucleus
+intraluminal necrosis
+intramucosal lesion
+intramuscular hemangioma
+intramuscular lipoma
+intramuscular myxoma
+intraparietal sulcus
+intrapulmonary bronchus
+intraspinal neoplasm
+intravascular leiomyomatosis of the uterus
+intravenous leiomyomatosis
+intraventricular brain neoplasm
+intrinsic prothrombin activation pathway
+intron
+invasive carcinoma
+invasive lesion
+invasive malignant neoplasm
+invasive melanoma
+inverted follicular keratosis
+inverted papilloma
+inverted squamous cell papilloma
+inverted transitional cell papilloma
+iris
+irregular bone
+irregular dense connective tissue
+ischiocavernosus
+ischium
+islet cell
+islet of langerhans
+isolated follicular keratosis
+isoleucine
+isthmus uteri
+jup gene
+jaw
+jaw joint
+jaw keratocyst
+jejunal neoplasm
+jejunum
+joint
+joint by site
+joint of the pelvic girdle
+jugular foramen
+jugular foramen neoplasm
+jugular vein
+junction nevus
+junction plakoglobin
+junctional proliferation
+juvenile breast papillomatosis
+juvenile lesion
+juxtaarticular myxoma
+juxtaglomerular apparatus
+juxtaglomerular cell
+kras gene amplification
+kras gene mutation
+keratan sulfate
+keratin filament
+keratin present
+keratinizing head and neck squamous cell carcinoma
+keratinizing malignant squamous cell
+keratinizing squamous cell carcinoma
+keratinocyte
+keratoacanthoma
+keratotic basal cell carcinoma
+kidney
+kidney part
+kidney posterior surface
+kidney and ureter
+kinase
+kinase family gene
+kinocilium
+knee joint
+knee skin
+known bone marrow involvement
+koilocytotic atypia
+kupffer cell
+l cell glucagon like peptide producing neoplasm
+lumbar 1 vertebra
+lumbar 2 vertebra
+lumbar 3 vertebra
+lumbar 4 vertebra
+lumbar 5 vertebra
+ldl pathway
+lab finding
+labial salivary gland
+labium
+labium majus
+labium minus
+lacrimal apparatus
+lacrimal artery
+lacrimal bone
+lacrimal canaliculus
+lacrimal gland
+lacrimal gland adenocarcinoma
+lacrimal gland adenoid cystic carcinoma
+lacrimal gland carcinoma
+lacrimal gland neoplasm
+lacrimal gland squamous cell carcinoma
+lacrimal nerve
+lacrimal sac
+lacrimal system neoplasm
+lactating adenoma
+lactiferous duct
+lactotrope cell
+lactotroph cell
+lamina densa
+lamina lucida
+lamina propria
+lamina terminalis cistern
+laminin
+langerhans cell
+lanugo
+large cell acanthoma
+large cell carcinoma
+large cell lung carcinoma
+large cell medulloblastoma
+large intestinal crypt of the lieberkuhn
+large intestinal glandular cell
+large intestinal mucosa
+large intestinal muscular coat
+large intestinal muscularis mucosa
+large intestinal submucosa
+large intestinal wall tissue
+large intestine
+large keratinocyte
+large melanoma cell
+large pineocytomatous rosette formation
+laryngeal
+laryngeal cartilage
+laryngeal ligament
+laryngeal mucosa
+laryngeal muscle
+laryngeal ventricle
+laryngopharynx
+larynx
+late endosome
+lateral
+lateral occipital sulcus
+lateral infratentorial cistern
+lateral ligament
+lateral lobe of the prostate
+lateral orbitofrontal artery
+lateral posterior nucleus of the thalamus
+lateral rectus muscle
+lateral sulcus of sylvius
+lateral supratentorial cistern
+lateral surface of the liver
+lateral thoracic artery
+lateral thyrohyoid ligament
+lateral ventricle
+lateral ventricle ependyma
+lateral vestibular nucleus
+lateral wall of the nasopharynx
+lateral wall of the oropharynx
+layer of the rods and cones
+left
+left adrenal gland
+left atrial myxoma
+left atrium
+left brachiocephalic vein
+left breast
+left cerebral hemisphere
+left colon
+left common carotid artery
+left common iliac artery
+left coronary artery
+left coronary artery branch
+left fallopian tube
+left hepatic duct
+left hypochondriac region
+left inguinal region
+left innominate vein
+left kidney
+left lobe of the liver
+left lumbar region
+left lung
+left main bronchus
+left ovary
+left pulmonary artery
+left renal artery
+left renal vein
+left spermatic artery
+left subclavian artery
+left subcostal vein
+left suprarenal vein
+left testis
+left thyroid gland lobe
+left ureter
+left ventricle
+leg
+leg skin
+leiomyomatosis
+leiomyomatosis peritonealis disseminata
+lens capsule
+lens fiber
+lenticular nucleus
+lentiform nucleus
+lentigo maligna
+lentigo maligna melanoma
+leptomeningeal melanoma
+leptomeningeal neoplasm
+leptomeningeal sarcoma
+leptomeninges
+lesion
+lesion by focality
+lesion by grade
+lesion by morphology
+lesion by stage
+lesion with diameter greater than 1 0mm
+lesion with diameter of 2cm or less
+lesion with diameter of 4mm or more
+lesion with diameter of 5cm or less
+lesion with diameter of more than 2cm
+lesser curvature
+lesser omentum
+lesser trochanter
+lesser tuberosity
+leucine
+leukemia
+leukemic cell
+leukemic hematopoietic stem cell
+leukemic lymphocyte
+leukemic phase of lymphoma
+leukemic plasma cell
+leukemic small lymphocyte with clumped chromatin
+leukocyte
+leukocyte adhesion deficiency
+leukocyte adhesion deficiency type 2
+leukocyte myelocyte granulocyte basophil mmhcc
+leukocyte myelocyte granulocyte mmhcc
+leukocyte trafficking
+leukocyte wbc mmhcc
+levator ani
+levator labii superioris
+levator palpebrae superioris
+leydig cell
+ligament
+ligamentum flavum
+ligand binding
+ligand binding domain
+ligand binding protein
+ligand binding protein gene
+limb
+line
+lingual artery
+lingual salivary gland
+lingual tonsil
+lingula
+linker dna
+lip
+lipid
+lipid lipoprotein membrane constituent metabolism
+lipid rich carcinoma
+lipid inclusion
+lipoadenoma
+lipoblast
+lipocyte
+lipoma
+lipomatosis
+lipomatous component present
+lipomatous neoplasm
+lipoprotein
+liposarcoma
+liver
+liver acinus
+liver fissure
+liver ligament
+liver lobe
+liver stem cell
+liver and biliary tract disorder
+liver and intrahepatic biliary tract carcinoma
+lobar bronchus
+lobe
+lobe of the left lung
+lobe of the right lung
+lobular breast carcinoma
+lobular carcinoma cell
+lobular pattern
+lobulated growth pattern
+lobule
+lobule of the auricle
+lobus caudatus
+lobus quadratus
+local acute inflammatory response pathway
+localized carcinoma
+localized disease
+localized lesion
+localized lymphoma
+localized malignant mesothelioma
+localized malignant neoplasm
+localized primitive neuroectodermal tumor
+localized resectable adult liver cancer
+localized unresectable adult liver cancer
+locally metastatic neoplasm
+long bone
+long chain fatty acid
+long saphenous vein
+longevity pathway
+longissimus capitis
+longissimus cervicis
+longissimus thoracis
+longitudinal
+longitudinal fissure
+longus capitis
+longus colli
+loop of henle
+loose connective tissue
+loss of chromosome 1
+loss of chromosome 1 1q
+loss of chromosome 1 3q
+loss of chromosome 1 4q
+loss of chromosome 1 6q
+loss of chromosome 1 7p
+loss of chromosome 1 8
+loss of chromosome 1p
+loss of chromosome 2 2
+loss of chromosome 2 2q
+loss of chromosome 3p
+loss of chromosome 8p
+loss of chromosome 9p
+loss of chromosome 9q
+loss of e cadherin expression
+loss of merlin expression
+low grade ductal carcinoma in situ of the breast
+low cellularity present
+low density lipoprotein
+low grade
+low grade endometrial stromal sarcoma
+low grade endometrial stromal sarcoma of the cervix
+low grade glandular intraepithelial neoplasia
+low grade intraepithelial neoplasia
+low grade lesion
+low grade lung neuroendocrine neoplasm
+low grade myofibroblastic sarcoma
+low grade squamous intraepithelial neoplasia
+low mitotic activity
+lower esophageal sphincter
+lower extremity
+lower extremity part
+lower eyelid
+lower gastrointestinal tract
+lower jaw
+lower lobe of the left lung
+lower lobe of the right lung
+lumbar artery
+lumbar nerve
+lumbar plexus
+lumbar region
+lumbar spinal cord
+lumbar spinal nerve root
+lumbar spine
+lumbar vertebra
+lumbosacral lipoma
+lumbosacral plexus
+lumbosacral region
+lumen of the endosome
+lumen of the lysosome
+lumen of the peroxisome
+luminal
+lunate bone
+lunate sulcus
+lung
+lung adenoma
+lung carcinoma
+lung carcinoma metastatic to the bone
+lung carcinoma metastatic to the brain
+lung carcinoma metastatic to the liver
+lung disorder
+lung fibroma
+lung germ cell neoplasm
+lung glandular papilloma
+lung hilum carcinoma
+lung hilum neoplasm
+lung lobe
+lung lower lobe
+lung mature b cell neoplasm
+lung melanoma
+lung meningioma
+lung myolipoma
+lung neoplasm
+lung neuroendocrine neoplasm
+lung sarcoma
+lung soft tissue neoplasm
+lung squamous papilloma
+lung surfactant
+lung tissue
+lung upper lobe
+lutein cell
+luteinizing hormone
+lymph
+lymph node
+lymph node capsule
+lymph node cortex
+lymph node disorder
+lymph node germinal center
+lymph node hilum
+lymph node lymphoid follicle
+lymph node neoplasm
+lymph node part
+lymph node tissue
+lymph node trabecula
+lymph node by anatomic site
+lymphadenitis
+lymphadenopathy
+lymphangioendothelioma
+lymphangioma
+lymphangioma circumscriptum
+lymphangioma with hemorrhage
+lymphangiomatosis
+lymphangiosarcoma
+lymphangitic carcinomatosis
+lymphatic capillary
+lymphatic spread
+lymphatic system
+lymphatic vessel
+lymphatic vessel endothelium
+lymphatic vessel neoplasm
+lymphedema
+lymphoblast
+lymphocyte
+lymphocyte activation
+lymphocyte adhesion pathway
+lymphocytic
+lymphocytic infiltrate
+lymphocytic neoplasm
+lymphohematopoietic system mmhcc
+lymphohistiocytoid mesothelioma
+lymphoid follicle
+lymphoid leukemia
+lymphoid tissue
+lymphokine
+lymphokine activated natural killer cell
+lymphoma
+lymphoplasmacytic infiltrate
+lymphoproliferative disorder
+lysine
+lysosome
+lytic lesion
+lytic metastatic lesion
+m phase
+mta 3 pathway
+macrocephaly
+macrocystic changes
+macromolecular structure
+macrophage
+macula
+macula densa
+macula lutea
+macula of saccule
+macula of utricle
+macular lesion
+maffucci syndrome
+magendie s foramen
+main bronchus
+major histocompatibility complex gene
+major salivary gland
+male breast
+male genital system fluid or secretion
+male prepuce
+male reproductive system
+male reproductive system part
+male urethra
+malignant adrenal cortex neoplasm
+malignant adrenal gland neoplasm
+malignant adrenal medulla neoplasm
+malignant adult brain neoplasm
+malignant ampulla of vater neoplasm
+malignant aortic neoplasm
+malignant apocrine cell
+malignant apocrine neoplasm
+malignant appendix neoplasm
+malignant basal cell
+malignant basal cell neoplasm
+malignant blastemal cell
+malignant blood vessel neoplasm
+malignant bone fibrous histiocytoma
+malignant bone neoplasm
+malignant brain neoplasm
+malignant brain stem neoplasm
+malignant breast eccrine spiradenoma
+malignant breast neoplasm
+malignant brenner tumor
+malignant cardiac germ cell neoplasm
+malignant cardiac neoplasm
+malignant cecum neoplasm
+malignant cell
+malignant cell with eosinophilic cytoplasm
+malignant cell with large nucleus and abundant eosinophilic cytoplasm
+malignant cellular infiltrate
+malignant central nervous system germ cell tumor
+malignant central nervous system neoplasm
+malignant central nervous system soft tissue neoplasm
+malignant cerebellar neoplasm
+malignant cerebral neoplasm
+malignant cervical neoplasm
+malignant childhood central nervous system neoplasm
+malignant childhood neoplasm
+malignant clear squamous cell
+malignant colon neoplasm
+malignant colorectal neoplasm
+malignant component present
+malignant connective and soft tissue cell
+malignant cranial nerve neoplasm
+malignant cutaneous basal cell
+malignant cutaneous granular cell tumor
+malignant cytotrophoblastic cell
+malignant dermal neoplasm
+malignant diencephalic neoplasm
+malignant duodenal neoplasm
+malignant eccrine cell
+malignant eccrine neoplasm
+malignant eccrine spiradenoma
+malignant endocardial neoplasm
+malignant endocervical neoplasm
+malignant endocrine cell
+malignant endocrine neoplasm
+malignant endometrial neoplasm
+malignant endothelial cell
+malignant epicardial neoplasm
+malignant epithelial cell
+malignant epithelial cell with vesicular nucleus distinct nucleolus and abundant pink cytoplasm
+malignant epithelial cells with abundant clear cytoplasm containing glycogen present
+malignant epithelial cells with abundant cytoplasmic neutral lipids present
+malignant epithelial clear cell
+malignant epithelial large cell
+malignant epithelial large cell with vesicular nucleus and distinct nucleolus
+malignant epithelial small cell
+malignant epithelial spindle cell
+malignant epithelioid fibroblast
+malignant exocervical neoplasm
+malignant exocrine pancreas neoplasm
+malignant extragonadal germ cell tumor
+malignant extragonadal non seminomatous germ cell tumor
+malignant extraskeletal cartilaginous and osseous neoplasm
+malignant eye neoplasm
+malignant female reproductive system neoplasm
+malignant fibroblast
+malignant fibrohistiocytic cell
+malignant fibrous histiocytoma
+malignant fibrous histiocytoma of the skin
+malignant fibrous mesothelioma
+malignant gastrinoma
+malignant gastrointestinal neoplasm
+malignant germ cell
+malignant germ cell neoplasm
+malignant giant cell neoplasm
+malignant giant cell tumor of bone
+malignant glandular epithelium resembling the endocervical epithelium present
+malignant glandular epithelium resembling the normal endometrium present
+malignant glioma
+malignant glomus tumor
+malignant granular cell tumor
+malignant great vessel neoplasm
+malignant head and neck neoplasm
+malignant hepato biliary neoplasm
+malignant hobnail cell
+malignant hyperchromatic epithelial cell
+malignant hyperchromatic small epithelial cell
+malignant hyperchromatic squamous cell
+malignant inferior vena cava neoplasm
+malignant infratentorial neoplasm
+malignant intermediate type trophoblastic cell
+malignant intestinal neoplasm
+malignant intracranial neoplasm
+malignant lacrimal duct neoplasm
+malignant lacrimal gland neoplasm
+malignant large germ cell with abundant cytoplasm
+malignant large squamous cell
+malignant leptomeningeal neoplasm
+malignant lipocyte
+malignant lipomatous neoplasm
+malignant lung hilum neoplasm
+malignant lung neoplasm
+malignant lung and pleural neoplasm
+malignant lymph node neoplasm
+malignant melanoma in precancerous melanosis
+malignant mesenchymal spindle cell
+malignant mesothelial cell
+malignant mesothelioma
+malignant miscellaneous mesenchymal neoplasm
+malignant mixed mesodermal mullerian tumor
+malignant mixed neoplasm
+malignant muscle neoplasm
+malignant myocardial neoplasm
+malignant nasal cavity neoplasm
+malignant neck neoplasm
+malignant neoplasm
+malignant neoplasm of lower jaw bone
+malignant neoplasms of the meninges
+malignant nervous system neoplasm
+malignant neuroectodermal cell
+malignant neuroectodermal cell with hyperchromatic nucleus and scanty cytoplasm
+malignant neuroectodermal large cell
+malignant neuroectodermal small cell
+malignant neuroendocrine cell
+malignant neuroendocrine small to intermediate size cell
+malignant nipple neoplasm
+malignant non epithelial hepatic and intrahepatic bile duct neoplasm
+malignant oculomotor nerve neoplasm
+malignant olfactory nerve neoplasm
+malignant oncocyte
+malignant orbit neoplasm
+malignant ovarian cyst
+malignant ovarian neoplasm
+malignant ovarian surface epithelial stromal tumor
+malignant ovarian transitional cell tumor
+malignant ovoid to spindle shaped fibrohistiocytic cell
+malignant pancreatic neoplasm
+malignant pericardial neoplasm
+malignant peritoneal neoplasm
+malignant perivascular neoplasm
+malignant phyllodes tumor
+malignant pineal region neoplasm
+malignant pituitary gland neoplasm
+malignant polygonal cell with abundant granular cytoplasm
+malignant primary brain neoplasm
+malignant pulmonary artery neoplasm
+malignant pulmonary vein neoplasm
+malignant rectal neoplasm
+malignant rectosigmoid neoplasm
+malignant reproductive system neoplasm
+malignant respiratory tract neoplasm
+malignant retroperitoneal neoplasm
+malignant rhabdomyoblast
+malignant round germ cell
+malignant round germ cell with glycogen rich cytoplasm and round nucleus
+malignant scrotal neoplasm
+malignant sebaceous neoplasm
+malignant sebocyte
+malignant skeletal muscle cell
+malignant skeletal muscle neoplasm
+malignant skin appendage neoplasm
+malignant skin neoplasm
+malignant small cell
+malignant small intestinal neoplasm
+malignant small squamous cell
+malignant smooth muscle cell
+malignant smooth muscle neoplasm
+malignant soft tissue neoplasm
+malignant spinal cord neoplasm
+malignant spindle shaped fibroblast
+malignant spindle cell
+malignant spindle mesothelial cell
+malignant spindle squamous cell
+malignant spindle transitional cell
+malignant squamous cell
+malignant stellate cell
+malignant stromal cell
+malignant superior vena cava neoplasm
+malignant supratentorial neoplasm
+malignant sweat gland neoplasm
+malignant syncytiotrophoblastic giant cell
+malignant synovial neoplasm
+malignant thalamic neoplasm
+malignant thoracic neoplasm
+malignant thyroid follicular cell
+malignant thyroid neoplasm
+malignant transitional cell
+malignant trophoblastic cell
+malignant uterine corpus mixed neoplasm
+malignant uterine corpus neoplasm
+malignant uterine neoplasm
+malignant vascular neoplasm
+malignant vestibulocochlear nerve neoplasm
+malleus
+mamillary body
+mammal
+mammary
+mammary epithelium
+mammary gland
+mammary gland tissue
+mammary intraepithelial neoplasia ductal type
+mandible
+mannose
+marked nuclear atypia present
+mass
+masseter muscle
+masseteric artery
+masseteric vein
+massive sinusoidal histiocytic infiltrate
+mast cell
+mastoid process
+material
+matrical differentiation
+mature b cell lymphocytic neoplasm
+mature b cell non hodgkin s lymphoma
+mature b lymphocyte
+mature bone
+mature lymphocyte
+mature t cell and nk cell neoplasm
+mature t cell and nk cell non hodgkin s lymphoma
+mature t lymphocyte
+maxilla
+maxillary artery
+maxillary sinus
+mc cune albright syndrome
+mechanoreceptor
+mechanoreceptor cell
+meckel diverticulum
+medial
+medial circumflex artery
+medial collateral ligament of the knee
+medial forebrain bundle
+medial orbitofrontal artery
+medial plantar artery
+medial rectus muscle
+medial tarsal artery
+medial vestibular nucleus
+median artery
+median nerve
+mediastinal lymph node
+mediastinum
+mediastinum part
+medical product characteristics
+medium chain fatty acid
+medulla oblongata
+medullary bone
+medulloblastoma
+medulloblastoma with leptomeningeal spread
+medullomyoblastoma
+megakaryoblast
+megakaryocyte
+meibomian gland
+melanin
+melanin forming neuroepithelial cells present
+melanin pigment present
+melanoacanthoma
+melanocyte
+melanocytic neoplasm
+melanocytic nevus
+melanocytic skin neoplasm
+melanoma
+melanoma cell
+melanoma cell with large nucleus and abundant pale cytoplasm
+melanoma in congenital melanocytic nevus
+melanoma in junctional nevus
+melanomatosis
+melanotic medulloblastoma
+melatonin
+membrane
+membrane part
+membrane protein
+membrane protein gene
+membrane of the brain or spinal cord
+membrane of the endosome
+membrane of the lysosome
+membrane of the peroxisome
+membrane of the rough endoplasmic reticulum
+membrane of the smooth endoplasmic reticulum
+membranous canal of the cochlea
+membranous cytoplasmic organelle
+membranous labyrinth
+membranous urethra
+meningeal carcinomatosis
+meningeal gliomatosis
+meningeal layer of the dura mater
+meningeal melanomatosis
+meningeal neoplasm
+meningeal sarcoma
+meningeal sarcomatosis
+meninges
+meningioma
+meningothelial cell
+meningothelial cell neoplasm
+meniscus
+meniscus lateralis
+meniscus medialis
+mental artery
+mental and behavioral signs and symptoms
+merkel cell
+mesangial cell
+mesangium
+mesencephalon
+mesenchymal cell neoplasm
+mesenchymal component present
+mesenchymal differentiation
+mesenchymal metaplasia
+mesenchymal stem cell
+mesenteric
+mesenteric artery
+mesenteric vein
+mesentery
+mesoderm
+mesoderm cell
+mesonephric duct
+mesonephros
+mesothelial cell
+mesothelial neoplasm
+mesothelioma
+mesothelium
+messenger rna
+messenger rna overexpression
+metabolic control
+metabolic pathways
+metabolic process
+metacarpal bone
+metacarpophalangeal joint
+metal binding site
+metal ion binding
+metalloprotein
+metamyelocyte
+metanephros
+metaphysis
+metaplasia
+metaplasia of malignant cells present
+metaplastic carcinoma
+metastasis
+metastasis suppression
+metastasis to pituitary gland
+metastasis to skin
+metastasis to spinal cord
+metastasis to the cervix
+metastasis to the leptomeninges
+metastasis to the nervous system
+metastasis to the small intestine
+metastatic adenocarcinoma
+metastatic angiosarcoma
+metastatic carcinoma
+metastatic carcinoma to adrenal cortex
+metastatic carcinoma to adrenal medulla
+metastatic carcinoma to the bone
+metastatic carcinoma to the lung
+metastatic carcinoma to the uterine cervix
+metastatic childhood soft tissue sarcoma
+metastatic endometrial adenocarcinoma
+metastatic endometrioid adenocarcinoma
+metastatic fibrosarcoma
+metastatic lesion
+metastatic liposarcoma
+metastatic malignant fibrous histiocytoma
+metastatic malignant neoplasm
+metastatic malignant neoplasm to the ovary
+metastatic melanoma
+metastatic neoplasm
+metastatic neoplasm of unknown primary origin
+metastatic neoplasm to lymph nodes
+metastatic neoplasm to the abdominal cavity
+metastatic neoplasm to the adrenal gland
+metastatic neoplasm to the adult brain
+metastatic neoplasm to the bone
+metastatic neoplasm to the brain
+metastatic neoplasm to the brain stem
+metastatic neoplasm to the breast
+metastatic neoplasm to the central nervous system
+metastatic neoplasm to the colon
+metastatic neoplasm to the eye
+metastatic neoplasm to the heart
+metastatic neoplasm to the large intestine
+metastatic neoplasm to the liver
+metastatic neoplasm to the lung
+metastatic neoplasm to the neck
+metastatic neoplasm to the orbit
+metastatic neoplasm to the pancreas
+metastatic neoplasm to the pericardium
+metastatic neoplasm to the peritoneum
+metastatic neoplasm to the rectum
+metastatic neoplasm to the spine
+metastatic neoplasm to the thyroid gland
+metastatic non cutaneous melanoma
+metastatic signet ring cell carcinoma
+metastatic skin cancer
+metastatic small intestinal carcinoma
+metastatic squamous cell carcinoma
+metatarsal artery
+metatarsal bone
+metatarsophalangeal joint
+methionine
+metrorrhagia
+microanatomy
+microcalcification
+microcystic adenoma
+microcystic adnexal carcinoma
+microcystic changes
+microfilament gene
+microfilament protein
+microglia
+microinvasive lesion
+microinvasive malignant neoplasm
+micronodular basal cell carcinoma
+micronodular pattern
+micropapillary pattern
+micropapillary serous carcinoma
+micropapillary transitional cell carcinoma
+microsatellite instability
+microtubule
+microtubule associated protein
+microtubule triplet
+microvillus
+middle
+middle cardiac vein
+middle cerebral artery
+middle cerebral artery branch
+middle colic artery
+middle ear
+middle fossa
+middle frontal gyrus
+middle hemorrhoidal artery
+middle lobe of the prostate
+middle lobe of the right lung
+middle mediastinum
+middle phalanx of the hand
+middle temporal gyrus
+middle thyrohyoid ligament
+midgut
+mild cytologic atypia
+mild dysplasia
+milk
+minimal deviation melanoma
+minor salivary gland
+minus end of the actin filament
+minus end of the microtubule
+miscellaneous hormone agent
+miscellaneous mesenchymal neoplasm
+mitochondrial crista
+mitochondrial dna
+mitochondrial matrix
+mitochondrial membrane
+mitochondrial membrane protein
+mitochondrial rna
+mitochondrion
+mitogen
+mitotic activity
+mitotic chromosome
+mitral valve
+mixed astrocytoma ependymoma
+mixed astrocytoma ependymoma oligodendroglioma
+mixed cell adenoma
+mixed cellular population
+mixed endometrial stromal and smooth muscle neoplasm
+mixed epithelial cell population
+mixed epithelioid and spindle cell melanoma
+mixed exocrine endocrine carcinoma
+mixed germ cell neoplasm
+mixed germ cell neoplasms of the central nervous system
+mixed glioma
+mixed lobular and ductal breast carcinoma
+mixed mesodermal mullerian tumor
+mixed mesothelioma
+mixed neoplasm
+mixed neoplastic glandular and squamous cell population
+mixture of germ cell neoplastic components present
+mixture of morphologic patterns
+moderate dysplasia
+molar tooth
+molecular abnormality
+molecular abnormality kind
+molecular genetic abnormality
+molecular interaction
+molecular layer
+molecular pathway deregulation
+molecular sequence alteration
+monoblast
+monoclonal gammopathy of undetermined significance
+monoclonal paraproteinemia
+monoclonal paraproteinemia present in lower than myeloma levels
+monocyte
+monomorphic cellular infiltrate
+monophasic pattern
+monosaccharide
+mons pubis
+morphea type sclerosing basal cell carcinoma
+morphogenesis
+morphologic architectural pattern
+morphologic finding
+morphology
+motor manifestations
+motor neuron
+motor nucleus of the trigeminal nerve
+mu heavy chain disease
+mucin producing adenocarcinoma cell
+mucin producing malignant epithelial cell
+mucin producing neoplastic epithelial cell
+mucin secreting adenocarcinoma
+mucin secreting carcinoma
+mucinous adenocarcinoma
+mucinous adenocarcinoma cell
+mucinous adenocarcinoma endocervical type
+mucinous adenofibroma
+mucinous cystadenofibroma
+mucinous cystic tumor with mural nodules
+mucinous neoplasm
+mucinous stroma formation
+mucosa
+mucosa associated lymphoid tissue
+mucosa of the lip
+mucosa of the lower lip
+mucosa of the upper lip
+mucosal healing pathway
+mucosal lentiginous melanoma
+mucous connective tissue
+mucous membrane
+mucous membrane hemangioma
+mucous salivary gland
+mucus
+mullerian adenosarcoma
+multicellular process
+multicystic lesion
+multidrug resistance
+multifocal lesion
+multilayered rosette formation
+multilobated lipoblast like cell
+multinodular mass
+multinodular pattern
+multiple adenomatous polyps
+multiple endocrine neoplasia
+multiple osteochondromas
+multiple sclerosis
+multipolar neuron
+multipotent stem cell
+mural nodule
+murine tissue type
+muscle
+muscle cell
+muscle contraction
+muscle fibers fast twitch
+muscle fibers slow twitch
+muscle spindle
+muscle tissue
+muscle of the mastication
+muscle of the tympanum
+muscularis mucosa
+muscularis propria
+musculoskeletal process
+musculoskeletal system
+musculoskeletal system part
+musculus latissimus dorsi
+myelin
+myelin sheath
+myelinated nerve fiber
+myeloblast
+myelocyte
+myeloid cell
+myeloid progenitor cell
+myelolipoma
+myenteric nerve plexus
+mylohyoid
+myoblast
+myocardial neoplasm
+myocardium
+myoepithelial cell
+myoepithelial neoplasm
+myoepitheliosis
+myofibroblastoma
+myofilament
+myolipoma
+myomatous neoplasm
+myomatous stroma formation
+myometrium
+myristic acid
+myristic acylation site
+myxoid rhabdomyoma
+myxoid stroma formation
+myxoinflammatory fibroblastic sarcoma
+myxoma
+myxosarcoma
+n cadherin
+ncam 1 gene
+nci administrative concepts
+nci kind
+nf 2 tumor suppressor gene inactivation
+nfkb activation pathway
+nid gene
+nk cell activation
+no 2 dependent il 1 2 pathway
+nail
+nail plate
+nasal
+nasal bone
+nasal cartilage
+nasal cavity
+nasal cavity disorder
+nasal cavity neoplasm
+nasal cavity and paranasal sinus
+nasal cavity and paranasal sinus disorder
+nasal cavity and paranasal sinus neoplasm
+nasal cavity and paranasal sinus squamous cell carcinoma
+nasal mucus
+nasal muscle
+nasal septum
+nasal turbinate
+nasal vestibule squamous papilloma
+nasolacrimal duct
+nasopharyngeal type undifferentiated carcinoma
+nasopharynx
+nasopharynx epithelium
+natural killer cell
+natural killer cell retired
+nausea and vomiting
+navicular bone
+nearest
+neck
+neck carcinoma
+neck disorder
+neck muscle
+neck neoplasm
+neck skin
+necrotic change
+negative peripheral blood
+negative test result
+neoplasm
+neoplasm by morphology
+neoplasm by site
+neoplasm by special category
+neoplasm of uncertain histogenesis
+neoplasm of the diffuse neuroendocrine system
+neoplasm with perivascular epithelioid cell differentiation
+neoplastic acinar cell
+neoplastic adenohypophysial cell
+neoplastic apocrine cell
+neoplastic astrocyte
+neoplastic b immunoblast
+neoplastic b lymphocyte
+neoplastic basal cell
+neoplastic blastemal cell
+neoplastic cartilage cell
+neoplastic cell
+neoplastic cell with eosinophilic cytoplasm
+neoplastic chondrocyte
+neoplastic clear cell
+neoplastic columnar epithelial cell
+neoplastic connective and soft tissue cell
+neoplastic connective and soft tissue epithelioid cell
+neoplastic connective and soft tissue spindle cell
+neoplastic corticotroph cell
+neoplastic cutaneous basal cell
+neoplastic cytotrophoblastic cell
+neoplastic ductal epithelial cell
+neoplastic eccrine cell
+neoplastic endocrine cell
+neoplastic endothelial cell
+neoplastic ependymal cell
+neoplastic epithelial cell
+neoplastic epithelial clear cell
+neoplastic epithelial spindle cell
+neoplastic epithelioid cell
+neoplastic fibroblast
+neoplastic fibrohistiocytic cell
+neoplastic follicle center cell
+neoplastic ganglion cell
+neoplastic germ cell
+neoplastic glandular cell
+neoplastic glandular cell with clear cytoplasm
+neoplastic glandular epithelium resembling the normal endometrium present
+neoplastic glial cell
+neoplastic growth hormone cell
+neoplastic growth or spread
+neoplastic hematopoietic cell
+neoplastic hobnail cell
+neoplastic hurthle cell
+neoplastic immunoblast
+neoplastic intermediate type trophoblastic cell
+neoplastic keratinocyte
+neoplastic large b lymphocyte
+neoplastic large cell
+neoplastic large cell with abundant cytoplasm
+neoplastic large germ cell
+neoplastic large lymphocyte
+neoplastic large striated muscle cell with clear cytoplasm
+neoplastic lipoblast
+neoplastic lipocyte
+neoplastic lobular epithelial cell
+neoplastic lymphocyte
+neoplastic mature adipocyte
+neoplastic mature ganglion cell
+neoplastic melanocyte
+neoplastic meningothelial cell
+neoplastic mesothelial cell
+neoplastic mononuclear stromal cell
+neoplastic mucinous epithelial cell
+neoplastic muscle cell
+neoplastic myoepithelial cell
+neoplastic neuroendocrine cell
+neoplastic neuroepithelial cell
+neoplastic neuroepithelial cell and neoplastic perineural cell
+neoplastic oligodendroglia like cell
+neoplastic oligodendroglia cell
+neoplastic oncocyte
+neoplastic osteoblast
+neoplastic perineural cell
+neoplastic perivascular epithelioid cell
+neoplastic plasma cell
+neoplastic plasma cells between 1 0 and 3 0 percent of bone marrow nucleated cells
+neoplastic plasma cells more than 3 0 percent of bone marrow nucleated cells
+neoplastic plasma cells more than 1 0 percent of bone marrow nucleated cells
+neoplastic plasma cells present in bone marrow
+neoplastic plasma cells under 1 0 percent of bone marrow nucleated cells
+neoplastic plump endothelial cell
+neoplastic polygonal cell
+neoplastic polygonal cell with abundant granular cytoplasm
+neoplastic polyp
+neoplastic primitive germ cell
+neoplastic prolymphocyte
+neoplastic schwann cell
+neoplastic sebocyte
+neoplastic serous epithelial cell
+neoplastic sex cord stromal cell
+neoplastic skeletal muscle cell
+neoplastic small b lymphocyte
+neoplastic small lymphocyte
+neoplastic small mature neuroepithelial cell
+neoplastic small neuroepithelial cell
+neoplastic smooth muscle cell
+neoplastic spindle shaped fibrohistiocytic cell
+neoplastic spindle shaped to round cell
+neoplastic spindle cell
+neoplastic squamous cell
+neoplastic stellate cell
+neoplastic striated muscle cell
+neoplastic striated muscle cell with eosinophilic granular cytoplasm
+neoplastic stromal cell
+neoplastic syncytiotrophoblastic cell
+neoplastic syndrome
+neoplastic t lymphocyte and neoplastic natural killer cell
+neoplastic thyroid follicular cell
+neoplastic thyrotroph cell
+neoplastic transitional cell
+neoplastic trophoblastic cell
+nephrogenic cord
+nephron
+nerve
+nerve paralysis
+nerve plexus
+nerve root
+nerve sheaths
+nerve tissue and nerve sheaths
+nerve and perineural tissue
+nervous system
+nervous system disorder
+nervous system finding
+nervous system neoplasm
+nervous system part
+nervous tissue
+nested proliferation
+nests of nevus cells resembling nerve bundles present
+neural cell adhesion molecule
+neural crest
+neural crest derived cell
+neural crest cell
+neural pathway
+neural retina
+neural stem cell
+neurinomatosis
+neuroblast
+neuroblastic cell
+neuroblastic tumor
+neuroblastoma
+neurodegenerative disorder
+neurodegenerative disorders pathway
+neuroectoderm
+neuroectodermal cell
+neuroectodermal differentiation
+neuroectodermal tumor
+neuroendocrine carcinoma
+neuroendocrine cell
+neuroendocrine differentiation
+neuroendocrine neoplasm
+neuroendocrine system
+neuroendocrine tissue
+neuroepithelial cell
+neuroepithelial neoplasm
+neuroepithelial perineurial and schwann cell neoplasm
+neuroepithelial tissue
+neurofilament
+neuroglial tumor
+neurohypophysis neoplasm
+neurologic process
+neurological signs and symptoms
+neuron
+neuron and supporting cell of the nervous system
+neuronal differentiation
+neuronal transmission
+neuronal and mixed neuronal glial tumor
+neuronevus
+neuropil
+neuropoietic cytokine
+neurotransmitter
+neurotrophic factor
+neurotropic melanoma
+neutral epithelial mucin present
+neutrophil
+nevoid basal cell carcinoma syndrome associated medulloblastoma
+nevus cell
+nevus of external female genitalia
+nidogen
+nidus formation
+nipple
+nipple carcinoma
+nipple duct carcinoma
+nipple neoplasm
+nipple syringomatous adenoma
+nissl body
+nitrergic neuron
+no evidence of radiologic finding
+node of ranvier
+nodular hidradenoma
+nodular lesion
+nodular pattern
+nodular reticulin free zones present
+nodule
+nodulo ulcerative basal cell carcinoma
+non cutaneous melanoma
+non epithelial hepatic and intrahepatic bile duct neoplasm
+non essential amino acid
+non functioning pancreatic endocrine neoplasm
+non functioning pituitary gland neoplasm
+non granular leukocyte
+non hereditary lesion
+non hodgkin s lymphoma
+non invasive lesion
+non invasive papillary transitional cell carcinoma
+non keratinizing large cell squamous cell carcinoma
+non keratinizing malignant large squamous cell
+non keratinizing malignant small squamous cell
+non keratinizing malignant squamous cell
+non keratinizing small cell squamous cell carcinoma
+non malignant cellular infiltrate
+non neoplastic adrenal gland disorder
+non neoplastic bone disorder
+non neoplastic cardiovascular disorder
+non neoplastic central nervous system disorder
+non neoplastic connective and soft tissue disorder
+non neoplastic disorder
+non neoplastic disorder by site
+non neoplastic disorder by special category
+non neoplastic endocrine disorder
+non neoplastic eye disorder
+non neoplastic gastrointestinal disorder
+non neoplastic head and neck disorder
+non neoplastic hematologic disorder
+non neoplastic hepatic disorder
+non neoplastic intestinal disorder
+non neoplastic lung disorder
+non neoplastic nasal cavity disorder
+non neoplastic nasal cavity and paranasal sinus disorder
+non neoplastic nervous system disorder
+non neoplastic peritoneal and retroperitoneal disorder
+non neoplastic respiratory disorder
+non neoplastic retroperitoneal disorder
+non neoplastic skin disorder
+non neoplastic thoracic disorder
+non neoplastic vascular disorder
+non resectable primary hepatic malignant neoplasm
+non secretory myeloma
+non small cell adenocarcinoma
+non small cell carcinoma
+non small cell lung carcinoma
+nonmembranous cytoplasmic organelle
+nonpigmented nevus
+norepinephrine
+norepinephrine base
+normal cell
+normal tissue
+nose
+nostril
+notochord
+notochordal neoplasm
+nuchal fibroma
+nuclear atypia present
+nuclear inclusion
+nuclear inner membrane
+nuclear lamin
+nuclear lamina
+nuclear matrix
+nuclear membrane
+nuclear outer membrane
+nuclear palisading
+nuclear pleomorphism
+nuclear pore
+nuclear pore complex
+nuclear structure
+nucleated red blood cell
+nucleic acid binding
+nucleic acids
+nucleic acids nucleosides and nucleotides
+nucleocytoplasmic transport
+nucleolonema
+nucleolus
+nucleoplasm
+nucleoporin
+nucleoporin gene
+nucleosome
+nucleotides
+nucleus
+nucleus ambiguus
+nucleus of the hypoglossal nerve
+nucleus of the solitary tract
+nucleus of the spinal tract of the trigeminal nerve
+numerical chromosome aberration
+numerous stromal mast cells present
+nutritional supplement
+ox 4 0 signaling pathway
+oxt gene
+obesity
+obturator artery
+obturator muscle
+obturator vein
+occipital temporal gyrus
+occipital artery
+occipital bone
+occipital horn of the lateral ventricle
+occipital lobe
+occipital lobe neoplasm
+occlusal surface
+occult large cell lung carcinoma
+occult lung carcinoma
+occult non small cell lung carcinoma
+occupation or discipline
+ocular melanoma
+oculomotor muscle
+oculomotor nerve
+oculomotor nerve disorder
+oculomotor nerve neoplasm
+oculomotor nerve paralysis
+oculomotor nucleus
+odontoblast
+olecranon
+olfactory basal cell
+olfactory bulb
+olfactory cell
+olfactory epithelial cell
+olfactory epithelium
+olfactory lobe
+olfactory mucosa
+olfactory nerve
+olfactory nerve disorder
+olfactory nerve neoplasm
+olfactory neurocytoma
+olfactory neurogenic tumor
+olfactory receptor neuron
+olfactory sulcus
+olfactory tract
+oligodendroglia cell
+oligodendroglial component present
+oligosaccharide
+omentum
+omohyoid
+oncocytic neoplasm
+oncogene deregulation
+oncogenic osteomalacia
+oocyte
+opening of the pulmonary vein
+ophthalmic nerve
+opthalmic artery
+optic disc
+optic nerve
+optic nerve astrocytoma
+optic nerve glioma
+optic nerve neoplasm
+optic tract
+oral
+oral cavity
+oral cavity epithelium
+orbicularis oculi
+orbiculus ciliaris
+orbit
+orbit capillary hemangioma
+orbit cavernous hemangioma
+orbit hemangioma
+orbit neoplasm
+orbit sarcoma
+orbital part of the inferior frontal gyrus
+orbital sulcus
+organ
+organ capsule
+organ system
+organ of corti
+organ of special sense part
+organ of the special sense
+organic chemical
+organic oxoacids
+organism kind
+organismal process
+organisms
+organogenesis
+orifice of the eustachian tube
+oropharynx
+oropharynx epithelium
+osseous differentiation
+osseous labyrinth
+osseous metaplasia
+osteoblast
+osteoblastoma
+osteochondroma
+osteoclast
+osteoclast like giant cell
+osteocyte
+osteogenic neoplasm
+osteoid
+osteoid formation
+osteoid osteoma
+osteolytic neoplasm
+osteoma
+osteomalacia
+other anatomic concept
+other biochemical pathway
+other embryologic structure
+other finding
+otolith
+otolymph
+outer
+outer hair cell of the organ of the corti
+outer mitochondrial membrane
+outer nuclear layer of retina
+outer plexiform layer
+outer supporting cell
+oval foramen
+ovarian angiosarcoma
+ovarian artery
+ovarian capsule
+ovarian carcinoma
+ovarian choriocarcinoma
+ovarian clear cell adenofibroma
+ovarian clear cell cystadenofibroma
+ovarian clear cell tumor
+ovarian cortex
+ovarian disorder
+ovarian endometrioid adenofibroma
+ovarian endometrioid cystadenofibroma
+ovarian endometrioid stromal sarcoma
+ovarian endometrioid tumor
+ovarian epithelial neoplasm
+ovarian follicle
+ovarian granulosa cell
+ovarian liposarcoma
+ovarian malignant mesothelioma
+ovarian medulla
+ovarian mixed epithelial neoplasm
+ovarian mucinous adenofibroma
+ovarian mucinous cystadenofibroma
+ovarian mucinous cystic tumor associated with pseudomyxoma peritonei
+ovarian mucinous neoplasm
+ovarian mullerian adenosarcoma
+ovarian myxoma
+ovarian neoplasm
+ovarian neuroendocrine neoplasm
+ovarian papillary neoplasm
+ovarian sarcoma
+ovarian serous neoplasm
+ovarian soft tissue neoplasm
+ovarian squamous cell tumor
+ovarian surface epithelium
+ovarian tissue
+ovarian transitional cell neoplasm
+ovarian vein
+ovarian wilms tumor
+ovary
+oxyphil cell
+oxyphilic adenocarcinoma
+oxyphilic adenoma
+oxytocin
+p cadherin
+p selectin
+pomc gene
+ppa ra alpha gene regulation pathway
+prl gene
+ptch tumor suppressor gene inactivation
+pten tumor suppressor gene inactivation
+paget s cell
+paget s cell neoplasm
+pagetoid proliferation
+pain
+painless mass
+palatal muscle
+palate
+palate bone
+palatine bone
+palatine salivary gland
+palatine tonsil
+palatoglossus muscle
+palisaded lymph node myofibroblastoma
+palmar region
+palmitic acid
+palmitic acylation site
+palpebral conjunctiva
+pancreas
+pancreas part
+pancreatic
+pancreatic acinus
+pancreatic adrenocorticotropic hormone producing neoplasm
+pancreatic carcinoid tumor
+pancreatic carcinoma
+pancreatic centroacinar cell
+pancreatic delta cell neoplasm
+pancreatic disorder
+pancreatic duct
+pancreatic endocrine carcinoma
+pancreatic endocrine neoplasm
+pancreatic mucinous cystic neoplasm
+pancreatic neoplasm
+pancreatic non functioning delta cell neoplasm
+pancreatic sarcoma
+pancreatic secretion
+pancreatic vein
+pancreatico duodenal artery
+pancreatico duodenal vein
+paneth cell
+papilla of the tongue
+papillary adenocarcinoma
+papillary adenofibroma
+papillary breast carcinoma
+papillary breast neoplasm
+papillary carcinoma
+papillary carcinoma in situ
+papillary epithelial neoplasm
+papillary hidradenoma hidradenoma papilliferum
+papillary muscle
+papillary neoplasm
+papillary pattern
+papillary squamous cell carcinoma
+papillary transitional cell carcinoma
+papilloma
+papillomatosis
+parachordoma
+parafascicular nucleus of the thalamus
+parafollicular cell
+paraganglioma like dermal melanocytic tumor
+parahippocampal gyrus
+parakeratosis
+paralysis
+parametrium
+paranasal sinus
+paranasal sinus epithelium
+paranasal sinus retired
+paraneoplastic syndrome
+parapharyngeal meningioma
+paraproteinemia
+parasympathetic ganglion
+parasympathetic nervous system
+parathyroid gland
+parathyroid gland capsule
+parathyroid gland chief cell
+parathyroid gland clear cell
+parathyroid gland epithelial tissue
+parathyroid gland oxyphil cell
+parathyroid gland parenchymal cell
+parathyroid gland tissue
+paraurethral gland
+paraxial mesoderm
+parietal bone
+parietal cell
+parietal lobe neoplasm
+parietal lobe of the brain
+parietal pleura
+parieto occipital fissure
+parieto occipital sulcus
+parkinsons disease pathway
+parotid duct
+parotid gland
+pars interna
+pars media
+part
+patella
+patellar ligament
+pathologic fracture
+pathologic process
+pathway kind
+pectinate line
+pectineus
+pectoralis major
+pectoralis minor
+pectoralis muscle
+pelvic
+pelvic bone
+pelvic floor muscle
+pelvic girdle
+pelvic lymph node
+pelvis
+penis
+pentose
+peptide hormone
+peptide hormone gene
+perforating canal
+pericallosal artery
+pericardiac artery
+pericardiacophrenic vein
+pericardial carcinomatosis
+pericardial cavity
+pericardial germ cell tumor
+pericardial mesothelioma
+pericardial neoplasm
+pericardium
+pericyte
+periductal breast myoepitheliosis
+perikaryon
+perilymph
+perimetrium
+perimysium
+perineal artery
+perineal muscle
+perineum
+perineural cell
+perineural hemangioma
+perineural invasion
+perineural tissue
+perineurium
+periodontium
+periosteal cell
+periosteal chondroma
+periosteal fibroma
+periosteal fibrosarcoma
+periosteal layer of the dura mater
+periosteum
+peripheral
+peripheral blood cell
+peripheral blood involvement
+peripheral blood mononuclear cell
+peripheral blood stem cell
+peripheral ganglioneuroblastoma
+peripheral intraneural angiosarcoma
+peripheral nerve
+peripheral nerve sheath neoplasm
+peripheral nervous system
+peripheral nervous system part
+peripheral nuclear palisading
+peripheral post thymic t lymphocyte
+peripheral t lymphocyte and natural killer cell
+perisinusoidal space
+peritoneal cavity
+peritoneal disorder
+peritoneal effusion
+peritoneal macrophage
+peritoneal mesothelial cell
+peritoneal mesothelioma
+peritoneal neoplasm
+peritoneal and retroperitoneal disorder
+peritoneal and retroperitoneal neoplasms
+peritoneum
+perivascular arrangement of tumor cells
+perivascular lymphocytic infiltrate
+perivascular neoplasm
+permanent tooth
+peroneal artery
+peroneal nerve
+peroneus longus
+peroxisome
+peyer s patch
+phagocytic cell
+phagosome
+phalanx
+phalanx of the foot
+phalanx of the hand
+pharmaceutical dosage form
+pharmacologic substance
+pharyngeal muscle
+pharyngeal tonsil
+pharynx
+phenylalanine
+phosphatidylinositol
+phosphatidylserine
+phosphaturia
+phosphaturic mesenchymal tumor
+phospholipid
+phosphorylation
+phosphorylation site
+phosphotransferase
+phosphotransferase gene
+photoreceptor cell
+phrenic artery
+phrenic nerve
+phyllodes tumor
+phyllodes tumor of the breast
+physical phenomena or properties
+physical state
+physiology regulatory factor
+pia mater
+pica
+pigment
+pigmented basal cell carcinoma
+pigmented nevus
+pigmented spindle cell nevus
+pillar cell
+pilomyxoid astrocytoma
+pineal gland
+pineal gland astrocytoma
+pineal parenchyma
+pineal parenchymal cell neoplasm
+pineal parenchymal tumor of intermediate differentiation
+pineal region neoplasm
+pinealocyte
+pineocyte
+pineocytoma
+pineocytomatous rosette formation
+pisiform bone
+pituicyte
+pituitary agent
+pituitary corticotropin secreting tumor
+pituitary gland
+pituitary gland disorder
+pituitary gland neoplasm
+pituitary hormone
+pituitary stalk
+placenta
+placental membrane
+plane
+plant
+plantar fascia
+plantar metatarsal artery
+plantar region
+plantar verrucous skin carcinoma
+plasma
+plasma cell
+plasma cell leukemia
+plasma cell myeloma
+plasma cell neoplasm
+plasma membrane
+plasma membrane lipid bilayer
+plasmablast
+plasmablastic immunoblast
+plasmablastic lymphoma
+plasmablastic lymphoma of mucosa site
+plasmacytic infiltrate
+plasmacytoma
+platelet
+platelet aggregation pathway
+pleomorphic carcinoma
+pleomorphic hyalinizing angiectatic tumor of soft parts
+pleural cavity
+pleural mesothelial cell
+pleural tissue
+pleuropericardial membrane
+plexiform vasculature present
+pluripotent stem cell
+plus end of the actin filament
+plus end of the microtubule
+point
+polychromatophilic erythroblast
+polychromatophilic erythrocyte
+polyclonal hypergammaglobulinemia
+polygon
+polyhedron
+polyp
+polypoid lesion
+polyposis
+polysaccharide
+polysomy
+polysomy 1 0
+polysomy 1 7
+polysomy 3
+pons varolii
+pontine
+pontine base
+poorly differentiated lesion
+poorly differentiated neoplastic astrocyte
+poorly differentiated pancreatic endocrine carcinoma
+popliteal artery
+popliteal artery branch
+popliteal lymph node
+popliteal vein
+popliteus muscle
+poroma acrospiroma
+portal lobule
+portal triad
+portal vein
+portal venous system
+positive immunophenotypic test result
+positive test result
+post radiotherapy breast angiosarcoma
+post translational modification
+post translational modification site
+post translational regulation
+postcapillary venule
+postcentral gyrus
+postcentral sulcus
+posterior
+posterior auricular vein
+posterior cerebral artery
+posterior cerebral artery branch
+posterior chamber of the eye
+posterior choroidal artery
+posterior circulation intracranial artery
+posterior commissure
+posterior communicating artery
+posterior cricoarytenoid ligament
+posterior cruciate ligament
+posterior external jugular vein
+posterior eye segment
+posterior fossa
+posterior horn cell
+posterior inferior cerebellar artery
+posterior infratentorial cistern
+posterior lobe of the pituitary gland
+posterior lobe of the prostate
+posterior longitudinal ligament
+posterior mediastinum
+posterior meningeal artery
+posterior nucleus of the thalamus
+posterior olfactory lobule
+posterior parietal artery
+posterior pole of the lens
+posterior quadrigeminal body
+posterior semicircular canal
+posterior spinal artery
+posterior supratentorial cistern
+posterior surface of the kidney
+posterior surface of the liver
+posterior surface of the prostate
+posterior surface of the stomach
+posterior temporal artery
+posterior tibial artery
+posterior tibial artery branch
+posterior tibial vein
+posterior wall of the bladder
+posterior wall of the hypopharynx
+posterior wall of the nasopharynx
+posterior wall of the oropharynx
+posterior wall of the pharynx
+postmenopausal hemorrhage
+precancerous atypia
+precancerous condition
+precancerous condition by site
+precancerous polyp
+precentral gyrus
+precentral sulcus
+precursor nk cell
+premalignant hematologic condition
+premalignant lesion
+prepuce
+presence of a hormonal syndrome
+preserved nuclear polarity
+primary angiosarcoma
+primary brain neoplasm
+primary brain stem neoplasm
+primary carcinoma
+primary carcinoma unspecified site
+primary childhood soft tissue sarcoma
+primary cutaneous meningioma
+primary fibrosarcoma
+primary lesion
+primary liposarcoma
+primary lung meningioma
+primary lymph sac
+primary malignant neoplasm of liver
+primary melanocytic lesion of meninges
+primary oocyte
+primary ossification center
+primary site unknown
+primary site unspecified
+primate
+primitive malignant skeletal muscle cell
+primitive neuroectodermal tumor with leptomeningeal spread
+primitive skeletal muscle cell
+primitive skeletal spindle cell
+primitive striated muscle cell
+primordial germ cell
+primordial interventricular septum
+primordium
+principal sensory nucleus of the trigeminal nerve
+processus cochleariformis
+proerythroblast
+progressive clinical course
+prolactin
+proliferation of basaloid cells parallel to the long axis of the epidermis present
+proliferation of small ducts present
+proliferative dermal lesion in congenital nevus
+proliferative fasciitis
+proline
+prolymphocytic leukemia
+prominent keratin formation
+prominent schwannian stroma present
+prominent squamous eddies present
+promonocyte
+promyelocyte
+pronator teres
+pronephros
+properties or attributes
+properties or attributes kind
+proprioceptor
+prosencephalon
+prostate capsule
+prostate gland
+prostate gland lobe
+prostatic duct
+prostatic epithelium
+prostatic muscular tissue
+prostatic portion of the male urethra
+prostatic stroma
+prostatic tissue
+prostatic utricle
+protective agent
+protein
+protein protein interaction
+protein activation pathway
+protein binding domain
+protein complex subunit
+protein complex subunit gene
+protein deregulation
+protein domain
+protein kinase
+protein organized by function
+protein organized by location
+protein organized by structure
+protein phosphorylation
+protein secretion
+protein structure
+protein or riboprotein complex
+proteoglycan
+protirelin
+protoplasm
+protoplasmic astrocyte
+proximal
+proximal part of the lumen of the centriole
+proximal phalanx of foot
+proximal phalanx of hand
+proximal phalanx of the hand
+psammoma body formation
+pseudoglandular pattern
+pseudoglandular squamous cell carcinoma
+pseudomyxoma peritonei
+pseudopapillary pattern
+pseudorosette formation
+pseudostratified columnar ciliated epithelium
+pseudostratified columnar epithelium
+pseudostratified epithelium
+psoas major
+psoas minor
+psoas muscle
+psoriasis
+psychiatric disorder
+pubic bone
+publication volume
+pulmonary
+pulmonary acinus
+pulmonary artery
+pulmonary artery angiosarcoma
+pulmonary artery branch
+pulmonary artery choriocarcinoma
+pulmonary lobule
+pulmonary sulcus neoplasm
+pulmonary valve
+pulmonary vein
+pupil
+purine
+purkinje cell layer of the cerebellum
+purkinje fiber
+purkinje s cell
+pushing tumor margins present
+putamen
+pyloric gland
+pyloric orifice
+pyloric sphincter
+pylorus
+pyramid of ferrein
+pyramid of malpighi
+pyramidal cell
+pyramidal lobe
+pyramidalis
+pyriform sinus
+pyrimidine
+quadratus lumborum
+quadrigeminal artery
+quadrigeminal body
+quadrigeminal cistern
+qualifier
+rgd receptor
+radial artery
+radial growth phase
+radial nerve
+radiation toxicity
+radiologic finding
+radius
+radius bone
+radix dentis
+rapidly enlarging mass
+rare lesion
+ras independent cell mediated cytotoxicity pathway
+reactive lymphocyte
+rearrangement of 8q 1 1 1 3
+receptor
+receptor activation
+receptor gene
+receptor serine threonine kinase
+receptor serine threonine kinase gene
+receptor signaling
+rectal adenoma
+rectal adenoma with severe dysplasia
+rectal carcinoma
+rectal lipoma
+rectal melanoma
+rectal neoplasm
+rectal neuroendocrine neoplasm
+rectal sarcoma
+rectal tubulovillous adenoma
+rectal villous adenoma
+recto vesical pouch
+rectosigmoid carcinoma
+rectosigmoid neoplasm
+rectosigmoid region
+rectum
+rectus abdominis
+rectus femoris
+recurrent adult brain neoplasm
+recurrent adult hodgkin s lymphoma
+recurrent adult liver cancer
+recurrent adult non hodgkin s lymphoma
+recurrent adult soft tissue sarcoma
+recurrent adult spinal cord neoplasm
+recurrent angiosarcoma
+recurrent artery of heubner
+recurrent b cell non hodgkin s lymphoma
+recurrent brain neoplasm
+recurrent breast cancer
+recurrent carcinoma
+recurrent central nervous system neoplasm
+recurrent cervical carcinoma
+recurrent childhood brain neoplasm
+recurrent childhood brain stem astrocytoma
+recurrent childhood brain stem glioma
+recurrent childhood central nervous system neoplasm
+recurrent childhood cerebellar astrocytoma
+recurrent childhood cerebral astrocytoma
+recurrent childhood hodgkin s lymphoma
+recurrent childhood medulloblastoma
+recurrent childhood optic nerve astrocytoma
+recurrent childhood optic nerve glioma
+recurrent childhood soft tissue sarcoma
+recurrent childhood spinal cord neoplasm
+recurrent childhood visual pathway astrocytoma
+recurrent childhood visual pathway glioma
+recurrent colon cancer
+recurrent colorectal cancer
+recurrent diffuse large b cell lymphoma
+recurrent disease
+recurrent duodenal cancer
+recurrent endometrial carcinoma
+recurrent female reproductive system cancer
+recurrent gastrointestinal system cancer
+recurrent head and neck cancer
+recurrent hodgkin s lymphoma
+recurrent large cell lung carcinoma
+recurrent lentigo maligna melanoma
+recurrent liposarcoma
+recurrent liver cancer
+recurrent lung cancer
+recurrent malignant duodenal neoplasm
+recurrent malignant endocervical neoplasm
+recurrent malignant fibrous histiocytoma
+recurrent malignant mesothelioma
+recurrent malignant neoplasm
+recurrent mature t and nk cell non hodgkin s lymphoma
+recurrent medulloblastoma
+recurrent melanoma
+recurrent melanoma of the skin
+recurrent nasal cavity and paranasal sinus cancer
+recurrent neoplasm
+recurrent nevus
+recurrent non cutaneous melanoma
+recurrent non hodgkin s lymphoma
+recurrent non small cell lung cancer
+recurrent pancreatic cancer
+recurrent pituitary gland neoplasm
+recurrent primitive neuroectodermal tumor
+recurrent rectal cancer
+recurrent rectosigmoid carcinoma
+recurrent skin cancer
+recurrent small intestinal cancer
+recurrent spinal cord neoplasm
+recurrent t cell non hodgkin s lymphoma
+recurrent thyroid carcinoma
+recurrent uterine sarcoma
+reed sternberg cell
+refractile media
+refractory adult spinal cord neoplasm
+refractory b cell non hodgkin s lymphoma
+refractory brain neoplasm
+refractory carcinoma
+refractory central nervous system neoplasm
+refractory childhood spinal cord neoplasm
+refractory diffuse large b cell lymphoma
+refractory disease
+refractory hematologic malignancy
+refractory hodgkin s lymphoma
+refractory mature b cell non hodgkin s lymphoma
+refractory mature t cell and nk cell non hodgkin s lymphoma
+refractory neoplasm
+refractory non hodgkin s lymphoma
+refractory plasma cell neoplasm
+refractory spinal cord neoplasm
+refractory t cell non hodgkin s lymphoma
+regeneration
+region 1 7p 1 3 allelic loss associated medulloblastomas
+regional disease
+regional enteritis
+regional lymph node
+regressing melanoma
+regressing melanoma of the skin
+regressing nevus
+regressing non cutaneous melanoma
+regression
+regular dense connective tissue
+regular insulin
+regulation
+regulation of cell death
+regulation of cell shape
+regulatory gene
+regulatory pathways
+regulatory protein
+relapsed hematologic malignancy
+remnants of the notochord
+renal
+renal artery
+renal capsule
+renal cell
+renal corpuscle
+renal cortex
+renal interstitial cell
+renal interstitial tissue
+renal medulla
+renal papilla
+renal pelvis
+renal pelvis urothelium
+renal pelvis and ureter
+renal pyramid
+renal tissue
+renal tubule
+renal vein
+renshaw cell
+reproduction
+reproductive process
+reproductive system
+reproductive system disorder
+reproductive system finding
+reproductive system neoplasm
+reproductive system part
+reproductive system process
+resectable duodenal carcinoma
+resectable hepatic malignant neoplasm
+resectable mass
+resectable pancreatic cancer
+resectable small intestinal cancer
+resistance
+resistance process
+respiratory bronchiole
+respiratory bronchiole epithelium
+respiratory disorder
+respiratory papilloma
+respiratory system
+respiratory system fluid or secretion
+respiratory system part
+respiratory tract neoplasm
+respiratory and thoracic disorder
+rete malpighii
+rete ovarii
+rete ovarii adenocarcinoma
+rete ovarii adenoma
+rete ovarii cystadenofibroma
+rete ovarii neoplasm
+rete testis
+reticular cell
+reticular fiber
+reticular pattern
+reticuloendothelial system
+retina
+retina layer
+retinal artery
+retinal ganglion cell
+retinal neuroblastoma
+retinal pigment epithelium
+retinal vein
+retired concepts
+retired kind
+retro orbit neoplasm
+retro orbital region
+retromolar trigone
+retroperitoneal
+retroperitoneal carcinoma
+retroperitoneal disorder
+retroperitoneal neoplasm
+retroperitoneal sarcoma
+retroperitoneal space
+retroperitoneum
+rhabdomyoblast
+rhabdomyocyte
+rhabdomyoma
+rhabdomyoma of the central nervous system
+rhamnose
+rheumatoid arthritis
+rheumatologic disorder
+rhinitis
+rho cell motility signaling pathway
+rib
+rib head
+rib shaft
+rib tubercle
+ribonucleic acid
+ribosomal rna
+ribosome
+richter s syndrome
+ridge
+right
+right adrenal gland
+right atrial myxoma
+right atrium
+right breast
+right cerebral hemisphere
+right colon
+right common carotid artery
+right common iliac artery
+right coronary artery
+right fallopian tube
+right hepatic duct
+right hypochondriac region
+right inguinal region
+right innominate vein
+right kidney
+right lobe of the liver
+right lumbar region
+right lung
+right lymphatic duct
+right main bronchus
+right ovary
+right pulmonary artery
+right renal artery
+right renal vein
+right spermatic artery
+right spermatic vein
+right subclavian artery
+right subcostal vein
+right suprarenal vein
+right testis
+right thyroid gland lobe
+right ureter
+right ventricle
+ring compound
+rod
+rod outer segment
+rod shape
+roof of the fourth ventricle
+root of the nail
+rosai dorfman disease
+rosenthal fibers present
+rosette forming glioneuronal tumor of the fourth ventricle
+rosette formation
+rostrum of the corpus callosum
+rotator cuff
+rough endoplasmic reticulum
+round adenocarcinoma cell
+round ligament
+round ligament of the liver
+round ligament of the uterus
+rubbery skin lesion
+s 1 0 0 positive histiocytes present
+sacral 1 vertebra
+sacral 2 vertebra
+sacral 3 vertebra
+sacral 4 vertebra
+sacral 5 vertebra
+sele gene
+sell gene
+selp gene
+sst gene
+saccule
+sacral bone
+sacral nerve
+sacral plexus
+sacral spinal cord
+sacral spinal nerve root
+sacral vertebra
+sacrococcygeal joint
+sacroiliac joint
+sacrum
+sagittal sinus
+saliva
+salivary gland
+salivary gland tissue
+salpingopharyngeus
+saphenous vein
+sarcolemma
+sarcoma of the soft tissue and bone
+sarcomatoid basal cell carcinoma
+sarcomatoid carcinoma
+sarcomatoid mesothelioma
+sarcomatoid squamous cell carcinoma
+sarcomatoid transitional cell carcinoma
+sarcomatosis
+sarcomatous component present
+sarcoplasm
+sarcoplasmic reticulum
+sartorius muscle
+saturated fatty acid
+scaffolding protein
+scalene muscle
+scalenus medius
+scaphoid bone
+scapula
+scattered collections of differentiating neuroblasts present
+schizophrenia
+schwann cell
+schwannian stroma more than 5 0 percent of the tumor volume
+schwannian stroma predominant component of the tumor volume
+schwannoma
+schwannoma of the twelfth cranial nerve
+sciatic nerve
+scirrhous adenocarcinoma
+sclera
+sclerosing epithelioid fibrosarcoma
+sclerotic fibroma
+scrotal basal cell carcinoma
+scrotal carcinoma
+scrotal melanoma
+scrotal neoplasm
+scrotal paget s disease
+scrotal squamous cell carcinoma
+scrotum
+sebaceoma
+sebaceous adenoma
+sebaceous differentiation
+sebaceous epithelioma
+sebaceous gland
+sebaceous gland duct
+sebaceous neoplasm
+sebocyte
+seborrheic keratosis
+sebum
+sebum mmhcc
+second portion of the duodenum
+secondary amyloidosis
+secondary carcinoma
+secondary cerebral hodgkin s lymphoma
+secondary lesion
+secondary lymphoma of heart
+secondary malignant neoplasm
+secondary neoplasm
+secondary oocyte
+secretin
+secretory adenocarcinoma cell
+secretory cell
+secretory granule
+secretory vesicle
+segment
+segmental bronchus
+selectin
+selectin l
+sella turcica
+sella turcica neoplasm
+semen
+semicircular canal
+semicircular duct
+semimembranosus
+seminal fluid
+seminal vesicle
+seminal vesicle secretion
+seminiferous tubule
+seminomatous component present
+semispinalis capitis
+semispinalis cervicis
+semispinalis thoracis
+semitendinosus
+sensory somatic nervous system
+sensory ganglion
+sensory neuron
+sensory receptor of the ear
+septal cusp
+septum pellucidum
+septum primum
+septum secundum
+serine
+serine threonine phosphorylation
+serine threonine protein kinase
+serine threonine protein kinase gene
+serosa
+serotonin
+serotonin positive neoplastic cells present
+serous adenocarcinoma
+serous adenocarcinoma cell
+serous adenofibroma
+serous neoplasm
+serous salivary gland
+serous surface papillary carcinoma
+serous surface papilloma
+serrated adenoma
+serrated glandular architecture
+sertoli cell
+serum
+sesamoid bone
+severe cytologic atypia
+severe dysplasia
+sex chromosome
+sexual precocity
+shaft of the hair
+shape
+sheath of schwann
+short bone
+short saphenous vein
+shoulder
+shoulder girdle
+shoulder joint
+sialic acid
+sigmoid artery
+sigmoid colon
+signal transduction
+signaling molecule
+signaling pathway gene
+signaling pathways
+signaling protein
+signet ring adenocarcinoma cell
+signet ring cell
+signet ring cell basal cell carcinoma
+signet ring cell carcinoma
+signet ring melanoma
+signet ring melanoma cell
+simple columnar epithelium
+simple cuboidal epithelium
+simple epithelium
+simple squamous epithelium
+sinoatrial node
+sinonasal carcinoma
+sinonasal undifferentiated carcinoma
+sinus
+sinus venarum
+sinus venosus
+sinus of valsava
+skeletal fiber
+skeletal muscle cell
+skeletal muscle neoplasm
+skeletal muscle tissue
+skeletal myogenesis pathway
+skeletal system
+skeletal system part
+skene s gland
+skin
+skin adenosquamous carcinoma
+skin appendage adenoma
+skin appendage neoplasm
+skin basaloid squamous cell carcinoma
+skin carcinoma
+skin discoloration
+skin disorder
+skin erosion
+skin fluid or secretion
+skin melanoma in giant pigmented nevus
+skin neoplasm
+skin nodular basal cell carcinoma
+skin nodule
+skin papilloma
+skin papules
+skin part
+skin patches
+skin plaques
+skin pseudovascular squamous cell carcinoma
+skin sarcoma
+skin squamous cell
+skin squamous cell carcinoma
+skin tissue
+skin ulcer
+skin of the extremity
+skin of the face
+skin of the lip
+skin of the trunk
+skull
+skull base neoplasm
+skull disorder
+skull neoplasm
+slit like stromal retraction present
+slow growing mass
+small cardiac vein
+small cell sarcoma
+small congenital melanocytic nevus
+small inducible cytokine a 1 1
+small inducible cytokine a 2 4
+small inducible cytokine a 2 6
+small inducible cytokine a 7
+small intestinal adenoma
+small intestinal adenosquamous carcinoma
+small intestinal carcinoma
+small intestinal crypt of lieberkuhn
+small intestinal fibrosarcoma
+small intestinal g cell gastrin producing neoplasm
+small intestinal glandular cell
+small intestinal goblet cell
+small intestinal high grade intraepithelial neoplasia
+small intestinal intraepithelial neoplasia
+small intestinal l cell glucagon like peptide producing neoplasm
+small intestinal lipoma
+small intestinal low grade intraepithelial neoplasia
+small intestinal medullary carcinoma
+small intestinal mucosa
+small intestinal muscular coat
+small intestinal muscularis mucosa
+small intestinal neoplasm
+small intestinal neuroendocrine neoplasm
+small intestinal sarcoma
+small intestinal squamous cell carcinoma
+small intestinal submucosa
+small intestinal tubular adenoma
+small intestinal tubulovillous adenoma
+small intestinal villous adenoma
+small intestinal wall tissue
+small intestine
+small lesion
+small lymphocyte with clumped chromatin
+smegma
+smoldering myeloma
+smooth endoplasmic reticulum
+smooth muscle component present
+smooth muscle neoplasm
+smooth muscle tissue
+smooth muscle tissue cell
+soft palate
+soft tissue
+soft tissue disorder
+soft tissue fibrosarcoma
+soft tissue neoplasm
+soft tissue sarcoma
+soleus
+solid
+solid carcinoma
+solid dosage form
+solid glomus tumor
+solid nodular basal cell skin carcinoma
+solid pattern
+solid pseudopapillary carcinoma of the pancreas
+solitary adult fibroma
+solitary mass
+solitary nucleus
+solitary osseous plasmacytoma
+solitary osteochondroma
+solitary plasmacytoma
+somatic cell
+somatosensory receptor
+somatostatin
+somatostatin positive neoplastic cells present
+somatotrope cell
+somatotroph
+somite
+sorbitol
+space of fontana
+space of mall
+spaces lined by one to three layers of monotonous atypical cells present
+spatial qualifier
+special sense organ system
+special sensory organs mmhcc
+specialized epithelial cell
+spermatic artery
+spermatic cord
+spermatic vein
+spermatid
+spermatocyte
+spermatogenic cell
+spermatogonium
+spermatozoon
+sphenoid bone
+sphenoid sinus
+sphenoparietal sinus
+sphincter pupillae muscle
+sphincter of oddi
+spider cell
+spinal accessory nerve
+spinal accessory nerve neoplasm
+spinal artery
+spinal cord
+spinal cord astrocytoma
+spinal cord dura mater
+spinal cord fissure
+spinal cord glial neoplasm
+spinal cord lipoma
+spinal cord melanoma
+spinal cord neoplasm
+spinal cord part
+spinal cord primitive neuroectodermal neoplasm
+spinal cord sarcoma
+spinal cord tract
+spinal nerve
+spinal nerve plexus
+spinal nerve root
+spinal vestibular nucleus
+spinalis thoracis
+spindle shaped fibroblast
+spindle shaped myofibroblast
+spindle a melanoma cell
+spindle b melanoma cell
+spindle cell hemangioma
+spindle cell melanoma
+spindle cell metaplasia of malignant cells present
+spindle cell myoblast
+spindle cell nevus
+spindle cell sarcoma
+spindle cell sarcomatoid squamous cell skin carcinoma
+spindle endothelial cell
+spindle melanocyte
+spindle melanoma cell
+spindle shaped smooth muscle cell
+spiral organ of corti
+spitz spindle cell nevus
+spleen
+spleen part
+splenial artery
+splenic artery
+splenic capsule
+splenic cord
+splenic flexure
+splenic hilar lymph node
+splenic hilum
+splenic pulp
+splenic red pulp
+splenic sinus
+splenic tissue
+splenic trabecula
+splenic vein
+splenic white pulp
+splenium of the corpus callosum
+splenius
+splenomegaly
+spontaneous regression
+sporadic cylindroma
+squamous alveolar lining cell
+squamous cell
+squamous cell carcinoma
+squamous cell carcinoma in situ of the nipple
+squamous cell intraepithelial neoplasia
+squamous cell neoplasm
+squamous cell papilloma
+squamous cell skin papilloma
+squamous cell thyroid gland carcinoma
+squamous differentiation
+squamous epithelium
+squamous metaplasia
+squamous metaplasia of malignant cells present
+squamous papillomatosis
+squamous pearl formation
+stable disease
+stage 0
+stage 0 ampulla of vater cancer
+stage 0 appendix carcinoma
+stage 0 breast cancer
+stage 0 colon cancer
+stage 0 colorectal cancer
+stage 0 endometrial cancer
+stage 0 large cell lung carcinoma
+stage 0 lung cancer
+stage 0 melanoma of the skin
+stage 0 non small cell lung cancer
+stage 0 rectal cancer
+stage 0 rectosigmoid cancer
+stage 0 skin cancer
+stage 0 small intestinal cancer
+stage 0 squamous cell carcinoma
+stage 0 transitional cell carcinoma
+stage i
+stage ia
+stage ia 1
+stage ia 1 cervical cancer
+stage ia 2
+stage ia 2 cervical cancer
+stage ia adult soft tissue sarcoma
+stage ia bone sarcoma
+stage ia cervical cancer
+stage ia endometrial cancer
+stage ia lung carcinoma
+stage ia non small cell lung carcinoma
+stage ia ovarian cancer
+stage ia soft tissue sarcoma
+stage ib
+stage ib 1
+stage ib 1 cervical cancer
+stage ib 2
+stage ib 2 cervical cancer
+stage ib adult soft tissue sarcoma
+stage ib bone sarcoma
+stage ib cervical cancer
+stage ib endometrial cancer
+stage ib lung carcinoma
+stage ib non small cell lung carcinoma
+stage ib ovarian cancer
+stage ib soft tissue sarcoma
+stage ic
+stage ic endometrial cancer
+stage ii
+stage iia
+stage iia adult soft tissue sarcoma
+stage iia bone sarcoma
+stage iia breast cancer
+stage iia cervical cancer
+stage iia endometrial cancer
+stage iia lung carcinoma
+stage iia non small cell lung carcinoma
+stage iia soft tissue sarcoma
+stage iib
+stage iib adult soft tissue sarcoma
+stage iib bone sarcoma
+stage iib breast cancer
+stage iib cervical cancer
+stage iib endometrial cancer
+stage iib lung carcinoma
+stage iib melanoma of the skin
+stage iib non small cell lung carcinoma
+stage iib soft tissue sarcoma
+stage iic
+stage iic adult soft tissue sarcoma
+stage iic soft tissue sarcoma
+stage iii
+stage iiia
+stage iiia breast cancer
+stage iiia cervical cancer
+stage iiia endometrial cancer
+stage iiia liver cancer
+stage iiia lung carcinoma
+stage iiia non small cell lung cancer
+stage iiib
+stage iiib breast cancer
+stage iiib cervical cancer
+stage iiib endometrial cancer
+stage iiib liver cancer
+stage iiib lung carcinoma
+stage iiib non small cell lung cancer
+stage iiic
+stage iiic breast cancer
+stage iiic endometrial cancer
+stage iii acral lentiginous melanoma
+stage iii adult soft tissue sarcoma
+stage iii ampulla of vater cancer
+stage iii bone sarcoma
+stage iii breast cancer
+stage iii cervical cancer
+stage iii endometrial cancer
+stage iii extragonadal non seminomatous germ cell tumor
+stage iii extragonadal primary mixed germ cell tumor
+stage iii lentigo maligna melanoma
+stage iii liver cancer
+stage iii lung cancer
+stage iii melanoma of the skin
+stage iii mesothelioma
+stage iii nasal cavity and paranasal sinus cancer
+stage iii non small cell lung cancer
+stage iii ovarian choriocarcinoma
+stage iii pancreatic cancer
+stage iii skin cancer
+stage iii soft tissue sarcoma
+stage iii superficial spreading melanoma
+stage iii uterine sarcoma
+stage ii acral lentiginous melanoma
+stage ii adult soft tissue sarcoma
+stage ii ampulla of vater cancer
+stage ii bone sarcoma
+stage ii breast cancer
+stage ii cervical cancer
+stage ii endometrial cancer
+stage ii extragonadal non seminomatous germ cell tumor
+stage ii extragonadal primary mixed germ cell tumor
+stage ii lentigo maligna melanoma
+stage ii liver cancer
+stage ii lung cancer
+stage ii melanoma of the skin
+stage ii mesothelioma
+stage ii nasal cavity and paranasal sinus cancer
+stage ii non small cell lung cancer
+stage ii ovarian choriocarcinoma
+stage ii pancreatic cancer
+stage ii skin cancer
+stage ii soft tissue sarcoma
+stage ii superficial spreading melanoma
+stage ii uterine sarcoma
+stage iv
+stage iva
+stage iva bone sarcoma
+stage iva cervical cancer
+stage iva endometrial cancer
+stage iva liver cancer
+stage iva pancreatic cancer
+stage ivb
+stage ivb bone sarcoma
+stage ivb cervical cancer
+stage ivb endometrial cancer
+stage ivb liver cancer
+stage ivb pancreatic cancer
+stage iv acral lentiginous melanoma
+stage iv adult soft tissue sarcoma
+stage iv ampulla of vater cancer
+stage iv bone sarcoma
+stage iv breast cancer
+stage iv cervical cancer
+stage iv colorectal cancer
+stage iv endometrial cancer
+stage iv extragonadal non seminomatous germ cell tumor
+stage iv lentigo maligna melanoma
+stage iv liver cancer
+stage iv lung cancer
+stage iv melanoma of the skin
+stage iv mesothelioma
+stage iv nasal cavity and paranasal sinus cancer
+stage iv non small cell lung cancer
+stage iv ovarian choriocarcinoma
+stage iv pancreatic cancer
+stage iv skin caner
+stage iv soft tissue sarcoma
+stage iv superficial spreading melanoma
+stage iv uterine sarcoma
+stage i acral lentiginous melanoma
+stage i adult soft tissue sarcoma
+stage i ampulla of vater cancer
+stage i bone sarcoma
+stage i breast cancer
+stage i cervical cancer
+stage i endometrial cancer
+stage i extragonadal non seminomatous germ cell tumor
+stage i extragonadal primary mixed germ cell tumor
+stage i lentigo maligna melanoma
+stage i liver cancer
+stage i lung cancer
+stage i melanoma of the skin
+stage i mesothelioma
+stage i nasal cavity and paranasal sinus cancer
+stage i non small cell lung cancer
+stage i ovarian cancer
+stage i ovarian choriocarcinoma
+stage i pancreatic cancer
+stage i skin cancer
+stage i soft tissue sarcoma
+stage i superficial spreading melanoma
+stage i uterine sarcoma
+stapedius muscle
+stapes
+stearic acid
+stem cell
+stem cell leukemia
+stereocilium
+sternoclavicular joint
+sternocleidomastoid muscle
+sternocostal joint
+sternohyoid
+sternothyroid
+sternum
+steroid compound
+steroid hormone
+steroid lipomatosis
+stomach
+stomatognathic system
+storiform growth pattern
+strap like striated muscle cell
+stratified columnar epithelium
+stratified cuboidal epithelium
+stratified epithelium
+stratified squamous epithelium
+stratum basale
+stratum corneum
+stratum granulosum
+stratum reticulare
+stratum spinosum
+stress response signaling
+striae medullares
+striated border
+striated muscle component present
+striated muscle tissue
+striated muscle tissue cell
+striatum
+stroma
+stroma connective tissue
+stroma of the ovarian cortex
+stromal cell
+stromal change
+stromal invasion
+stromal neoplasm
+stromal sarcoma
+structural chromosomal abnormality
+structural gene
+structural protein
+structured product labeling shape
+styloglossus
+stylopharyngeus
+subarachnoid cistern
+subareolar duct papillomatosis
+subareolar region
+subcapsular epithelium of the lens
+subcellular process
+subcellular structure
+subclavian artery
+subclavian vein
+subclavius
+subcostal artery
+subcostal vein
+subcutaneous involvement
+subcutaneous tissue hemangioma
+subcutis
+subependymal astrocytoma
+subependymal tissue
+subiculum
+sublingual artery
+sublingual salivary gland
+submandibular duct
+submandibular ganglion
+submandibular gland
+submental vein
+submucosa
+submucosal invasive colon adenocarcinoma
+submucosal tumor growth
+subscapular artery
+subscapularis
+subsegmental bronchus
+substance
+substantia gelatinosa
+substantia nigra
+substantia propria
+subtalar joint
+subthalamic nucleus
+subungual glomus tumor
+sulcus centralis
+sulcus centralis insulae
+sulcus limitans
+sulcus terminalis
+sumoylation in modulation of ct bp dependent gene response pathway
+superficial
+superficial abdominal muscle
+superficial angiomyxoma
+superficial basal cell carcinoma
+superficial cervical artery
+superficial circumflex iliac artery
+superficial epithelioma with sebaceous differentiation
+superficial fascia
+superficial intracranial venous system
+superficial lesion
+superficial lymphatic vessel
+superficial middle cerebral vein
+superficial multifocal basal cell carcinoma
+superficial palmar arch
+superficial spreading melanoma of the skin
+superficial temporal vein
+superficial vein
+superior
+superior anastomotic vein of the trolard
+superior cerebellar artery
+superior frontal convolution
+superior frontal gyrus
+superior frontal sulcus
+superior hemorrhoidal artery
+superior hypophyseal artery
+superior mediastinum
+superior mesenteric artery
+superior mesenteric artery branch
+superior mesenteric vein
+superior oblique muscle
+superior pancreatico duodenal artery
+superior parathyroid gland
+superior profunda artery
+superior rectus muscle
+superior sagittal sinus
+superior semicircular canal
+superior suprarenal artery
+superior surface of the liver
+superior temporal gyrus
+superior temporal sulcus
+superior thoracic artery
+superior thyroid artery
+superior vena cava
+superior vena cava angiosarcoma
+superior vena cava opening
+superior vesical artery
+superior vestibular nucleus
+superior wall of the nasopharynx
+supporting cell of organ of corti
+supporting cell of the nervous system
+suppression of cancer cell invasion
+suppressor effector t lymphocyte
+suppressor inducer t lymphocyte
+supra orbital vein
+supraclavicular lymph node
+supraglottis
+supramarginal gyrus
+suprarenal artery
+suprarenal vein
+supraspinatus
+supratentorial brain
+supratentorial cistern
+supratentorial neoplasm
+supratentorial primitive neuroectodermal tumor
+surface
+surface ectoderm
+surface of the prostate
+sushi domain
+sweat
+sweat gland
+sweat gland adenoma
+sweat gland carcinoma
+sweat gland neoplasm
+swelling
+sympathetic ganglion
+sympathetic nervous system
+symptom
+synapse
+synaptic cleft
+synaptic junction pathway
+synarthrosis
+synchronous bilateral breast carcinoma
+synchronous lesion
+syncytial pattern
+syncytiotrophoblast
+syncytiotrophoblastic cell
+syndecans
+syndrome
+synovial bursa
+synovial cell
+synovial chondromatosis
+synovial fluid
+synovial membrane
+synovial neoplasm
+syringoacanthoma
+syringoma
+systemic vein
+t cell activation
+t cell activation co stimulatory signaling pathway
+t cell activation pathway
+t cell antiapoptosis pathway
+t cell development
+t cell immunodeficiency
+t cell non hodgkin s lymphoma
+t cell polarization pathway
+t cell proliferation
+t cell and nk cell neoplasm
+t lymphoblast
+t lymphocyte
+t lymphocyte and natural killer cell
+thoracic 1 0 vertebra
+thoracic 1 1 vertebra
+thoracic 1 2 vertebra
+thoracic 1 vertebra
+thoracic 2 vertebra
+thoracic 3 vertebra
+thoracic 4 vertebra
+thoracic 5 vertebra
+thoracic 6 vertebra
+thoracic 7 vertebra
+thoracic 8 vertebra
+thoracic 9 vertebra
+tcr activation
+tgfbr 3 gene
+tgf beta signaling pathway
+tnc gene
+tp 5 3 tumor suppressor gene inactivation
+trh gene
+tail of the epididymis
+tail of the pancreas
+tail of the spermatozoon
+talus
+tarsal bone
+tarsal plate
+tarsus bone
+taste bud basal cell
+taste bud cell
+taste pore
+tear
+tectorial membrane
+tectum mesencephali
+telangiectatic glomangioma
+temporal artery
+temporal bone
+temporal fossa
+temporal lobe
+temporal lobe neoplasm
+temporal muscle
+temporal sulcus
+temporal vein
+temporary tooth
+temporo maxillary vein
+tenascin c
+tendon
+tendon sheath fibroma
+tendon sheath lipoma
+tensor fasciae lata
+tensor tympani
+tentorium cerebelli
+teres major muscle
+teres minor muscle
+teres muscle
+terminal bronchiole
+terminal bronchiole epithelium
+terminal ductal lobular unit
+terminal ductal lobular unit cell
+terminal ileum
+test result
+testicular tissue
+testis
+th 1 th 2 differentiation pathway
+th 2 cytokine gene induction pathway
+thalamencephalon
+thalamic neoplasm
+thalamus
+theca cell
+theca lutein cell
+therapeutic alpha chemokine
+therapeutic androgen
+therapeutic chemokine
+therapeutic cytokine
+therapeutic epinephrine
+therapeutic estrogen
+therapeutic follicle stimulating hormone
+therapeutic glucagon
+therapeutic gonadorelin
+therapeutic gonadotropin
+therapeutic growth hormone
+therapeutic hormone
+therapeutic insulin
+therapeutic interleukin
+therapeutic interleukin 1 2
+therapeutic interleukin 1 7
+therapeutic interleukin 8
+therapeutic luteinizing hormone
+therapeutic lymphokine
+therapeutic melatonin
+therapeutic oxytocin
+therapeutic steroid hormone
+thick walled hyalinized vessels present
+thick walled vessels present
+thick filament
+thigh
+thin filament
+third portion of the duodenum
+third ventricle of brain
+thoracic
+thoracic aorta
+thoracic aorta branch
+thoracic cavity
+thoracic disorder
+thoracic duct
+thoracic esophagus
+thoracic ganglion
+thoracic lymph node
+thoracic neoplasm
+thoracic spinal cord
+thoracic spinal nerve root
+thoracic spine
+thoracic vein
+thoracic vertebra
+thoracodorsal artery
+thorax
+threonine
+throat
+throat cancer
+thrombocytopenia
+thrombospondin
+thymic capsule
+thymic epithelial cell
+thymic epithelial tissue
+thymic lobule
+thymic lymphoid tissue
+thymic tissue
+thymic vein
+thymine
+thymocyte
+thymosin
+thymus
+thymus cortex
+thymus gland
+thymus medulla
+thyroarytenoid muscle
+thyroepiglottic ligament
+thyroepiglottic muscle
+thyroglobulin positive neoplastic cells present
+thyroglossal duct
+thyrohyoid
+thyrohyoid ligament
+thyroid adenocarcinoma
+thyroid angiosarcoma
+thyroid artery
+thyroid carcinoma
+thyroid cartilage
+thyroid gland
+thyroid gland capsule
+thyroid gland disorder
+thyroid gland epithelial tissue
+thyroid gland follicle
+thyroid gland follicular cell
+thyroid gland isthmus
+thyroid gland lobe
+thyroid gland oncocytic neoplasm
+thyroid gland oxyphil cell
+thyroid gland spindle cell tumor with thymus like differentiation
+thyroid gland tissue
+thyroid ima artery
+thyroid neoplasm
+thyroid nodule
+thyroid sarcoma
+thyroid stimulating hormone
+thyroid stimulating hormone producing pituitary gland neoplasm
+thyrotrope cell
+thyrotroph cell
+thyrotropin releasing hormone
+tibia
+tibial nerve
+tibial vein
+tight junction
+tissue
+tissue differentiation
+tissue differentiation uncertain
+tissue growth
+tissue part
+tissue of mullerian origin present
+toe
+toe joint
+toe nail
+tongue
+tongue muscle
+tonsil
+tonsil part
+tonsillar crypt
+tonsillar fossa
+tonsillar pillar
+tooth
+tooth 1 9
+tooth 3 0
+tooth cell
+tooth tissue
+totipotent neuroepithelial stem cell
+totipotent stem cell
+toxicity
+trabecular adenocarcinoma
+trabecular adenoma
+trabecular pattern
+trachea
+trachea submucosa
+tracheal epithelium
+tract of burdach
+tract of goll
+tract of lissauer
+tragus
+trans golgi network
+transfer rna
+transferase
+transferase gene
+transformed phase of disease
+transformed recurrent non hodgkin s lymphoma
+transformed skin homing t lymphocyte
+transforming growth factor beta receptor iii
+transitional cell
+transitional cell carcinoma
+transitional cell intraepithelial neoplasia
+transitional cell neoplasm
+transitional cell papilloma
+transitional epithelium
+transmembrane domain
+transmembrane protein
+transmembrane protein gene
+transmembrane transport
+transport process
+transport protein
+transport protein gene
+transport reaction
+transport vesicle
+transverse colon
+transverse facial artery
+transverse plane
+transverse rectal fold
+transversus abdominis
+transversus thoracis
+trapezial bone
+trapezius muscle
+trapezoid
+trapezoid bone
+triangle
+triangular bone
+triangular ligament
+triangular part of the inferior frontal gyrus
+triceps
+triceps surae
+tricuspid valve
+trigeminal ganglion
+trigeminal nerve
+trigeminal nerve disorder
+trigeminal nerve neoplasm
+trigeminal nucleus
+trigeminal schwannoma
+trigonum olfactorium
+trilaminar embryonic disc
+trochanter
+trochlear nerve
+trochlear nerve neoplasm
+trophoblastic cell
+trophoblastic neoplasm
+troponin i
+troponin t
+true vocal cord
+trunk
+tryptophan
+tuber cinereum
+tuberculum sellae
+tubular adenocarcinoma
+tubular adenoma
+tubular apocrine adenoma
+tubular carcinoma
+tubular pattern
+tubular structures present
+tubulin
+tubulovillous adenoma
+tumor suppressor gene inactivation
+tumor expansion
+tumor marker
+tumor progression
+tumor suppression
+tumor vascular invasion
+tunica adventitia
+tunica intima
+turban tumor
+turcot syndrome
+turcot syndrome type 2
+tympanic membrane
+type 1 helper cell
+type 1a autoimmune lymphoproliferative syndrome
+type 1b autoimmune lymphoproliferative syndrome
+type 2 helper cell
+type 3 autoimmune lymphoproliferative syndrome
+type a spindle cell melanoma
+type b spindle cell melanoma
+type ii endometrial adenocarcinoma
+type ii hair cell
+type i cell
+type i endometrial adenocarcinoma
+type i hair cell
+typhlitis
+tyrosine
+ulna
+ulnar artery
+ulnar artery branch
+ulnar nerve
+umbilical artery
+umbilical cord
+umbilical fissure
+umbilical region
+umbilical vein
+uncinate pancreas
+uncus
+undersurface of the frontal lobe
+undifferentiated carcinoma
+undifferentiated carcinoma cell
+undifferentiated carcinoma with osteoclast like giant cells
+undifferentiated endocervical sarcoma
+undifferentiated endometrial stromal sarcoma
+undifferentiated ovarian sarcoma
+unfavorable clinical outcome
+unilateral breast carcinoma
+unipolar neuron
+unit by category
+unit of length
+unit of measure
+unmyelinated nerve fiber
+unresectable malignant neoplasm
+unresectable mass
+unresectable pancreatic cancer
+unresectable small intestinal cancer
+upper
+upper extremity
+upper extremity part
+upper eyelid
+upper gastrointestinal tract
+upper jaw
+upper lobe of the left lung
+upper lobe of the right lung
+urachus
+uracil
+ureter
+urethra
+urethra epithelium
+urethra gland mmhcc
+urethra mmhcc
+urethral gland
+urinary space
+urinary system
+urinary system mmhcc
+urinary system part
+urine
+urogenital ridge
+urothelial cell
+urothelium
+uterine angiosarcoma
+uterine carcinosarcoma
+uterine cervix condyloma acuminatum
+uterine cervix squamous papilloma
+uterine corpus adenocarcinofibroma
+uterine corpus adenofibroma
+uterine corpus adenomyoma
+uterine corpus cancer
+uterine corpus leiomyomatosis
+uterine corpus mixed epithelial and mesenchymal neoplasm
+uterine corpus mucinous adenocarcinoma
+uterine corpus neoplasm
+uterine corpus sarcoma
+uterine corpus smooth muscle neoplasm
+uterine corpus soft tissue neoplasm
+uterine disorder
+uterine gland
+uterine ligament
+uterine ligament adenocarcinoma
+uterine ligament clear cell adenocarcinoma
+uterine ligament endometrioid adenocarcinoma
+uterine ligament mucinous adenocarcinoma
+uterine ligament neoplasm
+uterine ligament serous adenocarcinoma
+uterine neoplasm
+uterine serous carcinoma
+uterus
+utricle
+utriculosaccular duct
+uvea
+uvula
+v d j recombination
+vcl gene
+vip gene
+vacuolated plasma cells in the bone marrow
+vagina
+vaginal
+vaginal epithelium
+vaginal fornix
+vagus nerve
+vagus nerve disorder
+vagus nerve neoplasm
+valine
+valve of kerckring
+valve of vieussens
+vas deferens
+vasa vasorum
+vascular bone neoplasm
+vascular breast neoplasm
+vascular channel formation
+vascular channel formation with muscular walls
+vascular disorder
+vascular endothelium
+vascular morphologic change
+vascular neoplasm
+vascular plant
+vascular proliferation
+vascular system
+vasculostatin
+vasoactive intestinal peptide
+vastus lateralis
+vater pacini corpuscle
+vein
+vein endothelium
+vena cava
+venous
+venous hemangioma
+venous sinus
+venous system
+venous type vascular channel formation
+ventral
+ventral horn of the spinal cord
+ventral nerve root
+ventral thalamus
+ventricle brain
+ventricular myxoma
+ventroanterior nucleus of the thalamus
+ventrolateral nucleus of the thalamus
+venule
+venule endothelium
+vermiform appendix
+vermis
+verruca plantaris
+verruca vulgaris
+verrucous carcinoma
+vertebra
+vertebral
+vertebral artery
+vertebral artery branch
+vertebral body
+vertebral bone
+vertebral canal
+vertebral column
+vertebral joint
+vertebral vein
+vertebrate
+vertical
+vertical growth phase
+vestibular ganglion
+vestibular hair cell
+vestibular labyrinth
+vestibular membrane
+vestibular nerve
+vestibular nucleus
+vestibule
+vestibulocochlear nerve
+vestibulocochlear nerve disorder
+vestibulocochlear nerve neoplasm
+villous adenocarcinoma
+villous adenoma
+villous pattern
+villus
+vimentin protein
+vinculin
+viral infection
+viscera
+visceral efferent neuron
+visceral pleura
+visceral surface of the liver
+visual pathway
+visual pathway astrocytoma
+visual pathway glioma
+visual pathway neoplasm
+visual system
+vitelline vein
+vitreous body
+vitreous chamber
+vitreous humor
+vocal cord
+vocalis muscle
+volume
+vomer
+vomiting
+vulva
+waist
+waldeyers tonsillar ring
+wall of body of uterus
+wall of human prostatic duct
+wedge shaped growth pattern
+well differentiated pancreatic endocrine neoplasm
+well differentiated papillary mesothelioma
+well differentiated thyroid carcinoma
+well differentiated lesion
+well differentiated pancreatic endocrine carcinoma
+white adipose tissue
+white matter
+white matter of the spinal cord
+widespread disease
+wilms tumor
+wolffian adnexal tumor
+wound repair
+wound repair pathway
+wrist joint
+wrist skin
+xenobiotic metabolism
+xiphoid process
+xylose
+yolk sac
+zona pellucida
+zonula adherens
+zygomatic arch
+zygomaticus
+zygomaticus major
+zygomaticus minor
+zygote
+4 1 bb dependent immune response pathway
+c erb b 2 protein overexpression
+c myc gene amplification
+c myc gene mutation
+del 1 7p 1 3
+del 8q 2 4 1
+h gh gene
+t 1 5 1 9 q 1 3 p 1 3 1
+t 5 1 2 q 3 3 p 1 3

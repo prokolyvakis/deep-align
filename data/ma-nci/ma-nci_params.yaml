@@ -1,0 +1,34 @@
+## SeqCounter-Fitting Parameters:
+
+# Pre-trained Word Vectors file::
+wordfile : 'data/ma-nci/pretrained-wikipedia-pubmed-and-PMC-w2v.txt'
+# Lambda for word embeddings (normal training):
+LW : 1000
+# Learning rate:
+eta : 0.01
+# Hyper parameter for Synonym Attract:
+hyper_k1: 10000000
+# Hyper parameter for Antonym Repel:
+hyper_k2: 10000000
+# Training data file:
+train: 'data/ma-nci/training_data.txt'
+# Number of epochs in training:
+epochs: 15
+# Learner; Either AdaGrad or Adam:
+learner: 'adam'
+# Size of batch:
+batchsize: 1025
+# Threshold for gradient clipping:
+clip: 1
+# Whether to pickle the model:
+save: 'False'
+# Output file name:
+outfile: 'save/seqfitted'
+# Whether to evaluate the model during training:
+evaluate: 'False'
+# File contraining the terms of the 1st ontology:
+terms_of_ontology_1: 'data/ma-nci/terms_of_ontology_1.txt'
+# File contraining the terms of the 2nd ontology:
+terms_of_ontology_2: 'data/ma-nci/terms_of_ontology_2.txt'
+# File contraining the ground truth alignments:
+ground_truth_alignments: 'data/ma-nci/ground_truth_alignments.txt'

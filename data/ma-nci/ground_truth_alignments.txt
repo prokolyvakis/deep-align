@@ -1,0 +1,1496 @@
+spinal cord grey matter	gray matter of the spinal cord	E
+trunk	trunk	E
+head neck	head and neck	E
+limb	limb	E
+adipose tissue	adipose tissue	E
+cardiovascular system	cardiovascular system	E
+connective tissue	connective tissue	E
+endocrine system	endocrine system	E
+hemolymphoid system	hematopoietic and lymphatic system	E
+integumental system	integumentary system	E
+muscle	muscle	E
+nervous system	nervous system	E
+sensory organ	organ of the special sense	E
+skeletal system	skeletal system	E
+visceral organ system	viscera	E
+back	back	E
+thorax	thorax	E
+head	head	E
+neck	neck	E
+forelimb	upper extremity	E
+hindlimb	lower extremity	E
+abdomen	abdominal cavity	E
+pelvis	pelvis	E
+chest	chest	E
+thoracic cavity	thoracic cavity	E
+arm	arm	E
+lower arm	forearm	E
+hand	hand	E
+shoulder	shoulder	E
+hand digit	finger	E
+foot	foot	E
+leg	leg	E
+foot digit	toe	E
+upper leg	thigh	E
+pericardial cavity	pericardial cavity	E
+peritoneal cavity	peritoneal cavity	E
+pleural cavity	pleural cavity	E
+brown fat	brown adipose tissue	E
+white fat	white adipose tissue	E
+blood	blood	E
+blood vessel	blood vessel	E
+aorta	aorta	E
+arteriole	arteriole	E
+artery	artery	E
+capillary	blood capillary	E
+vein	vein	E
+vena cava	vena cava	E
+venous sinus	venous sinus	E
+venule	venule	E
+heart	heart	E
+heart atrium	cardiac atrium	E
+heart left atrium	left atrium	E
+heart right atrium	right atrium	E
+heart endocardium	endocardium	E
+heart myocardium	myocardium	E
+heart septum	heart septum	E
+atrial septum	interatrial septum	E
+ventricular septum	interventricular septum	E
+heart valve	cardiac valve	E
+aortic valve	aortic valve	E
+mitral valve	mitral valve	E
+pulmonary valve	pulmonary valve	E
+tricuspid valve	tricuspid valve	E
+heart ventricle	cardiac ventricle	E
+heart left ventricle	left ventricle	E
+heart right ventricle	right ventricle	E
+atrioventricular node	atrioventricular node	E
+purkinje fiber	purkinje fiber	E
+sinoatrial node	sinoatrial node	E
+pericardium	pericardium	E
+cartilage	cartilage	E
+costal cartilage	costal cartilage	E
+elastic cartilage	elastic cartilage	E
+fibrocartilage	fibrocartilage	E
+hyaline cartilage	hyaline cartilage	E
+intervertebral disc	intervertebral disc	E
+ligament	ligament	E
+synovium	synovial membrane	E
+tendon	tendon	E
+adrenal gland	adrenal gland	E
+adrenal gland capsule	adrenal gland capsule	E
+adrenal gland cortex	adrenal cortex	E
+adrenal gland medulla	adrenal medulla	E
+pancreas	pancreas	E
+pancreas body	body of the pancreas	E
+pancreas head	head of the pancreas	E
+pancreas tail	tail of the pancreas	E
+pancreatic duct	pancreatic duct	E
+pancreatic islet	islet of langerhans	E
+parathyroid gland	parathyroid gland	E
+thyroid gland	thyroid gland	E
+thyroid gland lobe	thyroid gland lobe	E
+cerebral hemisphere	cerebral hemisphere	E
+bone marrow	bone marrow	E
+bronchus associated lymphoid tissue	bronchus associated lymphoid tissue	E
+gut associated lymphoid tissue	gut associated lymphoid tissue	E
+peyer s patch	peyer s patch	E
+lymphatic vessel	lymphatic vessel	E
+lymph node	lymph node	E
+mucosa associated lymphoid tissue	mucosa associated lymphoid tissue	E
+spleen	spleen	E
+thymus	thymus gland	E
+tonsil	tonsil	E
+mammary gland	mammary gland	E
+skin apocrine gland	apocrine sweat gland	E
+sweat gland	sweat gland	E
+skin	skin	E
+dermis	dermis	E
+epidermis	epidermis	E
+hair follicle	hair follicle	E
+coat hair	hair	E
+hair shaft	shaft of the hair	E
+coat hair bulb	hair bulb	E
+myocardium	myocardium	E
+central nervous system	central nervous system	E
+brain	brain	E
+brainstem	brain stem	E
+forebrain	fore brain	E
+diencephalon	diencephalon	E
+epithalamus	epithalamus	E
+hypothalamus	hypothalamus	E
+mammillary body	mamillary body	E
+pineal gland	pineal gland	E
+pituitary gland	pituitary gland	E
+adenohypophysis	anterior lobe of the pituitary gland	E
+neurohypophysis	posterior lobe of the pituitary gland	E
+thalamus	thalamus	E
+dorsal thalamus	dorsal thalamus	E
+ventral thalamus	ventral thalamus	E
+third ventricle	third ventricle of brain	E
+telencephalon	supratentorial brain	E
+basal ganglia	basal ganglia	E
+cerebral cortex	cortex	E
+neocortex layer	cortical cell layer of the cerebral cortex	E
+corpus callosum	corpus callosum	E
+dentate gyrus	dentate gyrus	E
+hippocampus	hippocampus	E
+lateral ventricle	lateral ventricle	E
+olfactory bulb	olfactory bulb	E
+hindbrain	hind brain	E
+fourth ventricle	fourth ventricle of the brain	E
+cerebellum	cerebellum	E
+cerebellar cortex	cerebellar cortex	E
+cerebellar hemisphere	hemisphere of the cerebellum	E
+cerebellar layer	cortical cell layer of the cerebellum	E
+cerebellar vermis	vermis	E
+pons	pons varolii	E
+myelencephalon	medulla oblongata	E
+medulla oblongata	medulla oblongata	E
+midbrain	mesencephalon	E
+cerebral aqueduct	cerebral aqueduct	E
+substantia nigra	substantia nigra	E
+tectum	tectum mesencephali	E
+cranial nerve	cranial nerve	E
+spinal cord	spinal cord	E
+nerve	nerve	E
+peripheral nervous system	peripheral nervous system	E
+autonomic nervous system	autonomic nervous system	E
+autonomic ganglion	autonomic ganglion	E
+parasympathetic nervous system	parasympathetic nervous system	E
+sympathetic nervous system	sympathetic nervous system	E
+sympathetic ganglion	sympathetic ganglion	E
+peripheral nerve	peripheral nerve	E
+spinal ganglion	dorsal root ganglion	E
+dorsal root ganglion	dorsal root ganglion	E
+spinal nerve	spinal nerve	E
+spinal nerve plexus	spinal nerve plexus	E
+ear	ear	E
+inner ear	internal ear	E
+bony labyrinth	osseous labyrinth	E
+cochlea	cochlea	E
+membranous labyrinth	membranous labyrinth	E
+cochlear duct	cochlear duct	E
+vestibular labyrinth	vestibular labyrinth	E
+saccule	saccule	E
+utricle	utricle	E
+semicircular canal	semicircular canal	E
+semicircular duct	semicircular duct	E
+middle ear	middle ear	E
+auditory bone	auditory ossicle	E
+auditory tube	eustachian tube	E
+tympanic cavity muscle	muscle of the tympanum	E
+tympanic membrane	tympanic membrane	E
+outer ear	external ear	E
+auricle	auricle	E
+external acoustic meatus	external acoustic meatus	E
+eye	eye	E
+eye anterior chamber	anterior chamber of the eye	E
+choroid	choroid	E
+ciliary body	ciliary body	E
+conjunctiva	conjunctiva	E
+cornea	cornea	E
+eyelid	eyelid	E
+eyelid muscle	eyelid muscle	E
+eyelid tarsus	tarsal plate	E
+iris	iris	E
+lacrimal apparatus	lacrimal apparatus	E
+lens	crystalline lens	E
+retina	retina	E
+neural retinal epithelium	neural retina	E
+optic disc	optic disc	E
+pigmented retinal epithelium	retinal pigment epithelium	E
+sclera	sclera	E
+nose	nose	E
+nasal cavity	nasal cavity	E
+nasal septum	nasal septum	E
+nasal turbinate	nasal turbinate	E
+appendicular skeleton	appendicular skeleton	E
+carpal bone	carpus bone	E
+tarsal bone	tarsal bone	E
+limb long bone	long bone	E
+metacarpal bone	metacarpal bone	E
+metatarsal bone	metatarsal bone	E
+phalanx	phalanx	E
+foot phalanx	foot phalanx	E
+hand phalanx	phalanx of the hand	E
+axial skeleton	axial skeleton	E
+vertebra	vertebra	E
+cervical vertebra	cervical vertebra	E
+lumbar vertebra	lumbar vertebra	E
+sacral vertebra	sacral vertebra	E
+thoracic vertebra	thoracic vertebra	E
+rib	rib	E
+cranium	skull	E
+joint	joint	E
+synovial joint	diarthrosis	E
+gastrointestinal system	gastrointestinal tract	E
+hepatobiliary system	hepatobiliary system	E
+renal urinary system	urinary system	E
+reproductive system	reproductive system	E
+respiratory system	respiratory system	E
+intestine	intestine	E
+anal region	anal region	E
+anal canal	anal canal	E
+anus	anus	E
+ileocaecal junction	ileocecal valve	E
+large intestine	large intestine	E
+cecum	cecum	E
+colon	colon	E
+rectum	rectum	E
+small intestine	small intestine	E
+duodenum	duodenum	E
+ileum	ileum	E
+jejunum	jejunum	E
+gingiva	gingiva	E
+lip	lip	E
+oral epithelium	oral cavity epithelium	E
+salivary gland	salivary gland	E
+tongue	tongue	E
+tooth	tooth	E
+incisor	incisor	E
+molar	molar tooth	E
+oropharynx	oropharynx	E
+esophagus	esophagus	E
+stomach	stomach	E
+bile duct	bile duct	E
+cystic duct	cystic duct	E
+gall bladder	gallbladder	E
+hepatic duct	hepatic duct	E
+liver	liver	E
+liver lobe	liver lobe	E
+liver left lobe	left lobe of the liver	E
+liver right lobe	right lobe of the liver	E
+liver caudate lobe	lobus caudatus	E
+liver quadrate lobe	lobus quadratus	E
+liver parenchyma	hepatic tissue	E
+liver sinusoid	hepatic sinusoid	E
+kidney	kidney	E
+kidney calyx	renal calyx	E
+kidney capsule	renal capsule	E
+kidney collecting duct	collecting tube	E
+kidney cortex	renal cortex	E
+kidney medulla	renal medulla	E
+kidney pelvis	renal pelvis	E
+nephron	nephron	E
+renal corpuscle	renal corpuscle	E
+renal tubule	renal tubule	E
+ureter	ureter	E
+urethra	urethra	E
+urinary bladder	bladder	E
+female reproductive system	female reproductive system	E
+clitoris	clitoris	E
+ovary	ovary	E
+oviduct	fallopian tube	E
+unfertilized egg	egg	E
+uterus	uterus	E
+endometrium	endometrium	E
+myometrium	myometrium	E
+uterine cervix	cervix	E
+vagina	vagina	E
+vulva	vulva	E
+male reproductive system	male reproductive system	E
+epididymis	epididymis	E
+efferent duct	efferent ductule	E
+bulbourethral gland	cowper s gland	E
+prostate gland	prostate gland	E
+prepuce	prepuce	E
+penis	penis	E
+scrotum	scrotum	E
+seminal vesicle	seminal vesicle	E
+testis	testis	E
+seminiferous tubule	seminiferous tubule	E
+vas deferens	vas deferens	E
+larynx	larynx	E
+lung	lung	E
+alveolar duct	alveolar duct	E
+alveolar sac	alveolar sac	E
+alveolus	alveolus	E
+interalveolar septum	alveolar septum	E
+bronchiole	bronchiole	E
+respiratory bronchiole	respiratory bronchiole	E
+terminal bronchiole	terminal bronchiole	E
+left lung	left lung	E
+right lung	right lung	E
+right lung caudal lobe	lower lobe of the right lung	E
+right lung cranial lobe	upper lobe of the right lung	E
+right lung middle lobe	middle lobe of the right lung	E
+paranasal sinus	paranasal sinus	E
+pharynx	pharynx	E
+pleura	pleural tissue	E
+lower respiratory tract	lower respiratory system	E
+bronchus	bronchus	E
+lobar bronchus	lobar bronchus	E
+main bronchus	main bronchus	E
+segmental bronchus	segmental bronchus	E
+trachea	trachea	E
+upper respiratory tract	upper respiratory system	E
+nasopharynx	nasopharynx	E
+peritoneal cavity lining	peritoneum	E
+elbow joint	elbow joint	E
+metacarpo phalangeal joint	metacarpophalangeal joint	E
+hand digit 1	hand digit 1	E
+hand digit 2	hand digit 2	E
+hand digit 3	hand digit 3	E
+hand digit 4	hand digit 4	E
+hand digit 5	hand digit 5	E
+shoulder joint	shoulder joint	E
+wrist joint	wrist joint	E
+ankle joint	ankle joint	E
+foot digit 1	foot digit 1	E
+foot digit 2	foot digit 2	E
+foot digit 3	foot digit 3	E
+foot digit 4	foot digit 4	E
+foot digit 5	foot digit 5	E
+hip joint	hip joint	E
+knee joint	knee joint	E
+subcutaneous adipose tissue	subcutis	E
+abdominal aorta	abdominal aorta	E
+inferior vena cava	inferior vena cava	E
+superior vena cava	superior vena cava	E
+articular cartilage	articular cartilage	E
+heart apex	apex of the heart	E
+trunk skin	skin of the trunk	E
+abdomen muscle	abdominal muscle	E
+abdomen skin	abdominal skin	E
+pelvis bone	pelvic bone	E
+pelvic girdle muscle	pelvic floor muscle	E
+perineal muscle	perineal muscle	E
+male reproductive gland organ	male genital organ	E
+mesothelium	mesothelium	E
+head neck muscle	head and neck muscle	E
+head neck skin	skin of the scalp and neck	E
+head skin	head skin	E
+neck muscle	neck muscle	E
+neck skin	neck skin	E
+arm skin	arm skin	E
+elbow skin	elbow skin	E
+forelimb bone	bone of the upper extremity	E
+forelimb skin	skin of the upper limb and shoulder	E
+hand digit skin	hand digit skin	E
+hand skin	hand skin	E
+wrist skin	wrist skin	E
+ankle skin	ankle skin	E
+foot bone	foot bone	E
+foot digit skin	foot digit skin	E
+foot skin	foot skin	E
+hindlimb bone	bone of the lower extremity	E
+hindlimb skin	skin of the lower limb and hip	E
+leg skin	leg skin	E
+limb bone	bone of the extremity	E
+limb digit	digit	E
+limb skin	skin of the extremity	E
+aorta endothelium	aorta endothelium	E
+aorta smooth muscle	aorta smooth muscle tissue	E
+arterial system endothelium	arterial system endothelium	E
+arterial system smooth muscle	arterial system smooth muscle tissue	E
+arteriole endothelium	arteriole endothelium	E
+arteriole smooth muscle	arteriole smooth muscle tissue	E
+artery endothelium	artery endothelium	E
+artery smooth muscle	artery smooth muscle tissue	E
+blood vessel endothelium	vascular endothelium	E
+blood vessel smooth muscle	vascular smooth muscle tissue	E
+capillary endothelium	capillary endothelium	E
+vein endothelium	vein endothelium	E
+vena cava endothelium	vena cava endothelium	E
+venous system endothelium	venous system endothelium	E
+venous system smooth muscle	venous system smooth muscle tissue	E
+venule endothelium	venule endothelium	E
+left adrenal gland	left adrenal gland	E
+right adrenal gland	right adrenal gland	E
+thyroid gland follicle	thyroid gland follicle	E
+thyroid gland isthmus	thyroid gland isthmus	E
+thyroid gland left lobe	left thyroid gland lobe	E
+thyroid gland right lobe	right thyroid gland lobe	E
+peyer s patch follicle	peyer s patch lymphoid follicle	E
+peyer s patch germinal center	peyer s patch germinal center	E
+axillary lymph node	axillary lymph node	E
+cervical lymph node	cervical lymph node	E
+inguinal lymph node	inguinal lymph node	E
+popliteal lymph node	popliteal lymph node	E
+lymph node capsule	lymph node capsule	E
+lymph node cortex	lymph node cortex	E
+lymph node follicle	lymph node lymphoid follicle	E
+lymph node secondary follicle	lymph node germinal center	E
+lymph node medulla	lymph node medullary portion	E
+lymph node trabeculum	lymph node trabecula	E
+afferent lymphatic vessel	lymph node afferent vessel	E
+efferent lymphatic vessel	lymph node efferent vessel	E
+lymphatic vessel endothelium	lymphatic vessel endothelium	E
+lymphatic vessel smooth muscle	lymphatic vessel smooth muscle tissue	E
+oropharyngeal lymphoid tissue	oropharyngeal lymphoid tissue	E
+spleen capsule	splenic capsule	E
+spleen marginal sinus	splenic marginal sinus	E
+spleen marginal zone	splenic marginal zone	E
+spleen red pulp	splenic red pulp	E
+spleen trabeculum	splenic trabecula	E
+spleen trabecular artery	splenic trabecular artery	E
+spleen trabecular vein	splenic trabecular vein	E
+spleen venous sinus	splenic sinus	E
+spleen white pulp	splenic white pulp	E
+spleen central arteriole	splenic arteriole	E
+spleen germinal center	spleen germinal center	E
+spleen periarteriolar lymphatic sheath	periarteriolar lymphoid sheath	E
+thymus capsule	thymic capsule	E
+thymus cortex	thymus cortex	E
+thymus epithelium	thymic epithelial tissue	E
+thymus lobule	thymic lobule	E
+thymus medulla	thymus medulla	E
+hassall s corpuscle	hassall s corpuscle	E
+lingual tonsillar tissue	lingual tonsil	E
+nasopharyngeal tonsil	pharyngeal tonsil	E
+palatine tonsil	palatine tonsil	E
+tonsil capsule	tonsillar capsule	E
+tonsil crypt	tonsillar crypt	E
+arrector pili smooth muscle	erector muscle of the hair	E
+areola	areola	E
+lactiferous duct	lactiferous duct	E
+mammary gland epithelium	mammary epithelium	E
+mammary gland lobule	terminal ductal lobular unit	E
+nipple	nipple	E
+dermis papillary layer	stratum papillare	E
+dermis reticular layer	stratum reticulare	E
+epidermis stratum basale	stratum basale	E
+epidermis stratum corneum	stratum corneum	E
+epidermis stratum granulosum	stratum granulosum	E
+epidermis stratum lucidum	stratum lucidum	E
+epidermis stratum spinosum	stratum spinosum	E
+brain ependyma	ependyma	E
+brain nucleus	brain nucleus	E
+brain meninges	cerebral meninges	E
+brain arachnoid matter	cerebral arachnoid membrane	E
+brain dura mater	cerebral dura mater	E
+brain pia mater	brain pia mater	E
+brain ventricle	ventricle brain	E
+brain white matter	brain white matter	E
+choroid plexus	choroid plexus	E
+choroid plexus epithelium	choroid plexus epithelium	E
+arcuate nucleus	arcuate nucleus	E
+infundibulum	brain infundibulum	E
+geniculate thalamic group	geniculate body	E
+lateral geniculate nucleus	external geniculate body	E
+medial geniculate nucleus	internal geniculate body	E
+parafascicular nucleus	parafascicular nucleus of the thalamus	E
+subthalamic nucleus	subthalamic nucleus	E
+third ventricle choroid plexus	choroid plexus of the third ventricle	E
+amygdala	amygdaloid body	E
+claustrum	claustrum	E
+pallidum	globus pallidus	E
+globus pallidus	globus pallidus	E
+striatum	corpus striatum	E
+accumbens nucleus	accumbens nucleus	E
+caudate nucleus	caudate nucleus	E
+putamen	putamen	E
+lentiform nucleus	lentiform nucleus	E
+cortical layer i	molecular layer	E
+cortical layer ii	external granular layer	E
+cortical layer iii	external pyramidal cell layer	E
+cortical layer iv	internal granular layer	E
+cortical layer v	ganglionic layer	E
+cortical layer vi	multiform cell layer	E
+cingulate cortex	cingulate cortex	E
+frontal cortex	frontal lobe	E
+spinal cord white matter	white matter of the spinal cord	E
+occipital cortex	occipital lobe	E
+parietal cortex	parietal lobe of the brain	E
+upper lip	external upper lip	E
+lower lip	external lower lip	E
+oval nucleus	oval subthalamic nucleus	E
+temporal cortex	temporal lobe	E
+auditory cortex	auditory cortex	E
+cerebral grey matter	cerebral gray matter	E
+cerebral white matter	cerebral white matter	E
+fimbria hippocampus	fimbria	E
+hippocampus ca 1	ca 1 field of the cornu ammonis	E
+hippocampus ca 2	ca 2 field of the cornu ammonis	E
+hippocampus ca 3	ca 3 field of the cornu ammonis	E
+hippocampus ca 4	ca 4 field of the cornu ammonis	E
+subiculum	subiculum	E
+lateral ventricle choroid plexus	choroid plexus of the lateral ventricle	E
+lateral ventricle choroid plexus epithelium	choroid plexus epithelium of the lateral ventricle	E
+lateral ventricle ependyma	lateral ventricle ependyma	E
+anterior olfactory nucleus	anterior olfactory nucleus	E
+olfactory tract	olfactory tract	E
+fourth ventricle choroid plexus	choroid plexus of the fourth ventricle	E
+fourth ventricle choroid plexus epithelium	choroid plexus epithelium of the fourth ventricle	E
+fourth ventricle ependyma	fourth ventricle ependyma	E
+cerebellum granule cell layer	granular layer of the cerebellum	E
+cerebellum internal granule cell layer	internal granular layer of the cerebellum	E
+cerebellum molecular cell layer	molecular layer of the cerebellum	E
+cerebellum purkinje cell layer	purkinje cell layer of the cerebellum	E
+abducens vi nucleus	abducens nucleus	E
+cochlear viii nucleus	cochlear nuclei	E
+facial vii nucleus	facial nerve nucleus	E
+trigeminal v nucleus	trigeminal nucleus	E
+trigeminal v motor nucleus	motor nucleus of the trigeminal nerve	E
+trigeminal v sensory nucleus	principal sensory nucleus of the trigeminal nerve	E
+vestibular viii nucleus	vestibular nucleus	E
+cuneate nucleus	cuneate nucleus	E
+dorsal motor nucleus of vagus x nerve	dorsal motor nucleus	E
+hypoglossal xii nucleus	hypoglossal nucleus	E
+medial vestibular nucleus	medial vestibular nucleus	E
+nucleus ambiguus	nucleus ambiguus	E
+solitary tract nucleus	nucleus of the solitary tract	E
+trigeminal v spinal sensory nucleus	nucleus of the spinal tract of the trigeminal nerve	E
+spinal vestibular nucleus	spinal vestibular nucleus	E
+crura cerebri	crus cerebri	E
+trigeminal v mesencephalic nucleus	nucleus of the mesencephalic tract of the trigeminal nerve	E
+inferior colliculus	posterior quadrigeminal body	E
+superior colliculus	anterior quadrigeminal body	E
+interpeduncular nucleus	oculomotor nucleus	E
+facial vii ganglion	geniculate ganglion	E
+vestibulocochlear viii ganglion vestibular component	vestibular ganglion	E
+abducens vi nerve	abducens nerve	E
+accessory xi nerve	accessory nerve	E
+accessory xi nerve spinal component	spinal accessory nerve	E
+facial vii nerve	facial nerve	E
+glossopharyngeal ix nerve	glossopharyngeal nerve	E
+hypoglossal xii nerve	hypoglossal nerve	E
+oculomotor iii nerve	oculomotor nerve	E
+olfactory i nerve	olfactory nerve	E
+optic ii nerve	optic nerve	E
+optic chiasma	optic commissure	E
+trigeminal v nerve	trigeminal nerve	E
+trigeminal v nerve ophthalmic division	ophthalmic nerve	E
+trochlear iv nerve	trochlear nerve	E
+vagus x nerve	vagus nerve	E
+vestibulocochlear viii nerve	vestibulocochlear nerve	E
+vestibulocochlear viii nerve cochlear component	cochlear nerve	E
+vestibulocochlear viii nerve vestibular component	vestibular nerve	E
+grey matter	gray matter	E
+meninges	meninges	E
+arachnoid mater	arachnoid membrane	E
+dura mater	dura mater	E
+pia mater	pia mater	E
+spinal cord central canal	central canal	E
+spinal cord dorsal horn	dorsal horn of the spinal cord	E
+substantia gelatinosa	substantia gelatinosa	E
+spinal cord ependymal layer	remnants of the central canal of the spinal cord	E
+spinal cord meninges	spinal meninges	E
+spinal cord arachnoid mater	spinal cord arachnoid membrane	E
+spinal cord dura mater	spinal cord dura mater	E
+spinal cord pia mater	spinal cord pia mater	E
+spinal cord ventral horn	ventral horn of the spinal cord	E
+white matter	white matter	E
+cardiac nerve plexus	cardiac nerve plexus	E
+hypogastric nerve plexus	hypogastric nerve plexus	E
+inferior hypogastric nerve plexus	inferior hypogastric nerve plexus	E
+enteric ganglion	enteric ganglion	E
+myenteric nerve plexus	myenteric nerve plexus	E
+submucous nerve plexus	submucous nerve plexus	E
+celiac ganglion	coeliac ganglion	E
+thoracic ganglion	thoracic ganglion	E
+internal carotid nerve plexus	internal carotid nerve plexus	E
+lumbar sympathetic nerve trunk	lumbar sympathetic nerve trunk	E
+thoracic sympathetic nerve trunk	thoracic sympathetic nerve trunk	E
+axillary nerve	axillary nerve	E
+femoral nerve	femoral nerve	E
+median nerve	median nerve	E
+peroneal nerve	peroneal nerve	E
+phrenic nerve	phrenic nerve	E
+radial nerve	radial nerve	E
+sciatic nerve	sciatic nerve	E
+tibial nerve	tibial nerve	E
+ulnar nerve	ulnar nerve	E
+brachial plexus	brachial plexus	E
+lumbosacral plexus	lumbosacral plexus	E
+modiolus	modiolus	E
+osseus spiral lamina	lamina spiralis ossea	E
+osseus labyrinth vestibule	vestibule	E
+basilar membrane	basilar membrane	E
+spiral organ	organ of corti	E
+tectorial membrane	tectorial membrane	E
+vestibular membrane	vestibular membrane	E
+macula of saccule	macula of saccule	E
+macula of utricle	macula of utricle	E
+anterior semicircular canal	superior semicircular canal	E
+posterior semicircular canal	posterior semicircular canal	E
+incus	incus	E
+malleus	malleus	E
+stapes	stapes	E
+stapedius	stapedius muscle	E
+tensor tympani	tensor tympani	E
+tympanic epithelium	tympanic epithelium	E
+ear skin	ear skin	E
+aqueous humour	aqueous humor	E
+ciliary epithelium	ciliary epithelium	E
+corneal endothelium	corneal endothelium	E
+corneal epithelium	corneal epithelium	E
+corneal stroma	corneal stroma	E
+posterior limiting lamina	descemet s membrane	E
+meibomian gland	meibomian gland	E
+eyelid connective tissue	eyelid connective tissue	E
+eyelid subcutaneous connective tissue	eyelid subcutaneous connective tissue	E
+orbicularis oculi	orbicularis oculi	E
+eyelid skin	eyelid skin	E
+medial palpebral ligament	medial palpebral ligament	E
+inner canthus	inner canthus	E
+lower eyelid	lower eyelid	E
+outer canthus	outer canthus	E
+palpebral conjunctiva	palpebral conjunctiva	E
+upper eyelid	upper eyelid	E
+ciliary muscle	ciliary muscle	E
+levator palpebrae superioris	levator palpebrae superioris	E
+biliary tract	biliary tract	E
+orbitalis muscle	orbitalis muscle	E
+inferior oblique extraocular muscle	inferior oblique muscle	E
+superior oblique extraocular muscle	superior oblique muscle	E
+inferior rectus extraocular muscle	inferior rectus muscle	E
+lateral rectus extraocular muscle	lateral rectus muscle	E
+medial rectus extraocular muscle	medial rectus muscle	E
+superior rectus extraocular muscle	superior rectus muscle	E
+tunica vasculosa plexus	tunica vasculosa	E
+vitreous humor	vitreous humor	E
+dilatator pupillae	dilator pupillae muscle	E
+sphincter pupillae	sphincter pupillae muscle	E
+pupil	pupil	E
+lacrimal canaliculus	lacrimal canaliculus	E
+lacrimal gland	lacrimal gland	E
+lacrimal sac	lacrimal sac	E
+nasolacrimal duct	nasolacrimal duct	E
+lens capsule	lens capsule	E
+lens epithelium	subcapsular epithelium of the lens	E
+lens anterior epithelium	anterior surface of the lens	E
+lens fiber	lens fiber	E
+choroid fissure	choroidal fissure	E
+macula	macula	E
+fovea	fovea centralis	E
+retina photoreceptor layer	layer of the rods and cones	E
+retina external limiting lamina	outer limiting membrane	E
+retina ganglion cell layer	ganglion cell layer	E
+retina inner nuclear layer	inner nuclear layer	E
+retina inner plexiform layer	inner plexiform layer	E
+retina internal limiting lamina	inner limiting membrane	E
+retina nerve fiber layer	layer of the ophthalmic nerve fibers	E
+retina outer nuclear layer	outer nuclear layer of retina	E
+retina outer plexiform layer	outer plexiform layer	E
+retina layer	retina layer	E
+external naris	nostril	E
+internal naris	internal nare	E
+nasal cavity epithelium	nasal cavity epithelium	E
+nasal cavity olfactory epithelium	olfactory epithelium	E
+nasal cavity respiratory epithelium	nasal cavity respiratory epithelium	E
+clavicle	clavicle	E
+scapula	scapula	E
+sternum	sternum	E
+sternal manubrium	sternal manubrium	E
+xiphisternum	xiphoid process	E
+acetabulum	acetabulum	E
+ilium	ilium	E
+ischium	ischium	E
+pubis	pubic bone	E
+pisiform	pisiform bone	E
+trapezium	trapezial bone	E
+trapezoid	trapezoid bone	E
+capitate	capitate bone	E
+hamate	hamate bone	E
+triquetral	triangular bone	E
+calcaneum	calcaneum	E
+navicular	navicular bone	E
+talus	talus	E
+medial cuneiform	internal cuneiform bone of the foot	E
+intermediate cuneiform	middle cuneiform bone of the foot	E
+lateral cuneiform	external cuneiform bone of the foot	E
+cuboid	cuboid bone	E
+humerus	humerus	E
+radius	radius bone	E
+ulna	ulna	E
+femur	femur	E
+fibula	fibula	E
+tibia	tibia	E
+long bone epiphysis	long bone epiphysis	E
+long bone metaphysis	metaphysis	E
+metacarpal bone digit 1	metacarpal bone digit 1	E
+metacarpal bone digit 2	metacarpal bone digit 2	E
+metacarpal bone digit 3	metacarpal bone digit 3	E
+metacarpal bone digit 4	metacarpal bone digit 4	E
+metacarpal bone digit 5	metacarpal bone digit 5	E
+metatarsal bone digit 1	metatarsal bone digit 1	E
+metatarsal bone digit 2	metatarsal bone digit 2	E
+metatarsal bone digit 3	metatarsal bone digit 3	E
+metatarsal bone digit 4	metatarsal bone digit 4	E
+metatarsal bone digit 5	metatarsal bone digit 5	E
+patella	patella	E
+sesamoid bone	sesamoid bone	E
+distal phalanx of foot	distal phalanx of foot	E
+foot digit 1 phalanx	foot digit 1 phalanx	E
+foot digit 2 phalanx	foot digit 2 phalanx	E
+foot digit 3 phalanx	foot digit 3 phalanx	E
+foot digit 4 phalanx	foot digit 4 phalanx	E
+foot digit 5 phalanx	foot digit 5 phalanx	E
+proximal phalanx of foot	proximal phalanx of foot	E
+distal phalanx of hand	distal phalanx of hand	E
+hand digit 1 phalanx	hand digit 1 phalanx	E
+hand digit 2 phalanx	hand digit 2 phalanx	E
+hand digit 3 phalanx	hand digit 3 phalanx	E
+hand digit 4 phalanx	hand digit 4 phalanx	E
+hand digit 5 phalanx	hand digit 5 phalanx	E
+middle phalanx of hand	middle phalanx of the hand	E
+proximal phalanx of hand	proximal phalanx of hand	E
+costal arch	costal arch	E
+rib 1	rib 1	E
+rib 2	rib 2	E
+rib 3	rib 3	E
+rib 4	rib 4	E
+rib 5	rib 5	E
+rib 6	rib 6	E
+rib 7	rib 7	E
+rib 8	rib 8	E
+rib 9	rib 9	E
+rib 1 0	rib 1 0	E
+rib 1 1	rib 1 1	E
+rib 1 2	rib 1 2	E
+rib head	rib head	E
+rib shaft	rib shaft	E
+rib tubercle	rib tubercle	E
+coccygeal vertebra	coccygeal vertebra	E
+cervical vertebra 1	atlas of the vertebra	E
+cervical vertebra 2	cervical 2 vertebra	E
+cervical vertebra 3	cervical 3 vertebra	E
+cervical vertebra 4	cervical 4 vertebra	E
+cervical vertebra 5	cervical 5 vertebra	E
+cervical vertebra 6	cervical 6 vertebra	E
+cervical vertebra 7	cervical 7 vertebra	E
+lumbar vertebra 1	lumbar 1 vertebra	E
+lumbar vertebra 2	lumbar 2 vertebra	E
+lumbar vertebra 3	lumbar 3 vertebra	E
+lumbar vertebra 4	lumbar 4 vertebra	E
+lumbar vertebra 5	lumbar 5 vertebra	E
+sacral vertebra 1	sacral 1 vertebra	E
+sacral vertebra 2	sacral 2 vertebra	E
+sacral vertebra 3	sacral 3 vertebra	E
+sacral vertebra 4	sacral 4 vertebra	E
+thoracic vertebra 1	thoracic 1 vertebra	E
+thoracic vertebra 2	thoracic 2 vertebra	E
+thoracic vertebra 3	thoracic 3 vertebra	E
+thoracic vertebra 4	thoracic 4 vertebra	E
+thoracic vertebra 5	thoracic 5 vertebra	E
+thoracic vertebra 6	thoracic 6 vertebra	E
+thoracic vertebra 7	thoracic 7 vertebra	E
+thoracic vertebra 8	thoracic 8 vertebra	E
+thoracic vertebra 9	thoracic 9 vertebra	E
+thoracic vertebra 1 0	thoracic 1 0 vertebra	E
+thoracic vertebra 1 1	thoracic 1 1 vertebra	E
+thoracic vertebra 1 2	thoracic 1 2 vertebra	E
+vertebra dorsal arch	arch of the vertebra	E
+vertebral body	vertebral body	E
+bone	bone	E
+cortical bone	cortical bone	E
+frontal bone	frontal bone	E
+occipital bone	occipital bone	E
+parietal bone	parietal bone	E
+sphenoid bone	sphenoid bone	E
+temporal bone	temporal bone	E
+ethmoid bone	ethmoid bone	E
+hyoid bone	hyoid bone	E
+lacrimal bone	lacrimal bone	E
+mandible	mandible	E
+maxilla	maxilla	E
+nasal bone	nasal bone	E
+palatine bone	palatine bone	E
+vomer bone	vomer	E
+zygomatic bone	zygomatic arch	E
+sacroiliac joint	sacroiliac joint	E
+sternoclavicular joint	sternoclavicular joint	E
+joint of rib	joint of the rib	E
+costochondral joint	costochondral joint	E
+costovertebral joint	costovertebral joint	E
+sternocostal joint	sternocostal joint	E
+joint of vertebral body	vertebral joint	E
+joint articular surface	articular bone surface	E
+bowel	intestine	E
+bowel wall	intestinal wall tissue	E
+external anal sphincter	external anal sphincter	E
+internal anal sphincter	internal anal sphincter	E
+crypt of lieberkuhn	crypts of the lieberkuhn	E
+intestine epithelium	intestinal epithelium	E
+intestine mucosa	intestinal mucosa	E
+intestine serosa	intestinal serosal surface	E
+intestine smooth muscle	intestinal smooth muscle tissue	E
+appendix	vermiform appendix	E
+ascending colon	ascending colon	E
+descending colon	descending colon	E
+transverse colon	transverse colon	E
+large intestine crypt of lieberkuhn	large intestinal crypt of the lieberkuhn	E
+large intestine serosa	large intestinal serosal surface	E
+large intestine smooth muscle	large intestinal muscular coat	E
+brunner s gland	brunner s gland	E
+small intestine crypt of lieberkuhn	small intestinal crypt of lieberkuhn	E
+small intestine lamina propria	small intestinal lamina propria	E
+small intestine serosa	small intestinal serosal surface	E
+small intestine smooth muscle	small intestinal muscular coat	E
+small intestine submucosa	small intestinal submucosa	E
+esophagus epithelium	esophageal epithelium	E
+esophagus squamous epithelium	esophageal squamous epithelium	E
+esophagus lamina propria	esophageal lamina propria	E
+esophagus serosa	esophageal serosal surface	E
+gingival epithelium	gingival epithelium	E
+lip skin	skin of the lip	E
+endocrine pancreas	endocrine pancreas	E
+palatine gland	palatine salivary gland	E
+parotid gland	parotid gland	E
+salivary duct	duct salivary gland system	E
+sublingual gland	sublingual salivary gland	E
+submandibular gland	submandibular gland	E
+tongue epithelium	tongue epithelium	E
+tongue papilla	papilla of the tongue	E
+circumvallate papilla	circumvallate papilla	E
+fungiform papilla	fungiform papilla	E
+tongue skeletal muscle	tongue muscle	E
+dental pulp	dental pulp	E
+lower jaw incisor	lower jaw incisor	E
+upper jaw incisor	upper jaw incisor	E
+lower jaw molar	lower jaw molar	E
+upper jaw molar	upper jaw molar	E
+oropharynx epithelium	oropharynx epithelium	E
+stomach cardiac region	cardia	E
+stomach fundus	fundus of the stomach	E
+stomach greater curvature	greater curvature	E
+stomach lesser curvature	lesser curvature	E
+falciform ligament	falciform ligament	E
+lesser omentum	lesser omentum	E
+stomach pyloric antrum	antrum pylori	E
+stomach serosa	gastric serosal surface	E
+stomach smooth muscle	gastric muscular coat	E
+bile duct epithelium	bile duct epithelium	E
+bile duct intrahepatic part	intrahepatic bile duct	E
+common bile duct	common bile duct	E
+gall bladder epithelium	gallbladder epithelium	E
+gall bladder lamina propria	gallbladder lamina propria	E
+gall bladder serosa	gallbladder serosal surface	E
+gall bladder smooth muscle	gallbladder smooth muscle tissue	E
+left hepatic duct	left hepatic duct	E
+right hepatic duct	right hepatic duct	E
+cortical arch	cortical arch	E
+renal column	cortical column	E
+renal pyramid	renal pyramid	E
+left kidney	left kidney	E
+glomerulus	glomerulus	E
+glomerular capillary endothelium	endothelium of the glomerular capillary	E
+glomerular capillary basement membrane	glomerular basement membrane	E
+glomerular capsule	bowman s capsule	E
+urinary space	urinary space	E
+renal convoluted tubule	convoluted tubule	E
+distal convoluted tubule	distal convoluted tubule	E
+proximal convoluted tubule	proximal convoluted tube	E
+loop of henle	loop of henle	E
+loop of henle ascending limb	ascending limb of the henle s loop	E
+loop of henle descending limb	descending limb of the henle s loop	E
+renal tubule basement membrane	renal tubule basement membrane	E
+renal tubule epithelium	renal tubule epithelium	E
+right kidney	right kidney	E
+left ureter	left ureter	E
+right ureter	right ureter	E
+urethra epithelium	urethra epithelium	E
+urethra urothelium	urethra transitional cell epithelium	E
+urethra gland	urethral gland	E
+urinary bladder mucosa	bladder mucosa	E
+urinary bladder urothelium	bladder transitional cell epithelium	E
+urinary bladder fundus region	bladder fundus	E
+urinary bladder lamina propria	bladder lamina propria	E
+urinary bladder serosa	bladder serosal surface	E
+urinary bladder smooth muscle	bladder muscular coat	E
+clitoral gland	glans clitoris	E
+left ovary	left ovary	E
+right ovary	right ovary	E
+ovary capsule	ovarian capsule	E
+ovary follicle	ovarian follicle	E
+ovary growing follicle	growing follicle	E
+ovary mature follicle	graafian follicle	E
+ovary primordial follicle	primordial follicle	E
+ovary germinal epithelium	germinal epithelium	E
+zona pellucida	zona pellucida	E
+left oviduct	left fallopian tube	E
+right oviduct	right fallopian tube	E
+decidua	decidua	E
+cervix epithelium	cervix epithelium	E
+cervix squamous epithelium	cervix squamous epithelium	E
+uterine gland	uterine gland	E
+uterus serosa	uterus serosal surface	E
+vagina epithelium	vaginal epithelium	E
+vagina squamous epithelium	vaginal squamous epithelium	E
+efferent duct epithelium	efferent ductule epithelium	E
+prostate gland epithelium	prostatic epithelium	E
+prostate gland lobe	prostate gland lobe	E
+prostate gland smooth muscle	prostatic muscular tissue	E
+penis erectile tissue	penis erectile tissue	E
+penis foreskin	male prepuce	E
+seminal vesicle epithelium	seminal vesicle epithelium	E
+left testis	left testis	E
+right testis	right testis	E
+seminiferous tubule epithelium	seminiferous epithelium	E
+vas deferens epithelium	vas deferens epithelium	E
+prepuce epithelium	prepuce epithelium	E
+larynx connective tissue	laryngeal connective tissue	E
+larynx ligament	laryngeal ligament	E
+larynx cartilage	laryngeal cartilage	E
+arytenoid cartilage	arytenoid cartilage	E
+cricoid cartilage	cricoid cartilage	E
+epiglottic cartilage	epiglottic cartilage	E
+thyroid cartilage	thyroid cartilage	E
+larynx epithelium	laryngeal epithelium	E
+larynx mucosa	laryngeal mucosa	E
+larynx mucous gland	laryngeal mucous salivary gland	E
+larynx muscle	laryngeal muscle	E
+alveolus epithelium	alveolar epithelium	E
+bronchiole epithelium	bronchiole epithelium	E
+respiratory bronchiole epithelium	respiratory bronchiole epithelium	E
+terminal bronchiole epithelium	terminal bronchiole epithelium	E
+left lung alveolar duct	left lung alveolar duct	E
+left lung alveolus	left lung alveolus	E
+left lung bronchiole	left lung bronchiole	E
+left lung respiratory bronchiole	left lung respiratory bronchiole	E
+left lung terminal bronchiole	left lung terminal bronchiole	E
+left lung hilus	hilar area of the left lung	E
+right lung alveolar duct	right lung alveolar duct	E
+right lung alveolus	right lung alveolus	E
+right lung bronchiole	right lung bronchiole	E
+right lung respiratory bronchiole	right lung respiratory bronchiole	E
+right lung terminal bronchiole	right lung terminal bronchiole	E
+right lung hilus	hilar area of the right lung	E
+right lung lobe	lobe of the right lung	E
+ethmoid sinus	ethmoid sinus	E
+frontal sinus	frontal sinus	E
+maxillary sinus	maxillary sinus	E
+sphenoid sinus	sphenoid sinus	E
+hypopharynx	hypopharynx	E
+pharynx muscle	pharyngeal muscle	E
+lower respiratory tract cartilage	lower respiratory tract cartilage	E
+bronchus connective tissue	bronchus connective tissue	E
+bronchus basement membrane	bronchus basement membrane	E
+bronchus basal lamina	bronchus basal lamina	E
+bronchus cartilage	bronchus cartilage	E
+bronchus lamina propria	bronchus lamina propria	E
+bronchus submucosa	bronchus submucosa	E
+bronchus elastic framework	bronchus elastic tissue	E
+bronchus epithelium	bronchial epithelium	E
+bronchus smooth muscle	bronchus smooth muscle tissue	E
+left main bronchus	left main bronchus	E
+right main bronchus	right main bronchus	E
+trachea basement membrane	trachea basement membrane	E
+trachea basal lamina	trachea basal lamina	E
+trachea cartilage	trachea cartilage	E
+trachea lamina propria	trachea lamina propria	E
+trachea submucosa	trachea submucosa	E
+trachea epithelium	tracheal epithelium	E
+trachea smooth muscle	trachea smooth muscle tissue	E
+nasopharynx epithelium	nasopharynx epithelium	E
+superior sagittal sinus	superior sagittal sinus	E
+nasal cartilage	nasal cartilage	E
+xiphoid cartilage	xiphoid process	E
+corniculate cartilage	corniculate cartilage	E
+external ear cartilage	external ear cartilage	E
+adrenal gland zona fasciculata	fasciculata zone	E
+adrenal gland zona glomerulosa	glomeruloza zone	E
+adrenal gland zona reticularis	reticularis zone	E
+gastrointestinal system lamina propria	gastrointestinal tract lamina propria	E
+gastrointestinal system mesentery	mesentery	E
+diaphragm	diaphragm	E
+jaw	jaw	E
+lower jaw	lower jaw	E
+lower jaw tooth	lower jaw tooth	E
+upper jaw	upper jaw	E
+upper jaw tooth	upper jaw tooth	E
+ocular refractive media	refractile media	E
+alveolar artery	alveolar artery	E
+suprarenal artery	suprarenal artery	E
+anterior cerebral artery	anterior cerebral artery	E
+auricular artery	auricular artery	E
+basilar artery	basilar artery	E
+brachial artery	brachial artery	E
+brachiocephalic trunk	innominate artery	E
+bronchial artery	bronchial artery	E
+buccal artery	buccal artery	E
+carotid artery	carotid artery	E
+common carotid artery	common carotid artery	E
+left common carotid artery	left common carotid artery	E
+right common carotid artery	right common carotid artery	E
+external carotid artery	external carotid artery	E
+internal carotid artery	internal carotid artery	E
+celiac artery	coeliac artery	E
+cerebellar artery	cerebellar artery	E
+superior cerebellar artery	superior cerebellar artery	E
+middle cerebral artery	middle cerebral artery	E
+cervical artery	cervical artery	E
+communicating artery	communicating artery	E
+dorsal metacarpal artery	dorsal metacarpal artery	E
+dorsal nasal artery	dorsal nasal artery	E
+epigastric artery	epigastric artery	E
+ethmoidal artery	ethmoidal artery	E
+facial artery	facial artery	E
+femoral artery	femoral artery	E
+common palmar digital arteries	common palmar digital artery	E
+frontal artery	frontal artery	E
+gastric artery	gastric artery	E
+gastroepiploic artery	gastroepiploic artery	E
+hepatic artery	hepatic artery	E
+common plantar digital arteries	plantar metatarsal artery	E
+ileocolic artery	ileo colic artery	E
+iliac artery	iliac artery	E
+common iliac artery	common iliac artery	E
+external iliac artery	external iliac artery	E
+internal iliac artery	internal iliac artery	E
+iliac circumflex artery	circumflex iliac artery	E
+ilio lumbar artery	iliolumbar artery	E
+infraorbital artery	infraorbital artery	E
+inferior epigastric artery	inferior epigastric artery	E
+inferior rectal artery	inferior rectal artery	E
+intercostal artery	intercostal artery	E
+internal mammary artery	internal mammary artery	E
+labial artery	labial artery	E
+lacrimal artery	lacrimal artery	E
+lateral thoracic artery	lateral thoracic artery	E
+lienal artery	splenic artery	E
+lingual artery	lingual artery	E
+medial plantar artery	medial plantar artery	E
+medial tarsal artery	medial tarsal artery	E
+median artery	median artery	E
+mental artery	mental artery	E
+mesenteric artery	mesenteric artery	E
+inferior mesenteric artery	inferior mesenteric artery	E
+superior mesenteric artery	superior mesenteric artery	E
+middle colic artery	middle colic artery	E
+obturator artery	obturator artery	E
+occipital artery	occipital artery	E
+ophthalmic artery	opthalmic artery	E
+ovarian artery	ovarian artery	E
+pancreatico duodenal artery	pancreatico duodenal artery	E
+inferior pancreatico duodenal artery	inferior pancreatico duodenal artery	E
+superior pancreatico duodenal artery	superior pancreatico duodenal artery	E
+perineal artery	perineal artery	E
+peroneal artery	peroneal artery	E
+phrenic artery	phrenic artery	E
+popliteal artery	popliteal artery	E
+posterior cerebral artery	posterior cerebral artery	E
+posterior communicating artery	posterior communicating artery	E
+profunda brachii artery	superior profunda artery	E
+profunda femoris artery	deep femoral artery	E
+pulmonary artery	pulmonary artery	E
+left pulmonary artery	left pulmonary artery	E
+radial artery	radial artery	E
+renal artery	renal artery	E
+left renal artery	left renal artery	E
+right renal artery	right renal artery	E
+retinal artery	retinal artery	E
+spermatic artery	spermatic artery	E
+left spermatic artery	left spermatic artery	E
+right spermatic artery	right spermatic artery	E
+spinal artery	spinal artery	E
+subclavian artery	subclavian artery	E
+left subclavian artery	left subclavian artery	E
+right subclavian artery	right subclavian artery	E
+subcostal artery	subcostal artery	E
+sublingual artery	sublingual artery	E
+subscapular artery	subscapular artery	E
+superficial cervical artery	superficial cervical artery	E
+inferior suprarenal artery	inferior suprarenal artery	E
+superior suprarenal artery	superior suprarenal artery	E
+external sural artery	external sural artery	E
+temporal artery	temporal artery	E
+thoraco acromial artery	acromial thoracic artery	E
+thoracodorsal artery	thoracodorsal artery	E
+thyroid artery	thyroid artery	E
+tibial artery	tibial artery	E
+transverse facial artery	transverse facial artery	E
+ulnar artery	ulnar artery	E
+vertebral artery	vertebral artery	E
+inferior vesical artery	inferior vesical artery	E
+superior vesical artery	superior vesical artery	E
+anterior auricular vein	anterior auricular vein	E
+axillary vein	axillary vein	E
+azygos vein	azygos vein	E
+basilic vein	basilic vein	E
+brachial vein	brachial vein	E
+bronchial vein	bronchial vein	E
+caudal auricular vein	posterior auricular vein	E
+cephalic vein	cephalic vein	E
+cerebellar vein	cerebellar vein	E
+cerebral vein	cerebral vein	E
+cutaneous vein	cutaneous vein	E
+digital vein	digital vein	E
+dorsal metatarsal vein	dorsal metatarsal vein	E
+epigastric vein	epigastric vein	E
+facial vein	facial vein	E
+anterior facial vein	anterior facial vein	E
+femoral vein	femoral vein	E
+medial femoral vein	medial femoral vein	E
+superficial palmal arch	superficial palmar arch	E
+gastric vein	gastric vein	E
+great vein of heart	great cardiac vein	E
+ileal vein	ileal vein	E
+ileocolic vein	ileocolic vein	E
+iliac vein	iliac vein	E
+common iliac vein	common iliac vein	E
+external iliac vein	external iliac vein	E
+internal iliac vein	internal iliac vein	E
+ilio lumbar vein	iliolumbar vein	E
+inferior palpebral vein	inferior palpebral vein	E
+internal mammary vein	internal mammary vein	E
+jugular vein	jugular vein	E
+anterior jugular vein	anterior jugular vein	E
+external jugular vein	external jugular vein	E
+internal jugular vein	internal jugular vein	E
+lienal vein	splenic vein	E
+masseteric vein	masseteric vein	E
+median vein	median vein	E
+mesenteric vein	mesenteric vein	E
+inferior mesenteric vein	inferior mesenteric vein	E
+superior mesenteric vein	superior mesenteric vein	E
+obturator vein	obturator vein	E
+ophthalmic plexus	ophthalmic plexus	E
+ovarian vein	ovarian vein	E
+pericardiacophrenic vein	pericardiacophrenic vein	E
+pancreatic vein	pancreatic vein	E
+pancreatico duodenal vein	pancreatico duodenal vein	E
+inferior pancreatico duodenal vein	inferior pancreatico duodenal vein	E
+phrenic vein	phrenic vein	E
+popliteal vein	popliteal vein	E
+portal vein	portal vein	E
+pulmonary vein	pulmonary vein	E
+left pulmonary vein	left pulmonary vein	E
+right pulmonary vein	right pulmonary vein	E
+renal vein	renal vein	E
+left renal vein	left renal vein	E
+right renal vein	right renal vein	E
+retinal vein	retinal vein	E
+saphenous vein	saphenous vein	E
+great saphenous vein	long saphenous vein	E
+small saphenous vein	short saphenous vein	E
+spermatic vein	spermatic vein	E
+left spermatic vein	left spermatic vein	E
+right spermatic vein	right spermatic vein	E
+subclavian vein	subclavian vein	E
+subcostal vein	subcostal vein	E
+submental vein	submental vein	E
+superior intercostal vein	superior intercostal vein	E
+supraorbital vein	supra orbital vein	E
+suprarenal vein	suprarenal vein	E
+thoracic vein	thoracic vein	E
+internal thoracic vein	internal thoracic vein	E
+temporal vein	temporal vein	E
+deep temporal vein	deep temporal vein	E
+superficial temporal vein	superficial temporal vein	E
+tibial vein	tibial vein	E
+anterior tibial vein	anterior tibial vein	E
+posterior tibial vein	posterior tibial vein	E
+thymic vein	thymic vein	E
+vertebral vein	vertebral vein	E
+abductor pollicis longus	abductor pollicis longus	E
+adductor group leg	adductor group of the leg	E
+anterior abdominal wall muscle	anterior abdominal wall muscle	E
+biceps brachii	biceps	E
+biceps femoris	biceps femoris	E
+brachialis	brachialis	E
+buccinator	buccinator	E
+bulboglandular	bulboglandular	E
+cleidobrachial	cleidobrachial	E
+cleidocephalic	cleidocephalic	E
+cleidooccipital	cleidooccipital	E
+coccygeus	coccygeal muscle	E
+constrictor muscle of pharynx inferior	cricopharyngeus muscle	E
+constrictor muscle of pharynx superior	superior constrictor muscle	E
+constrictor vulvae	constrictor vulvae	E
+coracobrachial	coracobrachialis	E
+cricoarytenoid	cricoarytenoid muscle	E
+cricothyroid	cricothyroid muscle	E
+cutaneous trunci	cutaneous trunci	E
+deltoid	deltoid	E
+depressor labii inferioris	depressor labii inferioris	E
+digastric	digastric muscle	E
+erector spinae	erector spinae	E
+extensor carpi radialis brevis	extensor carpi radialis brevis	E
+extensor carpi radialis longus	extensor carpi radialis longus	E
+extensor carpi ulnaris	extensor carpi ulnaris	E
+extensor digitorum communis	extensor digitorum communis	E
+extensor digitorum lateralis	extensor digitorum lateralis	E
+extensor digitorum longus	extensor digitorum longus	E
+flexor carpi radialis	flexor carpi radialis	E
+flexor carpi ulnaris	flexor carpi ulnaris	E
+flexor digitorum longus	flexor digitorum longus	E
+flexor digitorum profundus	flexor digitorum profundus	E
+flexor hallucis longus	flexor hallucis longus	E
+foot interosseus muscle	foot interosseous muscle	E
+dorsal foot interosseus muscle	dorsal foot interosseous muscle	E
+plantar foot interosseus muscle	plantar foot interosseus muscle	E
+gastrocnemius	gastrocnemius muscle	E
+genioglossus	genioglossus	E
+geniohyoid	geniohyoid	E
+gluteus maximus	gluteus maximus	E
+gluteus medius	gluteus medius	E
+gracilis	gracilis	E
+hamstring muscle	hamstring	E
+hand interosseous muscle	hand interosseous muscle	E
+dorsal hand interosseus muscle	dorsal hand interosseous muscle	E
+palmar hand interosseus muscle	palmar hand interosseus muscle	E
+hyoglossus	hyoglossus muscle	E
+iliacus	iliacus	E
+iliocostalis	iliocostal muscle	E
+iliopsoas	iliopsoas muscle	E
+iliothoracic	iliothoracic	E
+infraspinatus	infraspinatus	E
+intercostales	intercostal muscle	E
+intercostales externus	external intercostal muscle	E
+intrinsic tongue muscle transverse component	intrinsic tongue muscle transverse component	E
+intrinsic tongue muscle vertical component	intrinsic tongue muscle vertical component	E
+ischiocavernosus	ischiocavernosus	E
+latissimus dorsi	musculus latissimus dorsi	E
+levator ani	levator ani	E
+levator labii superioris	levator labii superioris	E
+levator nasolabialis	levator nasolabialis	E
+longissimus capitis	longissimus capitis	E
+longissimus cervicis	longissimus cervicis	E
+longissimus lumborum	longissimus lumborum	E
+longissimus thoracis	longissimus thoracis	E
+longus capitis	longus capitis	E
+longus colli	longus colli	E
+masseter	masseter muscle	E
+mylohyoid	mylohyoid	E
+obliquus externus abdominis	external oblique muscle	E
+obliquus internus abdominis	internal oblique muscle	E
+obturator externus	obturator externus muscle	E
+omohyoid	omohyoid	E
+omotransverse	omotransverse	E
+palatoglossus	palatoglossus muscle	E
+parotidoauricular	parotidoauricular	E
+pectineus	pectineus	E
+pectoralis major	pectoralis major	E
+pectoralis minor	pectoralis minor	E
+peroneus longus	peroneus longus	E
+pronator teres	pronator teres	E
+psoas major	psoas major	E
+psoas minor	psoas minor	E
+pterygoid lateralis	external pterygoid muscle	E
+pterygoid medialis	internal pterygoid muscle	E
+quadratus lumborum	quadratus lumborum	E
+quadriceps	quadriceps muscle of the thigh	E
+rectus abdominis	rectus abdominis	E
+rectus femoris	rectus femoris	E
+sartorius	sartorius muscle	E
+scalenus dorsalis	scalenus dorsalis	E
+scalenus medius	scalenus medius	E
+semimembranosus	semimembranosus	E
+semispinalis capitis	semispinalis capitis	E
+semispinalis cervicis	semispinalis cervicis	E
+semispinalis thoracis	semispinalis thoracis	E
+semitendinosus	semitendinosus	E
+serratus dorsalis caudalis	serratus dorsalis caudalis	E
+serratus dorsalis cranialis	serratus dorsalis cranialis	E
+serratus ventralis	serratus ventralis	E
+sphincter colli superficialis	sphincter colli superficialis	E
+spinalis thoracis	spinalis thoracis	E
+splenius	splenius	E
+sternohyoid	sternohyoid	E
+sternomastoid	sternocleidomastoid muscle	E
+sternooccipital	sternooccipital	E
+sternothyroid	sternothyroid	E
+styloglossus	styloglossus	E
+subscapularis	subscapularis	E
+supraspinatus	supraspinatus	E
+temporalis	temporal muscle	E
+tensor fasciae lata	tensor fasciae lata	E
+teres major	teres major muscle	E
+thyrohyoid	thyrohyoid	E
+tibialis caudalis	tibialis caudalis	E
+tibilais cranialis	tibialis cranialis	E
+transversus abdominis	transversus abdominis	E
+transversus thoracis	transversus thoracis	E
+trapezius	trapezius muscle	E
+triceps brachii	triceps	E
+triceps surae	triceps surae	E
+urethralis	urethralis	E
+vastus lateralis	vastus lateralis	E
+zygomaticus	zygomaticus	E
+ganglion	ganglion	E
+nerve plexus	nerve plexus	E
+exocrine system	exocrine system	E
+soft palate	soft palate	E
+olfactory lobe	olfactory lobe	E
+exocrine pancreas	exocrine pancreas	E
+vertebral column	vertebral column	E
+pancreatic acinus	pancreatic acinus	E
+musculoskeletal system	musculoskeletal system	E
+gonad	gonad	E
+pectoralis muscle	pectoralis muscle	E
+soleus	soleus	E
+tibialis muscle	tibialis	E
+cerebellum white matter	cerebellum white matter	E
+digestive system	gastrointestinal system	E
+oculomotor muscle	oculomotor muscle	E
+hematopoietic system	hematopoietic system	E
+lymphoid system	lymphatic system	E
+lymphoid tissue	lymphoid tissue	E
+muscle tissue	muscle tissue	E
+striated muscle tissue	striated muscle tissue	E
+skeletal muscle tissue	skeletal muscle tissue	E
+smooth muscle tissue	smooth muscle tissue	E
+sensory organ system	special sense organ system	E
+auditory system	auditory system	E
+visual system	visual system	E
+body cavity	cavity	E
+body fluid substance	body fluid or substance	E
+eye sebaceous gland	sebaceous gland of the eyelash	E
+coronary artery	coronary artery	E
+left coronary artery	left coronary artery	E
+right coronary artery	right coronary artery	E
+eye chamber	chamber of the eye	E
+eye posterior chamber	posterior chamber of the eye	E
+vitreous chamber	vitreous chamber	E
+vitreous body	vitreous body	E
+labium	labium	E
+vaginal hymen	hymen	E
+perineum	perineum	E
+periodontal ligament	periodontium	E
+ear lobe	lobule of the auricle	E
+parasympathetic ganglion	parasympathetic ganglion	E
+submandibular ganglion	submandibular ganglion	E
+face	face	E
+cheek	cheek	E
+palate	palate	E
+hard palate	hard palate	E
+major salivary gland	major salivary gland	E
+minor salivary gland	minor salivary gland	E
+uvea	uvea	E
+orbit	orbit	E
+eye anterior segment	anterior eye segment	E
+eye posterior segment	posterior eye segment	E
+spleen pulp	splenic pulp	E
+parietal pleura	parietal pleura	E
+visceral pleura	visceral pleura	E
+urinary bladder muscularis mucosa	bladder muscularis mucosa	E
+urinary bladder neck	bladder neck	E
+urinary bladder trigone	bladder trigone	E
+urinary bladder wall	bladder wall	E
+liver lobule	hepatic lobule	E
+bile canaliculus	bile canaliculus	E
+liver acinus	liver acinus	E
+liver perisinusoidal space	perisinusoidal space	E
+portal lobule	portal lobule	E
+portal triad	portal triad	E
+right pulmonary artery	right pulmonary artery	E
+plasma	plasma	E
+serum	serum	E
+cerebrospinal fluid	cerebrospinal fluid	E
+exocrine gland fluid secretion	exocrine gland fluid or secretion	E
+mammary gland fluid secretion	breast fluid or secretion	E
+cerumen	cerumen	E
+saliva	saliva	E
+tear	tear	E
+feces	feces	E
+female reproductive system fluid secretion	female genital system fluid or secretion	E
+ovary follicle fluid	ovarian follicle fluid	E
+digestive system fluid secretion	gastrointestinal fluid or secretion	E
+bile	bile	E
+esophagus secretion	esophagus secretion	E
+intestine secretion	intestinal secretion	E
+pancreas secretion	pancreatic secretion	E
+endocrine pancreas secretion	pancreatic endocrine secretion	E
+exocrine pancreas secretion	pancreatic exocrine secretion	E
+stomach secretion	gastric secretion	E
+lymph	lymph	E
+male reproductive system fluid secretion	male genital system fluid or secretion	E
+semen	semen	E
+seminal fluid	seminal fluid	E
+bulbourethral gland secretion	bulbourethral gland secretion	E
+prostate gland secretion	prostate gland secretion	E
+seminal vesicle secretion	seminal vesicle secretion	E
+otolymph	otolymph	E
+endolymph	endolymph	E
+perilymph	perilymph	E
+respiratory system fluid secretion	respiratory system fluid or secretion	E
+lung surfactant	lung surfactant	E
+nasal mucus	nasal mucus	E
+sputum	sputum	E
+skin fluid secretion	skin fluid or secretion	E
+sebum	sebum	E
+sweat	sweat	E
+tooth substance	tooth tissue	E
+cementum	cementum	E
+dentin	dentin	E
+enamel	enamel	E
+synovial fluid	synovial fluid	E
+urine	urine	E
+juxtaglomerular complex	juxtaglomerular apparatus	E
+colostrum	colostrum	E
+mammary gland milk	breast milk	E
+psoas muscle	psoas muscle	E
+popliteus	popliteus muscle	E
+scaphoid	scaphoid bone	E
+lunate	lunate bone	E
+stomach body	body of stomach	E
+stomach pyloric region	pylorus	E
+cerebral artery	cerebral artery	E
+endocrine gland	endocrine gland	E
+exocrine gland	exocrine gland	E
+sebaceous gland	sebaceous gland	E
+sensory ganglion	sensory ganglion	E
+corpora quadrigemina	quadrigeminal body	E
+alveolar wall	alveolar wall	E
+thoracic aorta	thoracic aorta	E
+ascending aorta	ascending aorta	E
+descending aorta	descending aorta	E
+axillary artery	axillary artery	E
+anterior tibial artery	anterior tibial artery	E
+posterior tibial artery	posterior tibial artery	E
+atrioventricular bundle	atrioventricular bundle	E
+afferent arteriole	renal afferent vessel	E
+interlobular artery	interlobular artery	E
+efferent arteriole	renal efferent vessel	E
+glomerular capillary	glomerular capillary	E
+macula densa	macula densa	E
+glomerular parietal epithelium	parietal layer of bowman s capsule	E
+glomerular visceral epithelium	visceral layer of bowman s capsule	E
+kidney interstitium	renal interstitial tissue	E
+mesangium	mesangium	E
+female urethra	female urethra	E
+male urethra	male urethra	E
+prostatic urethra	prostatic portion of the male urethra	E
+membranous urethra	membranous urethra	E
+bile duct extrahepatic part	extrahepatic bile duct	E
+common hepatic duct	common hepatic duct	E
+extrahepatic bile duct epithelium	extrahepatic bile duct epithelium	E
+intrahepatic bile duct epithelium	intrahepatic bile duct epithelium	E
+intrahepatic part of left hepatic duct	intrahepatic portion of the left hepatic duct	E
+intrahepatic part of right hepatic duct	intrahepatic portion of the right hepatic duct	E
+hilar part of hepatic duct	hilar portion of the hepatic duct	E
+hilar part of left hepatic duct	hilar portion of the left hepatic duct	E
+hilar part of right hepatic duct	hilar portion of the right hepatic duct	E
+interlobular bile duct	interlobular bile duct	E
+intralobular bile duct	canal of hering	E
+spleen hilum	splenic hilum	E
+splenic cord	splenic cord	E
+spleen lymphoid follicle	splenic lymphoid follicle	E
+thymus lymphoid tissue	thymic lymphoid tissue	E
+thymus trabecula	thymic trabecula	E
+thyroid gland capsule	thyroid gland capsule	E
+parathyroid gland capsule	parathyroid gland capsule	E
+parathyroid gland parenchyma	parathyroid gland tissue	E
+filiform papilla	filiform papilla	E
+foliate papilla	foliate papilla	E
+esophagus mucosa	esophageal mucosa	E
+esophagus muscularis mucosa	esophageal muscularis mucosa	E
+esophagus muscle	esophageal muscularis mucosa	E
+stomach mucosa	gastric mucosa	E
+stomach muscularis mucosa	gastric muscularis mucosa	E
+stomach submucosa	gastric submucosa	E
+small intestine mucosa	small intestinal mucosa	E
+small intestine muscularis mucosa	small intestinal muscularis mucosa	E
+large intestine mucosa	large intestinal mucosa	E
+large intestine muscularis mucosa	large intestinal muscularis mucosa	E
+large intestine submucosa	large intestinal submucosa	E
+small intestine wall	small intestinal wall tissue	E
+parotid duct	parotid duct	E
+submandibular duct	submandibular duct	E
+anterior buccal gland	buccal salivary gland	E
+anterior lingual gland	lingual salivary gland	E
+eyelash	eyelash	E
+nail	nail	E
+skin muscle	cutaneous muscle	E
+immune system	immune system	E
+vascular system	vascular system	E
+venous system	venous system	E
+anterior commissure	anterior commissure	E
+glans penis	glans penis	E
+renal papilla	renal papilla	E
+endometrium stroma	endometrial stroma	E
+posterior commissure	posterior commissure	E
+fornix	cerebral fornix	E
