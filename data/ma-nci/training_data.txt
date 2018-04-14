@@ -10357,7 +10357,8 @@ main bronchus	left main stem bronchus	E
 refractive media	refractile media	E
 nucleus of the solitary tract	nucleus of the solitary tract	E
 reproductive system	reproductive system	E
-synovial joint	diarthrosis	Emammary lobule	lobular	E
+synovial joint	diarthrosis	E
+mammary lobule	lobular	E
 intestine	gastrointestinal tracts	E
 external oblique muscle	abdominal external oblique muscle	E
 male reproductive system	male reproductive systems	E

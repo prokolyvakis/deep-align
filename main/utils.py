@@ -20,7 +20,7 @@ def checkIfQuarter(idx, n):
     if idx == round(n / 4.) or idx == round(n / 2.) or idx == round(3 * n / 4.):
         return True
     return False
-
+    
 def saveParams(model, fname):
     f = file(fname, 'wb')
     pickle.dump(model.all_params, f, protocol=pickle.HIGHEST_PROTOCOL)

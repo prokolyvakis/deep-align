@@ -7,6 +7,8 @@ import theano
 from theano import config
 import utils
 from tree import lookupIDX
+import keras
+import time
 
 def getSeq(p,words):
     p = p.split()
@@ -51,3 +53,16 @@ def evaluate(model,words,file,params):
 
 def evaluate_all(model,words):
     raise NotImplementedError
+    
+class TimeHistory(keras.callbacks.Callback):
+    def on_train_begin(self, logs={}):
+        self.times = []
+
+    def on_epoch_begin(self, batch, logs={}):
+        self.epoch_time_start = time.time()
+
+    def on_epoch_end(self, batch, logs={}):
+        self.times.append(time.time() - self.epoch_time_start)
+        
+    def overall_training_time(self):
+        return np.sum(self.times)

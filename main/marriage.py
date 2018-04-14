@@ -37,7 +37,8 @@ def ontology_alignment(model, ontoTerms_a, ontoTerms_b, words, ceil = 0.5):
                 try:
                     ontoText_a.remove(text_a)
                 except ValueError:
-                    print(text_a)
+                    pass
+                    #print(text_a)
                 try:
                     ontoText_b.remove(text_b)
                 except ValueError:
@@ -60,8 +61,10 @@ def ontology_alignment(model, ontoTerms_a, ontoTerms_b, words, ceil = 0.5):
     
     males    = preferances(dist)
     females  = preferances(disT)
+    del(disT)
     match = Matcher(males, females)
     marriage = match()
+    del(males); del(females)
 
     for key, value in marriage.items():
         man         = ontoText_a[value]
@@ -90,20 +93,24 @@ def alignment_evaluation(model, words, alignments, ground_truth, choice='1-1'):
     found = set()
     cnt = 0; noise=0;
     corrects = []; wrongs = []; whole = []
+    probs_pred = []; y_true=[]
     for man, woman, value in alignments:
         msg =  '(%s, %s) -> %f' % (man, woman, value)
         if (man, woman) in truth: 
             corrects.append(msg)
             cnt+=1
             found.add((man, woman))
+            y_true.append(1)
         elif (woman, man) in truth:
             corrects.append(msg)
             cnt+=1
             found.add((woman, man))
+            y_true.append(1)
         else:
             msg = WARNING + msg + ENDC
             wrongs.append(msg)
             noise+=1; 
+            y_true.append(0)
         whole.append(msg)
 
     not_found = list(set(truth) - set(found))
@@ -131,7 +138,8 @@ def alignment_evaluation(model, words, alignments, ground_truth, choice='1-1'):
     print('The number of Alignments is: %d' % (numOfAllignments1vs1 if choice == '1-1' else numOfAllignments))
     print('The number of found Alignments is: %d' % (cnt))
     print('The noise is: %d' % (noise))
-    return (whole, not_found_, (numOfAllignments1vs1 if choice == '1-1' else numOfAllignments), cnt, noise)
+    return (whole, not_found_, (numOfAllignments1vs1 if choice == '1-1' else numOfAllignments), \
+            cnt, noise, probs_pred, y_true)
     
 def idxInMapsCluster(origin, target, cluster):
     query = (origin, target)

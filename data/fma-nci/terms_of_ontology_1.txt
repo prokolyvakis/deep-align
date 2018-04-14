@@ -2704,7 +2704,7 @@ set of cell parts
 set of cells
 set of central neuroglial cells
 set of cerebellar veins
-set of cereb/Users/pro/Documents/MyScripts/seq-counter-fitting/data/LargeBio_dataset_oaei2016/fma-nci/nci-with-fma.txtral gyri
+set of cerebral gyri
 set of cerebral veins
 set of cervical glands
 set of cervical vertebrae
