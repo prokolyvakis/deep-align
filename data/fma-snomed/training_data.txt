@@ -11774,7 +11774,8 @@ root of tooth	radix dentis	E
 brain stem	brainstem	E
 aortic hiatus	aortic aperture	E
 distal epiphysis of phalanx of ring finger	head of phalanx of fourth digit of hand	E
-right posterior aortic sinus	posterior sinus of valsalva	Eareolar connective tissue	loose areolar connective tissue	E
+right posterior aortic sinus	posterior sinus of valsalva	E
+areolar connective tissue	loose areolar connective tissue	E
 dorsal gray column of spinal cord	posterior gray horn of spinal cord	E
 set of sesamoid bones	sesamoid bones of foot	E
 fifth	5	E
